@@ -1,0 +1,411 @@
+﻿OBJECTID,reporting_event_number,RuledDate,HomicideDate,District,VictimAge,Race,Gender,Weapon,HOUR_OF_DAY,DAY_OF_WEEK,YEAR,QUARTER,MONTH,NEIGHBORHOOD,Ethnicity_NIBRS
+409,172068628,2017/08/20 06:17:15+00,2017/08/20 06:17:00+00,A1,28,Black or African American,Male,GSW,2,1,2017,3,8,Downtown,Hispanic or Latinx
+410,172035480,2017/05/06 01:58:00+00,2017/05/06 00:38:00+00,C6,59,White,Male,STAB,20,6,2017,2,5,South Boston,Not Hispanic or Latinx
+411,192041946,2019/06/04 20:50:59+00,2019/06/04 14:58:57+00,D4,60,Black or African American,Male,GSW,10,3,2019,2,6,Back Bay,Not Hispanic or Latinx
+412,162085432,2016/10/27 19:13:55+00,2016/10/18 21:43:00+00,C11,41,Black or African American,Male,GSW,17,3,2016,4,10,Dorchester,Not Hispanic or Latinx
+413,202005879,2020/01/23 00:15:39+00,2020/01/23 00:15:39+00,C11,23,Black or African American,Male,GSW,19,4,2020,1,1,Dorchester,Not Hispanic or Latinx
+414,232057539,2023/07/27 22:24:21+00,2023/07/21 03:34:34+00,A1,21,Black or African American,Female,STAB,23,5,2023,3,7,Downtown,Not Hispanic or Latinx
+415,162044119,2016/06/06 03:16:00+00,2016/06/05 03:16:00+00,B3,33,Black or African American,Male,GSW,23,7,2016,2,6,Dorchester,Not Hispanic or Latinx
+416,202046952,2020/07/04 03:03:38+00,2020/07/04 03:03:38+00,C11,36,White,Male,STAB,23,6,2020,3,7,Dorchester,Hispanic or Latinx
+417,232007576,2023/01/29 20:58:40+00,2023/01/29 16:32:54+00,B3,13,,Male,GSW,11,1,2023,1,1,Mattapan,
+418,152096420,2015/11/20 13:52:21+00,2015/11/20 22:58:21+00,E13,24,White,Male,GSW,17,6,2015,4,11,Jamaica Plain,Hispanic or Latinx
+419,202077762,2020/10/21 22:51:32+00,2020/10/21 22:51:31+00,E13,45,Black or African American,Male,GSW,18,4,2020,4,10,Jamaica Plain,Not Hispanic or Latinx
+420,212034069,2021/05/23 13:49:40+00,2021/05/24 02:48:08+00,B2,26,Black or African American,Male,GSW,22,1,2021,2,5,Dorchester,Not Hispanic or Latinx
+421,212082297,2021/11/10 04:00:27+00,2021/11/10 04:00:27+00,B3,48,Black or African American,Female,GSW,23,3,2021,4,11,Mattapan,Not Hispanic or Latinx
+422,222057902,2022/08/01 19:46:09+00,2022/08/01 16:06:07+00,B3,33,Black or African American,Male,GSW,12,2,2022,3,8,Dorchester,Not Hispanic or Latinx
+423,182102684,2018/12/21 05:34:00+00,2018/12/21 05:34:00+00,B2,43,Black or African American,Male,GSW,0,6,2018,4,12,Roxbury,Not Hispanic or Latinx
+424,I172018048,2017/03/07 12:50:51+00,2017/03/07 12:45:00+00,B2,35,Black or African American,Male,STAB,7,3,2017,1,3,Dorchester,Not Hispanic or Latinx
+425,172047249,2017/06/13 19:35:44+00,2017/06/13 22:59:20+00,B3,19,Black or African American,Male,GSW,18,3,2017,2,6,Mattapan,Not Hispanic or Latinx
+426,172101369,2017/12/06 15:53:10+00,2017/12/07 00:57:00+00,B2,19,White,Male,GSW,19,4,2017,4,12,Mission Hill,Hispanic or Latinx
+427,202090225,2020/12/09 01:33:08+00,2020/12/09 00:30:08+00,E13,58,Black or African American,Female,Trauma,19,3,2020,4,12,Roxbury,Not Hispanic or Latinx
+428,222033321,2022/05/10 19:16:56+00,2022/05/11 01:41:27+00,E18,40,Black or African American,Female,STAB,21,3,2022,2,5,Mattapan,Not Hispanic or Latinx
+429,152005273,2015/01/21 17:19:31+00,2015/01/20 16:03:00+00,B2,44,White,Male,GSW,11,3,2015,1,1,Longwood,Not Hispanic or Latinx
+430,202015077,2020/02/25 00:34:06+00,2020/02/25 00:34:06+00,B3,29,Black or African American,Male,GSW,19,2,2020,1,2,Mattapan,Not Hispanic or Latinx
+431,182002786,2018/01/11 18:46:00+00,2018/01/11 18:46:00+00,B2,22,Black or African American,Male,GSW,13,5,2018,1,1,Roxbury,Not Hispanic or Latinx
+432,232014078,2023/02/21 23:45:41+00,2023/02/22 00:36:14+00,C11,21,,Male,GSW,19,3,2023,1,2,Dorchester,
+433,222081761,2022/10/24 01:42:31+00,2022/10/23 08:47:26+00,E18,33,Black or African American,Female,GSW,4,1,2022,4,10,Mattapan,Not Hispanic or Latinx
+434,192070453,2019/09/04 03:25:06+00,2019/09/04 03:25:53+00,A7,22,White,Male,STAB,23,3,2019,3,9,East Boston,Hispanic or Latinx
+435,232017322,2023/03/05 23:35:31+00,2023/03/06 04:34:00+00,E13,44,Black or African American,Male,GSW,23,1,2023,1,3,Jamaica Plain,Not Hispanic or Latinx
+436,202034336,2020/05/18 13:49:38+00,2020/05/18 16:05:59+00,B3,49,Black or African American,Male,GSW,12,2,2020,2,5,Dorchester,Not Hispanic or Latinx
+437,212059355,2021/08/23 13:52:20+00,2021/08/23 10:13:33+00,C6,29,Black or African American,Male,STAB,6,2,2021,3,8,South Boston,Not Hispanic or Latinx
+438,152071596,2015/08/31 14:57:07+00,2015/08/29 06:42:00+00,B2,27,Black or African American,Male,GSW,2,7,2015,3,8,Dorchester,Not Hispanic or Latinx
+439,152104401,2015/12/19 19:56:01+00,2015/12/18 21:00:00+00,B2,17,Black or African American,Male,GSW,16,6,2015,4,12,Mission Hill,Not Hispanic or Latinx
+440,192002129,2019/01/08 21:31:00+00,2019/01/08 21:31:00+00,B2,28,Black or African American,Male,GSW,16,3,2019,1,1,Roxbury,Not Hispanic or Latinx
+441,182094714,2019/02/24 17:27:31+00,2018/11/24 06:35:31+00,E13,49,Black or African American,Male,GSW,1,7,2018,4,11,Roxbury,Not Hispanic or Latinx
+442,202068185,2020/09/17 23:28:38+00,2020/09/17 23:28:38+00,A15,24,Black or African American,Male,GSW,19,5,2020,3,9,Charlestown,Hispanic or Latinx
+443,172096502,2017/11/19 23:19:10+00,2017/11/19 11:19:00+00,E5,40,White,Male,STAB,6,1,2017,4,11,West Roxbury,Not Hispanic or Latinx
+444,182067317,2018/08/22 23:12:00+00,2018/08/22 23:12:00+00,B2,18,Black or African American,Male,GSW,19,4,2018,3,8,Roxbury,Not Hispanic or Latinx
+445,182080967,2018/10/07 03:35:00+00,2018/10/07 03:35:00+00,C11,62,Black or African American,Male,GSW,23,7,2018,4,10,Dorchester,Not Hispanic or Latinx
+446,212012715,2021/02/27 23:17:11+00,2021/02/27 10:44:50+00,C6,40,Black or African American,Male,STAB,5,7,2021,1,2,Roxbury,Not Hispanic or Latinx
+447,222053517,2022/07/17 20:13:10+00,2022/07/18 01:14:27+00,B3,33,Black or African American,Male,GSW,21,1,2022,3,7,,Not Hispanic or Latinx
+448,162103433,2016/12/20 20:17:43+00,2016/12/20 05:50:00+00,B2,34,Black or African American,Female,STAB,0,3,2016,4,12,Dorchester,Not Hispanic or Latinx
+449,182026852,2018/04/11 01:00:00+00,2018/04/11 01:00:00+00,A1,53,Black or African American,Male,STAB,21,3,2018,2,4,West End,Not Hispanic or Latinx
+450,152054787,2015/07/02 14:43:39+00,2015/07/03 03:08:00+00,B2,22,Black or African American,Male,GSW,23,5,2015,3,7,Roxbury,Hispanic or Latinx
+451,080644488,2016/05/19 21:38:34+00,2008/11/05 17:40:34+00,C11,24,Black or African American,Male,GSW,12,4,2008,4,11,Dorchester,Not Hispanic or Latinx
+452,172062994,2017/08/02 21:00:32+00,2017/08/02 20:02:32+00,C11,32,Black or African American,Male,GSW,16,4,2017,3,8,Dorchester,Not Hispanic or Latinx
+453,222086858,2022/11/09 20:59:58+00,2022/11/09 18:13:31+00,B3,35,Black or African American,Male,GSW,13,4,2022,4,11,Dorchester,Not Hispanic or Latinx
+454,192054283,2019/07/15 03:37:26+00,2019/07/15 03:37:00+00,B2,22,Black or African American,Male,GSW,23,1,2019,3,7,Dorchester,Not Hispanic or Latinx
+455,202046620,2020/07/03 00:14:06+00,2020/07/03 00:14:06+00,B3,22,Black or African American,Male,GSW,20,5,2020,3,7,Mattapan,Not Hispanic or Latinx
+456,202054205,2020/07/31 19:57:31+00,2020/07/31 11:27:06+00,C6,27,Black or African American,Male,STAB,7,6,2020,3,7,South Boston,Not Hispanic or Latinx
+457,162090597,2016/11/05 05:00:59+00,2016/11/05 04:39:14+00,C11,29,Black or African American,Male,GSW,0,7,2016,4,11,Dorchester,Not Hispanic or Latinx
+458,182041332,2018/05/29 21:38:00+00,2018/05/29 21:38:00+00,E18,41,Black or African American,Male,STAB,17,3,2018,2,5,Hyde Park,Not Hispanic or Latinx
+459,212045699,2021/07/05 13:30:51+00,2021/07/05 07:07:52+00,B2,29,Black or African American,Male,GSW,3,2,2021,3,7,Roxbury,Not Hispanic or Latinx
+460,162082657,2016/10/09 03:00:41+00,2016/10/09 02:56:44+00,E13,19,White,Male,GSW,22,7,2016,4,10,Jamaica Plain,Hispanic or Latinx
+461,152077031,2015/09/17 17:59:33+00,2015/09/16 16:12:00+00,B2,23,Black or African American,Male,GSW,12,4,2015,3,9,Mission Hill,Not Hispanic or Latinx
+462,182043571,2020/10/29 15:15:09+00,2018/06/06 03:59:09+00,B3,74,White,Male,Trauma,23,3,2018,2,6,Dorchester,Not Hispanic or Latinx
+463,162008434,2016/02/03 20:23:29+00,2016/02/01 02:38:00+00,B2,3,Black or African American,Male,Trauma,21,1,2016,1,1,Roxbury,Not Hispanic or Latinx
+464,202049078,2020/07/12 04:49:32+00,2020/07/12 04:49:32+00,B2,49,Black or African American,Male,GSW,0,1,2020,3,7,Roxbury,Not Hispanic or Latinx
+465,142049954,2015/03/09 14:30:05+00,2014/11/18 07:21:00+00,E18,47,White,Female,Other,2,3,2014,4,11,Hyde Park,Not Hispanic or Latinx
+466,050538334,2021/05/27 15:54:51+00,2005/10/07 10:30:17+00,D14,23,Black or African American,Male,GSW,6,6,2005,4,10,Allston,Not Hispanic or Latinx
+467,212038114,2021/06/07 17:05:05+00,2021/06/08 00:47:05+00,B2,32,Black or African American,Male,GSW,20,2,2021,2,6,Mission Hill,Hispanic or Latinx
+468,232051641,2023/07/02 01:10:29+00,2023/07/01 04:12:05+00,B2,30,White,Male,GSW,0,7,2023,3,7,Mission Hill,Hispanic or Latinx
+469,202068185,2020/09/22 14:12:29+00,2020/09/17 23:28:22+00,A15,28,Black or African American,Male,GSW,19,5,2020,3,9,Charlestown,Hispanic or Latinx
+470,162048538,2016/06/19 18:58:36+00,2016/06/19 03:06:00+00,B3,31,Black or African American,Male,GSW,23,7,2016,2,6,Mattapan,Not Hispanic or Latinx
+471,202027248,2020/04/15 19:38:14+00,2020/04/15 19:37:14+00,C11,17,Black or African American,Female,GSW,15,4,2020,2,4,Dorchester,Not Hispanic or Latinx
+472,172037777,2017/05/14 02:57:53+00,2017/05/14 02:57:53+00,C11,22,Black or African American,Male,GSW,22,7,2017,2,5,Dorchester,Not Hispanic or Latinx
+473,182080649,2018/10/05 22:48:00+00,2018/10/05 22:48:00+00,B2,22,White,Male,GSW,18,6,2018,4,10,Dorchester,Hispanic or Latinx
+474,142048794,2016/02/02 05:03:32+00,2014/11/12 05:00:32+00,B2,75,Black or African American,Male,Other,0,4,2014,4,11,Roxbury,Not Hispanic or Latinx
+475,182093688,2018/11/19 22:45:00+00,2018/11/19 22:45:00+00,E13,23,Black or African American,Female,GSW,17,2,2018,4,11,Jamaica Plain,Not Hispanic or Latinx
+476,172104845,2017/12/20 00:16:00+00,2017/12/20 00:16:00+00,C11,17,Black or African American,Male,GSW,19,3,2017,4,12,Dorchester,Not Hispanic or Latinx
+477,182003714,2018/01/14 22:30:00+00,2018/01/14 22:30:00+00,C11,17,Black or African American,Male,GSW,17,1,2018,1,1,Dorchester,Not Hispanic or Latinx
+478,202009888,2020/02/05 23:28:42+00,2020/02/05 23:28:42+00,B2,31,Black or African American,Male,GSW,18,4,2020,1,2,Dorchester,Hispanic or Latinx
+479,172031721,2017/04/24 00:33:47+00,2017/04/24 00:33:47+00,B3,29,Black or African American,Male,GSW,20,1,2017,2,4,Dorchester,Not Hispanic or Latinx
+480,222025490,2022/04/12 19:32:55+00,2022/04/11 21:46:05+00,B2,31,Black or African American,Male,GSW,17,2,2022,2,4,,Not Hispanic or Latinx
+481,162003560,2016/01/14 21:56:09+00,2016/01/14 00:36:00+00,B2,30,Black or African American,Male,GSW,19,4,2016,1,1,Mission Hill,Not Hispanic or Latinx
+482,192009132,2019/02/04 14:09:12+00,2019/02/04 17:35:00+00,D4,32,Black or African American,Male,GSW,12,2,2019,1,2,Roxbury,Not Hispanic or Latinx
+483,162065072,2016/08/13 15:59:07+00,2016/08/13 03:40:00+00,B3,34,Black or African American,Male,GSW,23,6,2016,3,8,Dorchester,Hispanic or Latinx
+484,212069153,2021/09/26 02:00:03+00,2021/09/26 01:00:02+00,B3,31,Black or African American,Female,GSW,21,7,2021,3,9,Dorchester,Not Hispanic or Latinx
+485,212007684,2021/02/04 15:15:49+00,2021/02/05 03:02:48+00,B3,32,Black or African American,Male,GSW,22,5,2021,1,2,Dorchester,Not Hispanic or Latinx
+486,222043221,2022/06/12 19:28:16+00,2022/06/13 01:27:17+00,B2,20,Black or African American,Male,GSW,21,1,2022,2,6,Roxbury,Not Hispanic or Latinx
+487,232027272,2023/04/08 18:54:27+00,2023/04/09 02:18:25+00,E13,43,Black or African American,Male,GSW,22,7,2023,2,4,Jamaica Plain,Not Hispanic or Latinx
+488,172057407,2017/07/15 14:51:00+00,2017/07/16 02:51:00+00,D4,32,Black or African American,Male,GSW,22,7,2017,3,7,Roxbury,Not Hispanic or Latinx
+489,222082764,2022/10/26 13:44:04+00,2022/10/26 23:17:35+00,C11,43,Black or African American,Male,GSW,19,4,2022,4,10,Dorchester,
+490,152056250,2015/07/10 14:48:04+00,2015/07/08 11:30:00+00,A1,72,Asian,Female,Other,7,4,2015,3,7,Chinatown,Not Hispanic or Latinx
+491,162085838,2016/10/24 19:00:00+00,2016/10/20 02:52:00+00,B2,24,Black or African American,Male,GSW,22,4,2016,4,10,Roxbury,Not Hispanic or Latinx
+492,182023600,2018/03/30 13:12:28+00,2018/03/30 13:11:00+00,B2,34,Black or African American,Male,GSW,9,6,2018,1,3,Dorchester,Not Hispanic or Latinx
+493,172091222,2017/11/01 03:48:12+00,2017/11/01 03:47:00+00,E13,16,Black or African American,Male,GSW,23,3,2017,4,10,Jamaica Plain,Not Hispanic or Latinx
+494,182076789,2018/09/23 01:46:00+00,2018/09/23 01:46:00+00,E13,25,White,Male,GSW,21,7,2018,3,9,Jamaica Plain,Hispanic or Latinx
+495,192078316,2019/09/28 05:25:49+00,2019/09/28 05:25:49+00,D14,19,White,Male,Trauma,1,7,2019,3,9,Allston,Not Hispanic or Latinx
+496,212028413,2021/05/02 13:45:29+00,2021/05/02 16:27:35+00,C11,42,Unknown,Female,STAB,12,1,2021,2,5,Dorchester,
+497,152101248,2015/12/08 19:21:32+00,2015/12/08 05:30:00+00,B3,28,Black or African American,Male,STAB,0,3,2015,4,12,Dorchester,Not Hispanic or Latinx
+498,182033779,2018/05/06 15:15:00+00,2018/05/05 01:41:00+00,E13,58,Black or African American,Male,GSW,21,6,2018,2,5,Jamaica Plain,Not Hispanic or Latinx
+499,232058520,2023/07/24 19:54:17+00,2023/07/24 16:07:17+00,B2,54,White,Male,STAB,12,2,2023,3,7,Roxbury,Not Hispanic or Latinx
+500,182059055,2018/07/26 22:14:00+00,2018/07/26 22:14:00+00,B3,77,White,Male,STAB,18,5,2018,3,7,Dorchester,Hispanic or Latinx
+501,192059525,2019/08/01 04:46:40+00,2019/08/01 04:46:40+00,C11,30,Black or African American,Male,GSW,0,5,2019,3,8,Dorchester,Not Hispanic or Latinx
+502,172066626,2017/08/14 03:29:48+00,2017/08/14 03:29:00+00,B2,36,Black or African American,Male,GSW,23,1,2017,3,8,Roxbury,Not Hispanic or Latinx
+503,172075277,2017/09/11 02:23:00+00,2017/09/11 02:23:00+00,C11,24,White,Female,GSW,22,1,2017,3,9,Dorchester,Not Hispanic or Latinx
+504,222078096,2022/10/10 19:55:47+00,2022/10/10 16:20:12+00,B2,14,,Male,GSW,12,2,2022,4,10,Roxbury,
+505,152066828,2015/08/13 20:46:47+00,2015/08/13 02:15:00+00,E13,28,Black or African American,Male,GSW,22,4,2015,3,8,Jamaica Plain,Not Hispanic or Latinx
+506,182043561,2018/06/06 02:49:00+00,2018/06/06 02:49:00+00,C11,25,White,Male,GSW,22,3,2018,2,6,Dorchester,Hispanic or Latinx
+507,192046078,2019/06/18 21:04:02+00,2019/06/18 01:52:39+00,E13,32,White,Male,GSW,21,2,2019,2,6,Jamaica Plain,Hispanic or Latinx
+508,202052816,2020/07/26 06:10:05+00,2020/07/26 06:08:05+00,C11,28,Black or African American,Male,GSW,2,1,2020,3,7,Dorchester,Not Hispanic or Latinx
+509,162039242,2016/05/20 02:32:00+00,2016/05/20 01:40:00+00,B3,22,Black or African American,Male,GSW,21,5,2016,2,5,Dorchester,Not Hispanic or Latinx
+510,222099235,2022/12/24 23:19:19+00,2022/12/25 04:18:28+00,B3,18,Black or African American,Male,GSW,23,7,2022,4,12,Dorchester,Not Hispanic or Latinx
+511,162086825,2016/10/23 15:30:00+00,2016/10/23 15:30:00+00,E18,24,Black or African American,Male,GSW,11,1,2016,4,10,Hyde Park,Not Hispanic or Latinx
+512,232053295,2023/07/06 14:41:58+00,2023/07/07 03:49:23+00,B2,0,,,GSW,23,5,2023,3,7,Dorchester,
+513,152026045,2015/04/02 18:08:12+00,2015/03/31 15:30:00+00,B3,37,Black or African American,Male,GSW,11,3,2015,1,3,Dorchester,Not Hispanic or Latinx
+514,222009080,2022/02/07 19:58:44+00,2022/02/08 03:04:18+00,A1,29,Black or African American,Male,STAB,22,2,2022,1,2,Downtown,Not Hispanic or Latinx
+515,152088337,2015/10/25 18:13:20+00,2015/10/24 16:20:00+00,E18,49,Black or African American,Male,GSW,12,7,2015,4,10,Hyde Park,Not Hispanic or Latinx
+516,222067867,2022/09/04 17:04:19+00,2022/09/04 06:59:19+00,C11,33,Black or African American,Male,GSW,2,1,2022,3,9,Dorchester,Not Hispanic or Latinx
+517,162013863,2016/02/22 19:54:06+00,2016/02/21 21:37:00+00,B2,15,Black or African American,Male,STAB,16,1,2016,1,2,Dorchester,Not Hispanic or Latinx
+518,162047273,2016/06/16 19:50:27+00,2016/06/15 12:51:23+00,A7,18,White,Female,STAB,8,4,2016,2,6,East Boston,Hispanic or Latinx
+519,232013356,2023/02/18 19:53:35+00,2023/02/19 01:46:17+00,B3,33,Black or African American,Female,GSW,20,7,2023,1,2,Dorchester,Not Hispanic or Latinx
+520,202070693,2020/09/27 05:17:04+00,2020/09/27 05:17:04+00,C11,28,Black or African American,Male,GSW,1,1,2020,3,9,Dorchester,Not Hispanic or Latinx
+521,222092383,2023/04/21 13:42:37+00,2022/11/30 02:37:03+00,D4,55,Black or African American,Male,STAB,21,3,2022,4,11,Roxbury,Not Hispanic or Latinx
+522,172009839,2017/02/05 22:54:00+00,2017/02/05 22:49:00+00,C11,22,Black or African American,Female,GSW,17,1,2017,1,2,Dorchester,Not Hispanic or Latinx
+523,182009897,2018/02/07 00:54:00+00,2018/02/07 00:54:00+00,C11,27,Black or African American,Male,GSW,19,3,2018,1,2,Dorchester,Not Hispanic or Latinx
+524,192103637,2019/12/25 21:51:27+00,2019/12/25 18:26:55+00,D4,4,White,Female,Trauma,13,4,2019,4,12,Roxbury,Not Hispanic or Latinx
+525,202094084,2021/01/14 15:14:35+00,2020/12/25 04:03:30+00,B2,66,Black or African American,Male,Trauma,23,5,2020,4,12,Roxbury,Not Hispanic or Latinx
+526,182083479,2018/10/16 01:36:00+00,2018/10/16 01:36:00+00,C11,24,Black or African American,Female,GSW,21,2,2018,4,10,Dorchester,Not Hispanic or Latinx
+527,182060953,2018/12/08 04:27:00+00,2018/08/02 03:27:00+00,B3,23,Black or African American,Male,GSW,23,4,2018,3,8,Dorchester,Not Hispanic or Latinx
+528,172032945,2017/04/27 14:26:46+00,2017/04/28 01:57:00+00,B3,30,Black or African American,Male,GSW,21,5,2017,2,4,Mattapan,Not Hispanic or Latinx
+529,222025866,2022/04/12 14:17:34+00,2022/04/13 02:58:15+00,E13,27,,Male,GSW,22,3,2022,2,4,Roxbury,Hispanic or Latinx
+530,142008830,2015/01/15 17:16:55+00,2014/07/13 22:06:00+00,B2,39,White,Female,Other,18,1,2014,3,7,Roxbury,Not Hispanic or Latinx
+531,202012769,2020/02/15 18:32:19+00,2020/02/16 02:37:03+00,B3,18,Black or African American,Male,GSW,21,7,2020,1,2,Mattapan,Not Hispanic or Latinx
+532,172093007,2017/11/07 17:13:45+00,2017/11/07 01:05:00+00,D4,37,Black or African American,Male,GSW,20,2,2017,4,11,Fenway,Not Hispanic or Latinx
+533,212007688,2021/02/04 14:39:42+00,2021/02/05 04:25:02+00,A1,17,Black or African American,Female,GSW,23,5,2021,1,2,Downtown,Not Hispanic or Latinx
+534,202061868,2020/08/27 02:43:07+00,2020/08/27 02:43:07+00,C11,26,Black or African American,Male,GSW,22,4,2020,3,8,Dorchester,Not Hispanic or Latinx
+535,162069476,2016/08/27 19:19:44+00,2016/08/27 07:33:21+00,E13,28,Black or African American,Male,GSW,3,7,2016,3,8,Jamaica Plain,Not Hispanic or Latinx
+536,192062795,2019/08/11 19:56:39+00,2019/08/11 16:21:00+00,B2,38,Black or African American,Female,STAB,12,1,2019,3,8,Roxbury,Not Hispanic or Latinx
+537,212072410,2021/10/07 03:00:22+00,2021/10/07 02:54:22+00,B3,25,Black or African American,Male,GSW,22,4,2021,4,10,Mattapan,Not Hispanic or Latinx
+538,182078305,2018/09/27 16:47:56+00,2018/09/27 16:47:56+00,B3,27,Black or African American,Male,GSW,12,5,2018,3,9,Mattapan,Not Hispanic or Latinx
+539,202046020,2020/06/30 23:40:59+00,2020/06/30 23:29:59+00,B2,19,Black or African American,Male,GSW,19,3,2020,2,6,Roxbury,Hispanic or Latinx
+540,152101585,2015/12/09 17:57:13+00,2015/12/09 06:33:00+00,D4,25,White,Male,GSW,1,4,2015,4,12,South End,Hispanic or Latinx
+541,162090653,2017/06/29 00:20:16+00,2016/11/05 12:39:00+00,B2,29,White,Female,Other,8,7,2016,4,11,Roxbury,Not Hispanic or Latinx
+542,182025532,2018/04/06 03:49:00+00,2018/04/06 03:38:00+00,C6,22,Black or African American,Male,GSW,23,5,2018,2,4,South Boston,Not Hispanic or Latinx
+543,172081437,2017/09/30 00:00:38+00,2017/09/29 23:51:38+00,C11,39,White,Male,GSW,19,6,2017,3,9,Dorchester,Not Hispanic or Latinx
+544,212028413,2021/05/02 13:51:32+00,2021/05/02 16:27:57+00,C11,27,White,Female,STAB,12,1,2021,2,5,Dorchester,Hispanic or Latinx
+545,232055224,2023/07/13 19:57:26+00,2023/07/13 18:05:26+00,B3,12,Black or African American,Male,GSW,14,5,2023,3,7,Mattapan,Not Hispanic or Latinx
+546,182064056,2018/08/12 03:14:00+00,2018/08/12 03:14:00+00,B3,55,Black or African American,Male,GSW,23,7,2018,3,8,Mattapan,Not Hispanic or Latinx
+547,172057934,2017/07/17 21:23:00+00,2017/07/17 21:23:00+00,B3,18,Black or African American,Male,GSW,17,2,2017,3,7,Dorchester,Not Hispanic or Latinx
+548,182034835,2018/05/08 16:10:00+00,2018/05/08 16:10:00+00,C6,50,Black or African American,Male,STAB,12,3,2018,2,5,South Boston,Hispanic or Latinx
+549,192037998,2019/05/22 01:10:05+00,2019/05/22 00:34:05+00,B3,23,Black or African American,Male,GSW,20,3,2019,2,5,Dorchester,Not Hispanic or Latinx
+550,192046078,2019/06/18 21:04:12+00,2019/06/18 01:52:54+00,E13,33,White,Male,GSW,21,2,2019,2,6,Jamaica Plain,Hispanic or Latinx
+551,212061019,2021/08/28 22:30:01+00,2021/08/28 22:30:01+00,B3,31,Black or African American,Male,GSW,18,7,2021,3,8,Dorchester,Not Hispanic or Latinx
+552,222075243,2022/09/29 14:06:03+00,2022/09/29 22:05:48+00,D4,26,Black or African American,Male,GSW,18,5,2022,3,9,Roxbury,Hispanic or Latinx
+553,222079944,2022/10/16 19:43:19+00,2022/10/17 00:51:48+00,C11,24,Black or African American,Female,GSW,20,1,2022,4,10,Dorchester,Not Hispanic or Latinx
+554,182052365,2018/07/03 15:39:00+00,2018/07/03 15:39:00+00,B2,31,Black or African American,Male,GSW,11,3,2018,3,7,Roxbury,Hispanic or Latinx
+555,162081907,2016/10/06 21:57:29+00,2016/10/06 21:30:49+00,B2,20,Black or African American,Male,GSW,17,5,2016,4,10,Roxbury,Not Hispanic or Latinx
+556,152056746,2017/08/04 18:00:00+00,2015/07/02 12:39:00+00,E13,50,White,Male,Other,8,5,2015,3,7,Jamaica Plain,Not Hispanic or Latinx
+557,192045000,2019/06/14 15:00:27+00,2019/06/14 07:30:27+00,B2,59,Black or African American,Male,GSW,3,6,2019,2,6,Dorchester,Hispanic or Latinx
+558,202006716,2020/01/25 21:52:01+00,2020/01/25 21:52:01+00,B2,16,Black or African American,Male,STAB,16,7,2020,1,1,Roxbury,Hispanic or Latinx
+559,172035480,2017/05/06 01:58:00+00,2017/05/06 00:38:00+00,C6,38,White,Female,STAB,20,6,2017,2,5,South Boston,Not Hispanic or Latinx
+560,202046944,2020/07/04 02:03:46+00,2020/07/04 02:03:46+00,B3,50,Black or African American,Male,STAB,22,6,2020,3,7,Dorchester,Not Hispanic or Latinx
+561,162088581,2016/10/29 23:50:04+00,2016/10/29 18:27:00+00,C11,36,Black or African American,Female,GSW,14,7,2016,4,10,Dorchester,Not Hispanic or Latinx
+562,202078749,2020/10/25 20:22:23+00,2020/10/25 04:09:23+00,B2,24,Black or African American,Male,GSW,0,1,2020,4,10,Roxbury,Hispanic or Latinx
+563,232060443,2023/07/30 22:23:14+00,2023/07/31 03:09:47+00,B2,27,White,Male,GSW,23,1,2023,3,7,Roxbury,Hispanic or Latinx
+564,162045234,2016/06/09 19:32:12+00,2016/06/08 17:16:00+00,B2,17,Black or African American,Male,GSW,13,4,2016,2,6,Dorchester,Not Hispanic or Latinx
+565,212034323,2021/05/24 13:38:13+00,2021/05/25 00:04:45+00,B3,40,Black or African American,Male,GSW,20,2,2021,2,5,Dorchester,Not Hispanic or Latinx
+566,222095809,2022/12/11 20:15:15+00,2022/12/12 01:08:13+00,D4,43,White,Male,STAB,20,1,2022,4,12,Roxbury,Hispanic or Latinx
+567,152097957,2015/11/28 23:05:42+00,2015/11/26 07:00:00+00,D4,29,Black or African American,Male,GSW,2,5,2015,4,11,Fenway,Not Hispanic or Latinx
+568,222065701,2022/08/27 20:11:20+00,2022/08/27 21:41:47+00,B3,33,Black or African American,Male,GSW,17,7,2022,3,8,Dorchester,Not Hispanic or Latinx
+569,152048199,2015/06/12 14:36:48+00,2015/06/10 23:53:00+00,B3,16,Black or African American,Male,GSW,19,4,2015,2,6,Dorchester,Not Hispanic or Latinx
+570,232035584,2023/05/07 22:17:24+00,2023/05/08 00:34:15+00,C11,23,Black or African American,Male,GSW,20,1,2023,2,5,Dorchester,Hispanic or Latinx
+571,172102399,2017/12/10 21:41:09+00,2017/12/10 21:41:00+00,A7,19,Black or African American,Male,GSW,16,1,2017,4,12,East Boston,Not Hispanic or Latinx
+572,212000828,2021/01/04 15:22:18+00,2021/01/05 00:31:49+00,C6,33,White,Male,STAB,19,2,2021,1,1,South Boston,Not Hispanic or Latinx
+573,192088750,2019/11/02 02:37:21+00,2019/11/02 02:37:21+00,E18,35,Black or African American,Male,GSW,22,6,2019,4,11,Roslindale,Not Hispanic or Latinx
+574,202015868,2020/02/27 19:21:40+00,2020/02/27 19:21:40+00,C11,51,Black or African American,Female,Trauma,14,5,2020,1,2,Dorchester,Not Hispanic or Latinx
+575,182104066,2018/12/27 05:34:00+00,2018/12/27 05:34:00+00,B3,18,Black or African American,Male,GSW,0,5,2018,4,12,Mattapan,Not Hispanic or Latinx
+576,162023617,2016/03/27 18:54:19+00,2016/03/27 06:11:11+00,B3,26,Black or African American,Male,GSW,2,1,2016,1,3,Mattapan,Not Hispanic or Latinx
+577,232011353,2023/02/11 15:20:17+00,2023/02/11 21:57:46+00,E13,21,White,Female,STAB,16,7,2023,1,2,Jamaica Plain,Hispanic or Latinx
+578,232017019,2023/03/04 20:51:57+00,2023/03/04 20:31:36+00,B2,56,,Male,GSW,15,7,2023,1,3,Roxbury,
+579,172028837,2017/04/14 12:27:19+00,2017/04/14 20:12:00+00,C11,21,Black or African American,Male,GSW,16,6,2017,2,4,Dorchester,Not Hispanic or Latinx
+580,182094352,2018/11/22 05:59:00+00,2018/11/22 05:59:00+00,E13,48,White,Male,GSW,0,5,2018,4,11,Jamaica Plain,Hispanic or Latinx
+581,172054029,2017/07/05 06:26:54+00,2017/07/05 06:26:00+00,B2,29,Black or African American,Male,GSW,2,4,2017,3,7,Roxbury,Not Hispanic or Latinx
+582,152066827,2015/08/13 20:36:36+00,2015/08/13 02:18:00+00,B3,21,Black or African American,Male,GSW,22,4,2015,3,8,Mattapan,Not Hispanic or Latinx
+583,172002376,2017/01/10 23:30:00+00,2017/01/10 00:27:00+00,B2,19,Black or African American,Male,GSW,19,2,2017,1,1,Roxbury,Not Hispanic or Latinx
+584,222039270,2022/05/30 20:14:38+00,2022/05/31 00:59:03+00,B2,39,Black or African American,Male,STAB,20,2,2022,2,5,Roxbury,Not Hispanic or Latinx
+585,202020108,2020/07/28 13:49:21+00,2020/03/13 16:10:47+00,D4,29,White,Female,Trauma,12,6,2020,1,3,Fenway,Not Hispanic or Latinx
+586,212064025,2021/09/08 18:20:40+00,2021/09/08 18:20:23+00,E13,34,Black or African American,Male,GSW,14,4,2021,3,9,Jamaica Plain,Not Hispanic or Latinx
+587,172070801,2017/10/13 15:41:42+00,2017/08/27 04:24:00+00,C11,48,Asian,Male,Trauma,0,1,2017,3,8,Dorchester,Not Hispanic or Latinx
+588,172098716,2017/11/28 04:19:45+00,2017/11/28 04:19:00+00,C6,16,Black or African American,Male,GSW,23,2,2017,4,11,South Boston,Hispanic or Latinx
+589,212017718,2021/03/20 13:44:49+00,2021/03/20 07:20:41+00,A15,33,Black or African American,Male,GSW,3,7,2021,1,3,Charlestown,Not Hispanic or Latinx
+590,152107190,2015/12/30 19:28:44+00,2015/12/29 13:47:00+00,B3,18,Black or African American,Male,GSW,8,3,2015,4,12,Mattapan,Hispanic or Latinx
+591,182022148,2018/03/25 19:49:31+00,2018/03/25 07:01:00+00,B2,33,Black or African American,Male,STAB,3,1,2018,1,3,Dorchester,Not Hispanic or Latinx
+592,182031717,2018/04/28 06:45:00+00,2018/04/28 06:45:00+00,B2,34,Black or African American,Male,GSW,2,7,2018,2,4,Roxbury,Not Hispanic or Latinx
+593,192003304,2019/01/13 02:57:00+00,2019/01/13 02:57:00+00,B2,70,Black or African American,Male,STAB,21,7,2019,1,1,Roxbury,Not Hispanic or Latinx
+594,152055311,2015/07/05 02:46:00+00,2015/07/05 02:46:00+00,B2,26,Black or African American,Male,GSW,22,7,2015,3,7,Roxbury,Not Hispanic or Latinx
+595,182071662,2018/09/06 19:04:09+00,2018/09/06 07:41:00+00,A15,54,White,Male,Trauma,3,5,2018,3,9,Charlestown,Hispanic or Latinx
+596,202038748,2020/06/04 06:30:12+00,2020/06/04 06:29:12+00,B3,33,Black or African American,Male,GSW,2,5,2020,2,6,Dorchester,Not Hispanic or Latinx
+597,202068459,2020/09/18 20:37:24+00,2020/09/18 23:46:28+00,D4,43,White,Male,GSW,19,6,2020,3,9,Roxbury,Hispanic or Latinx
+598,212073779,2021/10/11 22:50:27+00,2021/10/11 22:40:27+00,B2,43,White,Male,STAB,18,2,2021,4,10,Dorchester,Not Hispanic or Latinx
+599,192027439,2019/04/14 03:07:40+00,2019/04/14 03:07:40+00,B3,53,Black or African American,Male,GSW,23,7,2019,2,4,Mattapan,Not Hispanic or Latinx
+600,I192055085,2019/07/17 19:12:03+00,2019/07/17 19:12:03+00,E5,24,Asian,Male,GSW,15,4,2019,3,7,Roslindale,Not Hispanic or Latinx
+601,162075905,2016/09/17 06:30:11+00,2016/09/17 06:17:13+00,B3,23,Black or African American,Male,GSW,2,7,2016,3,9,Dorchester,Not Hispanic or Latinx
+602,162091710,2016/11/10 03:50:47+00,2016/11/09 03:45:00+00,B3,33,Black or African American,Male,GSW,22,3,2016,4,11,Mattapan,Not Hispanic or Latinx
+603,172065378,2017/08/10 02:34:59+00,2017/08/10 02:33:00+00,B2,27,Black or African American,Male,GSW,22,4,2017,3,8,Dorchester,Hispanic or Latinx
+604,182057654,2018/07/22 08:24:00+00,2018/07/22 08:24:00+00,E18,28,Black or African American,Male,GSW,4,1,2018,3,7,Hyde Park,Not Hispanic or Latinx
+605,202046657,2020/07/03 02:01:07+00,2020/07/03 02:01:07+00,B2,15,White,Male,GSW,22,5,2020,3,7,Roxbury,Hispanic or Latinx
+606,152081264,2015/09/30 19:02:39+00,2015/09/30 08:05:00+00,E18,30,White,Male,GSW,4,4,2015,3,9,Hyde Park,Not Hispanic or Latinx
+607,202051043,2020/07/19 20:42:25+00,2020/07/19 20:42:25+00,B3,17,Black or African American,Male,GSW,16,1,2020,3,7,Dorchester,Not Hispanic or Latinx
+608,212055384,2021/08/09 13:27:12+00,2021/08/09 04:29:58+00,B3,38,Black or African American,Female,GSW,0,2,2021,3,8,Dorchester,Not Hispanic or Latinx
+609,202010471,2020/02/07 20:03:33+00,2020/02/07 23:29:16+00,B2,62,Black or African American,Male,GSW,18,6,2020,1,2,Dorchester,Not Hispanic or Latinx
+610,212021041,2021/04/02 14:19:38+00,2021/04/02 15:58:54+00,C6,23,White,Male,Suffocation/Stab,11,6,2021,2,4,Roxbury,Not Hispanic or Latinx
+611,202082172,2020/11/07 04:00:51+00,2020/11/07 04:00:51+00,E13,28,White,Male,GSW,23,6,2020,4,11,Jamaica Plain,Hispanic or Latinx
+612,152087774,2015/10/23 18:05:39+00,2015/10/22 19:21:00+00,E13,17,Black or African American,Male,STAB,15,5,2015,4,10,Jamaica Plain,Hispanic or Latinx
+613,222066832,2022/09/01 19:02:20+00,2022/08/31 21:06:57+00,C11,26,Black or African American,Male,GSW,17,4,2022,3,8,Dorchester,Not Hispanic or Latinx
+614,152020647,2015/03/15 14:33:07+00,2015/03/14 19:46:00+00,B2,40,White,Male,GSW,15,7,2015,1,3,Roxbury,Hispanic or Latinx
+615,222000342,2022/01/02 23:25:47+00,2022/01/02 23:25:47+00,C11,17,Black or African American,Female,GSW,18,1,2022,1,1,Dorchester,Unknown
+616,232040051,2023/05/22 22:19:00+00,2023/05/22 20:58:38+00,C11,33,Black or African American,Male,GSW,16,2,2023,2,5,Dorchester,Not Hispanic or Latinx
+617,152100585,2015/12/06 19:15:53+00,2015/12/06 01:33:00+00,C6,37,Black or African American,Male,GSW,20,7,2015,4,12,South Boston,Not Hispanic or Latinx
+618,152042211,2015/05/23 04:58:00+00,2015/05/23 04:50:00+00,B2,27,Black or African American,Male,GSW,0,7,2015,2,5,Roxbury,Not Hispanic or Latinx
+619,192094784,2019/11/23 16:54:47+00,2019/11/23 07:04:38+00,A1,25,White,Male,GSW,2,7,2019,4,11,West End,Not Hispanic or Latinx
+620,212001090,2021/01/22 14:56:00+00,2021/01/06 05:26:00+00,B3,22,Black or African American,Male,GSW,0,4,2021,1,1,Mattapan,Not Hispanic or Latinx
+621,172041830,2017/05/27 13:30:00+00,2017/05/27 06:30:00+00,A1,22,Black or African American,Male,GSW,2,7,2017,2,5,Chinatown,Not Hispanic or Latinx
+622,182082113,2018/10/11 06:08:00+00,2018/10/11 06:08:00+00,C11,19,Black or African American,Male,GSW,2,5,2018,4,10,Dorchester,Not Hispanic or Latinx
+623,202031103,2020/05/04 02:38:43+00,2020/05/04 02:38:43+00,B2,41,Black or African American,Male,GSW,22,1,2020,2,5,Roxbury,Not Hispanic or Latinx
+624,172106125,2017/12/25 02:08:00+00,2017/12/25 02:08:00+00,B3,19,Black or African American,Male,GSW,21,1,2017,4,12,Mattapan,Not Hispanic or Latinx
+625,182008316,2018/02/01 02:36:00+00,2018/02/01 02:36:00+00,B2,33,Black or African American,Male,GSW,21,4,2018,1,1,Roxbury,Not Hispanic or Latinx
+626,130719749,2016/01/07 05:06:01+00,2013/11/12 21:41:01+00,D4,2,White,Female,Trauma,16,3,2013,4,11,Roxbury,Not Hispanic or Latinx
+627,232011907,2023/02/14 02:46:59+00,2023/02/14 01:10:46+00,B2,31,Black or African American,Male,GSW,20,2,2023,1,2,Roxbury,Not Hispanic or Latinx
+628,182096701,2018/12/01 00:06:00+00,2018/12/01 00:06:00+00,B3,19,Black or African American,Male,GSW,19,6,2018,4,11,Dorchester,Not Hispanic or Latinx
+629,172031211,2017/04/22 00:55:19+00,2017/04/22 00:53:19+00,B2,17,Black or African American,Male,GSW,20,6,2017,2,4,Roxbury,Hispanic or Latinx
+630,222024777,2022/04/08 18:49:04+00,2022/04/09 01:48:28+00,E5,23,Black or African American,Male,GSW,21,6,2022,2,4,Roslindale,Not Hispanic or Latinx
+631,162066422,2016/08/17 15:33:14+00,2016/08/17 10:54:00+00,A7,23,Black or African American,Male,STAB,6,4,2016,3,8,East Boston,Not Hispanic or Latinx
+632,130253160,2021/09/16 20:13:50+00,2013/04/29 04:21:50+00,B2,19,White,Male,GSW,0,2,2013,2,4,Roxbury,Hispanic or Latinx
+633,172054624,2017/07/06 22:44:11+00,2017/07/06 22:44:11+00,B2,17,Black or African American,Male,GSW,18,5,2017,3,7,Dorchester,Not Hispanic or Latinx
+634,202054954,2020/08/06 17:11:06+00,2020/08/03 01:12:06+00,B3,25,Black or African American,Male,GSW,21,1,2020,3,8,Dorchester,Not Hispanic or Latinx
+635,162007065,2016/01/27 06:39:00+00,2016/01/27 06:39:00+00,C11,19,Black or African American,Male,GSW,1,4,2016,1,1,Dorchester,Not Hispanic or Latinx
+636,172005625,2017/01/21 23:34:00+00,2017/01/21 23:34:00+00,B3,27,Black or African American,Male,GSW,18,7,2017,1,1,Dorchester,Not Hispanic or Latinx
+637,212004677,2021/01/22 23:14:39+00,2021/01/22 17:39:33+00,C11,19,Black or African American,Female,GSW,12,6,2021,1,1,Dorchester,Not Hispanic or Latinx
+638,182023966,2018/03/31 19:55:00+00,2018/03/31 19:55:00+00,B3,38,Black or African American,Male,GSW,15,7,2018,1,3,Dorchester,Not Hispanic or Latinx
+639,192086707,2019/10/26 20:48:29+00,2019/10/26 07:47:23+00,E13,25,Black or African American,Male,GSW,3,7,2019,4,10,Roxbury,Not Hispanic or Latinx
+640,232031186,2023/04/23 22:15:41+00,2023/04/23 01:37:32+00,E18,21,Black or African American,Male,GSW,21,7,2023,2,4,Hyde Park,Not Hispanic or Latinx
+641,152057348,2015/07/12 17:51:01+00,2015/07/11 21:57:00+00,C11,20,Black or African American,Male,GSW,17,7,2015,3,7,Dorchester,Not Hispanic or Latinx
+642,222086068,2022/11/06 21:25:49+00,2022/11/07 02:10:33+00,B3,48,White,Male,GSW,21,1,2022,4,11,Mattapan,Hispanic or Latinx
+643,172051446,2017/06/27 19:47:00+00,2017/06/26 23:27:00+00,B3,29,Black or African American,Male,GSW,19,2,2017,2,6,Mattapan,Not Hispanic or Latinx
+644,202062720,2020/09/19 12:10:44+00,2020/08/30 06:40:45+00,B3,41,Black or African American,Male,GSW,2,1,2020,3,8,Dorchester,Not Hispanic or Latinx
+645,162098498,2016/12/04 14:10:07+00,2016/12/03 05:12:00+00,E18,23,Black or African American,Male,GSW,0,7,2016,4,12,Hyde Park,Not Hispanic or Latinx
+646,172090526,2017/10/29 16:11:35+00,2017/10/30 00:22:00+00,C6,30,Black or African American,Male,GSW,20,1,2017,4,10,Dorchester,Not Hispanic or Latinx
+647,192012484,2019/02/17 06:55:00+00,2019/02/17 06:55:00+00,A7,31,Black or African American,Male,STAB,1,1,2019,1,2,East Boston,Not Hispanic or Latinx
+648,202041368,2020/06/13 19:59:10+00,2020/06/13 19:58:10+00,B3,28,Black or African American,Male,GSW,15,7,2020,2,6,Dorchester,Not Hispanic or Latinx
+649,212023091,2021/04/10 21:56:53+00,2021/04/10 21:56:53+00,C11,73,Black or African American,Female,GSW,17,7,2021,2,4,Dorchester,Not Hispanic or Latinx
+650,162077078,2016/09/21 00:06:00+00,2016/09/21 00:06:00+00,C11,21,Black or African American,Male,GSW,20,3,2016,3,9,Dorchester,Not Hispanic or Latinx
+651,212056861,2021/08/14 07:18:27+00,2021/08/14 07:18:27+00,B3,39,Black or African American,Male,GSW,3,7,2021,3,8,Mattapan,Not Hispanic or Latinx
+652,172078494,2017/09/21 12:04:30+00,2017/09/21 12:04:00+00,B3,43,Black or African American,Male,STAB,8,5,2017,3,9,Dorchester,Not Hispanic or Latinx
+653,182058835,2018/07/26 02:57:00+00,2018/07/26 02:57:00+00,B3,27,White,Male,GSW,22,4,2018,3,7,Dorchester,Hispanic or Latinx
+654,192032179,2019/05/02 22:30:22+00,2019/05/01 22:26:10+00,C11,34,Black or African American,Male,GSW,18,4,2019,2,5,Dorchester,Not Hispanic or Latinx
+655,202047204,2020/07/05 13:51:05+00,2020/07/05 07:10:24+00,C11,34,Black or African American,Female,GSW,3,1,2020,3,7,Dorchester,Not Hispanic or Latinx
+656,152059883,2015/07/21 20:48:34+00,2015/07/20 14:35:00+00,E5,28,Black or African American,Male,GSW,10,2,2015,3,7,Roslindale,Hispanic or Latinx
+657,202052804,2020/07/26 05:58:58+00,2020/07/26 05:58:58+00,B3,39,Black or African American,Male,GSW,1,1,2020,3,7,Dorchester,Not Hispanic or Latinx
+658,182051210,2018/06/30 20:03:21+00,2018/06/30 04:41:00+00,D14,27,White,Male,GSW,0,7,2018,2,6,Brighton,Not Hispanic or Latinx
+659,192045558,2019/06/16 05:42:33+00,2019/06/16 05:18:33+00,B3,23,Black or African American,Male,GSW,1,1,2019,2,6,Dorchester,Not Hispanic or Latinx
+660,162086661,2016/10/22 18:36:02+00,2016/10/22 21:15:00+00,C6,50,White,Male,Trauma,17,7,2016,4,10,Roxbury,Not Hispanic or Latinx
+661,182002801,2018/01/11 19:03:02+00,2018/01/11 19:03:02+00,B2,21,Black or African American,Male,GSW,14,5,2018,1,1,Dorchester,Not Hispanic or Latinx
+662,232056565,2023/07/18 22:19:35+00,2023/07/18 05:39:26+00,E13,45,Black or African American,Male,GSW,1,3,2023,3,7,Jamaica Plain,Not Hispanic or Latinx
+663,172073486,2017/09/05 14:46:00+00,2017/09/05 14:46:00+00,C11,21,Black or African American,Male,GSW,10,3,2017,3,9,Dorchester,Not Hispanic or Latinx
+664,152091104,2015/11/03 17:15:00+00,2015/11/03 05:15:00+00,C11,21,White,Male,GSW,0,3,2015,4,11,Dorchester,Hispanic or Latinx
+665,222066903,2022/08/31 19:07:56+00,2022/09/01 00:21:08+00,B2,28,Black or African American,Male,GSW,20,4,2022,3,8,Roxbury,Not Hispanic or Latinx
+666,162042228,2016/05/29 14:49:00+00,2016/05/29 14:20:52+00,B2,31,Black or African American,Male,GSW,10,1,2016,2,5,Dorchester,Not Hispanic or Latinx
+667,232000070,2023/01/01 17:47:20+00,2023/01/01 10:55:34+00,B3,33,Black or African American,Male,GSW,5,1,2023,1,1,Mattapan,Not Hispanic or Latinx
+668,152028582,2015/04/13 17:03:18+00,2015/04/09 00:20:00+00,C11,33,Black or African American,Male,GSW,20,4,2015,2,4,Dorchester,Not Hispanic or Latinx
+669,212085753,2021/11/23 03:00:50+00,2021/11/23 02:55:50+00,E18,30,White,Male,GSW,21,2,2021,4,11,Hyde Park,Hispanic or Latinx
+670,222061630,2022/08/13 20:03:04+00,2022/08/14 02:00:08+00,D4,26,Black or African American,Male,GSW,22,7,2022,3,8,South End,Hispanic or Latinx
+671,182011931,2018/02/14 23:43:00+00,2018/02/14 23:43:00+00,B2,37,Black or African American,Male,GSW,18,4,2018,1,2,Roxbury,Not Hispanic or Latinx
+672,232035541,2023/05/07 22:18:15+00,2023/05/08 00:31:11+00,B3,37,Black or African American,Male,GSW,20,1,2023,2,5,Mattapan,Not Hispanic or Latinx
+673,172014254,2017/02/21 13:48:00+00,2017/02/21 22:09:00+00,B2,19,Black or African American,Male,GSW,17,3,2017,1,2,Roxbury,Hispanic or Latinx
+674,182081058,2018/10/07 15:28:00+00,2018/10/07 15:28:00+00,B3,36,Black or African American,Male,GSW,11,1,2018,4,10,Mattapan,Not Hispanic or Latinx
+675,182099711,2018/12/11 02:58:00+00,2018/12/11 02:58:00+00,B3,25,Black or African American,Male,GSW,21,2,2018,4,12,Mattapan,Not Hispanic or Latinx
+676,202002920,2020/01/12 01:26:45+00,2020/01/12 01:26:45+00,B2,19,Black or African American,Male,GSW,20,7,2020,1,1,Dorchester,Not Hispanic or Latinx
+677,152007197,2015/01/26 17:21:59+00,2015/01/27 01:55:00+00,B2,28,Black or African American,Male,STAB,20,2,2015,1,1,Roxbury,Hispanic or Latinx
+678,222018038,2022/03/15 18:19:30+00,2022/03/15 13:33:13+00,D4,58,Black or African American,Female,STAB,9,3,2022,1,3,Roxbury,Not Hispanic or Latinx
+679,222029636,2022/04/27 19:45:52+00,2022/04/27 15:41:23+00,B2,51,Black or African American,Male,GSW,11,4,2022,2,4,Roxbury,Not Hispanic or Latinx
+680,182093233,2018/11/18 06:57:00+00,2018/11/18 06:57:00+00,B3,28,Black or African American,Male,GSW,1,1,2018,4,11,Mattapan,Not Hispanic or Latinx
+681,162021883,2016/03/22 18:17:08+00,2016/03/21 07:07:00+00,B2,28,Black or African American,Male,GSW,3,2,2016,1,3,Roxbury,Not Hispanic or Latinx
+682,202091439,2020/12/13 14:57:57+00,2020/12/14 00:30:34+00,E18,22,Black or African American,Male,GSW,19,1,2020,4,12,Hyde Park,Not Hispanic or Latinx
+683,182025962,2018/04/07 21:36:00+00,2018/04/07 21:37:00+00,E18,27,Black or African American,Male,GSW,17,7,2018,2,4,Hyde Park,Not Hispanic or Latinx
+684,192074613,2019/09/17 03:50:54+00,2019/09/17 03:42:54+00,C11,27,Black or African American,Male,GSW,23,2,2019,3,9,Dorchester,Not Hispanic or Latinx
+685,232012577,2023/03/03 23:12:55+00,2023/02/16 16:05:03+00,A1,75,White,Male,STAB,11,5,2023,1,2,West End,Not Hispanic or Latinx
+686,162104752,2016/12/25 04:20:13+00,2016/12/25 03:45:00+00,A7,18,White,Male,STAB,22,7,2016,4,12,East Boston,Hispanic or Latinx
+687,172094879,2017/11/15 17:56:24+00,2017/11/13 19:49:00+00,C11,55,White,Male,Other,14,2,2017,4,11,Dorchester,Hispanic or Latinx
+688,202035190,2020/05/22 02:00:47+00,2020/05/22 01:59:47+00,E13,24,Black or African American,Male,GSW,21,5,2020,2,5,Jamaica Plain,Not Hispanic or Latinx
+689,212011262,2021/02/21 14:39:59+00,2021/02/21 04:24:59+00,A1,21,White,Male,STAB,23,7,2021,1,2,West End,Not Hispanic or Latinx
+690,162050266,2016/06/24 18:32:06+00,2016/06/24 19:22:00+00,B3,43,Black or African American,Male,GSW,15,6,2016,2,6,Mattapan,Not Hispanic or Latinx
+691,182064699,2018/08/14 13:48:00+00,2018/08/14 13:48:00+00,B3,29,Black or African American,Male,GSW,9,3,2018,3,8,Mattapan,Not Hispanic or Latinx
+692,192025403,2019/04/06 20:56:54+00,2019/04/06 20:56:50+00,B3,74,Black or African American,Female,GSW,16,7,2019,2,4,Mattapan,Not Hispanic or Latinx
+693,172054261,2017/07/05 21:24:08+00,2017/07/05 21:24:00+00,B2,51,Black or African American,Male,STAB,17,4,2017,3,7,Dorchester,Not Hispanic or Latinx
+694,202041578,2020/09/04 14:02:48+00,2020/06/14 18:47:48+00,B2,53,Black or African American,Female,Trauma,14,1,2020,2,6,Roxbury,Not Hispanic or Latinx
+695,222054787,2022/07/21 14:12:59+00,2022/07/22 02:02:48+00,B3,21,Black or African American,Male,GSW,22,5,2022,3,7,Mattapan,Not Hispanic or Latinx
+696,172086572,2017/10/17 16:04:17+00,2017/10/17 08:15:49+00,C6,22,Black or African American,Male,GSW,4,3,2017,4,10,Dorchester,Not Hispanic or Latinx
+697,202046395,2020/07/02 04:30:19+00,2020/07/02 04:18:19+00,B3,45,Black or African American,Male,GSW,0,5,2020,3,7,Dorchester,Not Hispanic or Latinx
+698,172058253,2017/07/18 19:44:05+00,2017/07/18 20:06:00+00,B2,58,White,Male,GSW,16,3,2017,3,7,Mission Hill,Hispanic or Latinx
+699,202055355,2020/08/04 04:00:59+00,2020/08/04 04:00:59+00,B2,48,Black or African American,Male,STAB,0,3,2020,3,8,Roxbury,Not Hispanic or Latinx
+700,162069471,2016/08/27 20:22:06+00,2016/08/27 05:39:31+00,C11,24,Black or African American,Male,GSW,1,7,2016,3,8,Dorchester,Not Hispanic or Latinx
+701,162082007,2016/10/07 18:33:49+00,2016/10/07 04:07:35+00,B2,37,Black or African American,Male,STAB,0,6,2016,4,10,Mission Hill,Not Hispanic or Latinx
+702,212052395,2021/07/29 20:52:03+00,2021/07/29 17:17:06+00,E5,42,Black or African American,Female,GSW,13,5,2021,3,7,Roslindale,Not Hispanic or Latinx
+703,212060871,2021/08/28 20:52:19+00,2021/08/28 13:20:17+00,B3,17,Black or African American,Male,STAB,9,7,2021,3,8,Dorchester,Hispanic or Latinx
+704,182042108,2018/06/01 06:41:00+00,2018/06/01 06:41:00+00,B3,58,Black or African American,Male,STAB,2,6,2018,2,6,Mattapan,Not Hispanic or Latinx
+705,182052602,2018/07/05 01:50:00+00,2018/07/05 01:50:00+00,B2,36,Black or African American,Male,GSW,21,4,2018,3,7,Roxbury,Not Hispanic or Latinx
+706,192040692,2019/06/02 03:13:17+00,2019/05/31 02:47:17+00,C11,47,Black or African American,Male,STAB,22,5,2019,2,5,Dorchester,Not Hispanic or Latinx
+707,152078371,2015/09/21 19:20:27+00,2015/09/20 21:12:00+00,A7,15,White,Male,STAB,17,1,2015,3,9,East Boston,Hispanic or Latinx
+708,222076415,2022/10/04 20:09:06+00,2022/10/04 04:41:40+00,C11,19,,,GSW,0,3,2022,4,10,Dorchester,
+709,182051210,2018/06/30 20:02:13+00,2018/06/30 04:41:00+00,D14,26,Black or African American,Male,GSW,0,7,2018,2,6,Brighton,Not Hispanic or Latinx
+710,182003512,2018/01/14 02:32:00+00,2018/01/14 02:32:00+00,D4,24,Black or African American,Male,GSW,21,7,2018,1,1,Back Bay,Not Hispanic or Latinx
+711,202049124,2020/07/12 05:58:35+00,2020/07/12 05:58:35+00,B3,35,Black or African American,Male,GSW,1,1,2020,3,7,Mattapan,Not Hispanic or Latinx
+712,172074007,2017/09/07 20:00:00+00,2017/09/07 03:15:00+00,C11,16,Black or African American,Male,GSW,23,4,2017,3,9,Dorchester,Not Hispanic or Latinx
+713,172035478,2017/05/06 01:40:56+00,2017/05/06 01:35:00+00,B3,25,Black or African American,Male,GSW,21,6,2017,2,5,Mattapan,Not Hispanic or Latinx
+714,212035337,2021/05/28 15:55:40+00,2021/05/28 15:51:40+00,B3,37,Black or African American,Male,GSW,11,6,2021,2,5,Dorchester,Not Hispanic or Latinx
+715,152037218,2015/05/11 16:00:20+00,2015/05/07 08:00:00+00,B2,24,Black or African American,Male,GSW,4,5,2015,2,5,Roxbury,Not Hispanic or Latinx
+716,162090649,2016/11/05 19:00:36+00,2016/11/05 14:09:26+00,B2,24,Black or African American,Male,GSW,10,7,2016,4,11,Roxbury,Not Hispanic or Latinx
+717,212091961,2021/12/16 17:08:50+00,2021/12/16 17:24:15+00,A7,27,Black or African American,Male,GSW,12,5,2021,4,12,East Boston,Not Hispanic or Latinx
+718,162046995,2016/06/15 12:21:10+00,2016/06/14 16:22:55+00,B3,31,Black or African American,Male,GSW,12,3,2016,2,6,Mattapan,Not Hispanic or Latinx
+719,222060964,2022/08/11 19:29:18+00,2022/08/12 00:36:29+00,B3,19,Black or African American,Male,GSW,20,5,2022,3,8,Mattapan,
+720,202021807,2020/03/20 23:27:20+00,2020/03/20 23:37:20+00,B3,18,Black or African American,Male,GSW,19,6,2020,1,3,Dorchester,Not Hispanic or Latinx
+721,172101369,2017/12/10 14:21:31+00,2017/12/07 00:47:00+00,B2,17,Black or African American,Male,GSW,19,4,2017,4,12,Mission Hill,Not Hispanic or Latinx
+722,182013918,2018/02/22 05:13:00+00,2018/02/22 05:13:00+00,C6,43,White,Male,GSW,0,5,2018,1,2,South Boston,Hispanic or Latinx
+723,192000054,2019/01/01 08:05:00+00,2019/01/01 08:05:00+00,B3,32,Black or African American,Male,GSW,3,3,2019,1,1,Dorchester,Hispanic or Latinx
+724,182080989,2018/10/07 23:29:23+00,2018/10/07 23:29:23+00,B3,42,Black or African American,Male,GSW,19,1,2018,4,10,Mattapan,Not Hispanic or Latinx
+725,152011169,2015/02/11 17:26:14+00,2015/02/11 15:30:00+00,E13,21,Black or African American,Male,GSW,10,4,2015,1,2,Jamaica Plain,Not Hispanic or Latinx
+726,222019284,2022/03/19 18:20:34+00,2022/03/19 22:53:07+00,A1,23,White,Male,STAB,18,7,2022,1,3,Downtown,Hispanic or Latinx
+727,162022418,2016/03/23 18:58:48+00,2016/03/23 02:29:36+00,A7,32,White,Male,GSW,22,3,2016,1,3,East Boston,Not Hispanic or Latinx
+728,202094063,2020/12/24 15:14:18+00,2020/12/25 02:07:40+00,A7,28,Black or African American,Male,STAB,21,5,2020,4,12,East Boston,Not Hispanic or Latinx
+729,182094270,2018/11/21 21:06:00+00,2018/11/21 21:06:00+00,B2,63,White,Male,STAB,16,4,2018,4,11,Dorchester,Not Hispanic or Latinx
+730,162064334,2016/11/16 17:51:34+00,2016/08/10 22:07:34+00,A1,54,Black or African American,Male,Other,18,4,2016,3,8,Chinatown,Not Hispanic or Latinx
+731,202036660,2020/05/28 03:56:35+00,2020/05/28 03:55:35+00,B3,42,White,Male,GSW,23,4,2020,2,5,Dorchester,Hispanic or Latinx
+732,172054474,2017/07/06 13:51:26+00,2017/07/06 13:51:00+00,B2,18,Black or African American,Male,STAB,9,5,2017,3,7,Roxbury,Not Hispanic or Latinx
+733,162002573,2016/01/10 19:40:55+00,2016/01/10 06:36:00+00,A7,16,White,Male,GSW,1,1,2016,1,1,East Boston,Hispanic or Latinx
+734,222081951,2022/10/23 19:38:23+00,2022/10/24 02:29:12+00,C11,21,Black or African American,Male,GSW,22,1,2022,4,10,Dorchester,
+735,222040203,2022/06/02 20:06:22+00,2022/06/03 02:03:25+00,C11,37,Black or African American,Male,GSW,22,5,2022,2,6,Dorchester,Not Hispanic or Latinx
+736,232021346,2023/03/20 22:14:26+00,2023/03/21 00:56:31+00,A1,46,,,Trauma,20,2,2023,1,3,Downtown,
+737,182033779,2018/05/06 15:15:00+00,2018/05/05 01:41:00+00,E13,23,Black or African American,Male,GSW,21,6,2018,2,5,Jamaica Plain,Not Hispanic or Latinx
+738,162053997,2016/07/08 18:14:45+00,2016/07/07 15:36:48+00,C11,27,Black or African American,Male,GSW,11,5,2016,3,7,Dorchester,Not Hispanic or Latinx
+739,172087538,2017/10/20 04:30:00+00,2017/10/20 04:22:00+00,C11,38,White,Male,GSW,0,6,2017,4,10,Dorchester,Hispanic or Latinx
+740,192008843,2019/02/03 14:55:00+00,2019/02/03 14:55:00+00,B3,29,White,Male,GSW,9,1,2019,1,2,Mattapan,Hispanic or Latinx
+741,182074555,2018/09/16 00:10:00+00,2018/09/16 00:10:00+00,B2,29,Black or African American,Male,GSW,20,7,2018,3,9,Dorchester,Not Hispanic or Latinx
+742,I192075250,2019/09/19 01:12:06+00,2019/09/19 01:12:06+00,D4,32,Black or African American,Male,STAB,21,4,2019,3,9,Roxbury,Not Hispanic or Latinx
+743,222056542,2022/07/27 19:28:21+00,2022/07/27 23:27:14+00,C11,15,Black or African American,Male,GSW,19,4,2022,3,7,,Not Hispanic or Latinx
+744,162092746,2016/11/13 21:46:00+00,2016/11/12 21:46:00+00,B3,28,Black or African American,Male,GSW,16,7,2016,4,11,Dorchester,Not Hispanic or Latinx
+745,192027439,2019/04/14 03:07:50+00,2019/04/14 03:07:49+00,B3,53,Black or African American,Male,GSW,23,7,2019,2,4,Mattapan,Not Hispanic or Latinx
+746,192058537,2019/07/29 03:09:41+00,2019/07/29 03:09:41+00,C11,20,Black or African American,Male,GSW,23,1,2019,3,7,Dorchester,Not Hispanic or Latinx
+747,202055998,2020/08/06 19:58:13+00,2020/08/06 13:12:55+00,B3,26,Black or African American,Male,GSW,9,5,2020,3,8,Mattapan,Not Hispanic or Latinx
+748,182042418,2018/06/02 03:53:00+00,2018/06/02 03:53:00+00,A7,29,Black or African American,Male,GSW,23,6,2018,2,6,East Boston,Not Hispanic or Latinx
+749,182053414,2018/07/07 19:06:00+00,2018/07/07 19:06:00+00,B2,30,Black or African American,Male,GSW,15,7,2018,3,7,Roxbury,Hispanic or Latinx
+750,232060395,2023/07/30 22:22:08+00,2023/07/30 23:47:46+00,B2,33,Black or African American,Male,GSW,19,1,2023,3,7,Roxbury,Not Hispanic or Latinx
+751,152066828,2015/08/13 20:44:46+00,2015/08/13 02:15:00+00,E13,20,White,Male,GSW,22,4,2015,3,8,Jamaica Plain,Hispanic or Latinx
+752,152079378,2015/09/24 12:09:49+00,2015/09/24 00:40:00+00,B2,21,Black or African American,Male,GSW,20,4,2015,3,9,Dorchester,Not Hispanic or Latinx
+753,162073020,2016/09/07 23:44:00+00,2016/09/07 23:44:00+00,B3,21,Black or African American,Male,GSW,19,4,2016,3,9,Dorchester,Not Hispanic or Latinx
+754,172065378,2017/08/10 02:34:14+00,2017/08/10 02:33:00+00,B2,42,Black or African American,Male,GSW,22,4,2017,3,8,Dorchester,Not Hispanic or Latinx
+755,222066965,2022/09/01 20:12:14+00,2022/09/01 08:46:41+00,E13,39,Black or African American,Male,Trauma,4,5,2022,3,9,Jamaica Plain,Not Hispanic or Latinx
+756,202051043,2020/07/19 20:42:08+00,2020/07/19 20:42:08+00,B3,16,Black or African American,Male,GSW,16,1,2020,3,7,Dorchester,Not Hispanic or Latinx
+757,212055190,2021/08/08 15:53:39+00,2021/08/08 12:35:39+00,B2,34,White,Male,STAB,8,1,2021,3,8,Roxbury,Hispanic or Latinx
+758,152020804,2015/03/15 07:59:44+00,2015/03/15 07:58:26+00,E18,21,Black or African American,Male,GSW,3,1,2015,1,3,Hyde Park,Not Hispanic or Latinx
+759,222006027,2022/01/26 19:52:51+00,2022/01/27 01:10:27+00,B2,33,Black or African American,Male,STAB,20,4,2022,1,1,Roxbury,Not Hispanic or Latinx
+760,172035483,2017/05/05 14:53:00+00,2017/05/06 02:48:00+00,B2,18,Black or African American,Male,STAB,22,6,2017,2,5,Dorchester,Not Hispanic or Latinx
+761,212041733,2021/06/21 01:23:13+00,2021/06/21 00:36:12+00,B2,33,Black or African American,Male,GSW,20,1,2021,2,6,Roxbury,Not Hispanic or Latinx
+762,222096629,2022/12/16 02:47:27+00,2022/12/16 04:20:56+00,B2,22,White,Male,GSW,23,5,2022,4,12,,Hispanic or Latinx
+763,152087906,2015/10/23 18:09:46+00,2015/10/23 05:54:00+00,D14,30,Black or African American,Male,GSW,1,6,2015,4,10,Brighton,Not Hispanic or Latinx
+764,222067867,2022/09/04 20:06:12+00,2022/09/04 06:59:47+00,C11,32,Black or African American,Male,GSW,2,1,2022,3,9,Dorchester,Not Hispanic or Latinx
+765,152002215,2015/01/09 03:45:00+00,2015/01/09 03:45:00+00,B2,24,Black or African American,Male,GSW,22,5,2015,1,1,Roxbury,Not Hispanic or Latinx
+766,212007210,2021/07/21 21:16:00+00,2021/02/03 17:26:38+00,A7,91,White,Female,Trauma,12,4,2021,1,2,East Boston,Not Hispanic or Latinx
+767,172046900,2017/06/13 00:40:53+00,2017/06/13 00:44:00+00,B3,37,Black or African American,Male,GSW,20,2,2017,2,6,Mattapan,Not Hispanic or Latinx
+768,202075514,2020/10/18 19:33:26+00,2020/10/14 01:27:18+00,B3,18,Black or African American,Male,GSW,21,3,2020,4,10,Dorchester,Not Hispanic or Latinx
+769,212003327,2021/01/15 14:33:24+00,2021/01/15 23:29:18+00,B3,17,Black or African American,Male,GSW,18,6,2021,1,1,Dorchester,Not Hispanic or Latinx
+770,172099946,2017/12/02 04:47:00+00,2017/12/02 04:47:00+00,C11,31,Black or African American,Male,GSW,23,6,2017,4,12,Dorchester,Not Hispanic or Latinx
+771,182008982,2018/02/03 18:49:00+00,2018/02/03 18:49:00+00,C11,20,Black or African American,Male,GSW,13,7,2018,1,2,Dorchester,Not Hispanic or Latinx
+772,192103637,2019/12/25 21:51:34+00,2019/12/25 18:26:04+00,D4,1,White,Male,Trauma,13,4,2019,4,12,Roxbury,Not Hispanic or Latinx
+773,172008070,2017/01/31 14:00:42+00,2017/01/30 11:24:00+00,C11,49,Black or African American,Male,GSW,6,2,2017,1,1,Dorchester,Not Hispanic or Latinx
+774,202014058,2020/02/21 04:13:46+00,2020/02/21 04:13:46+00,B3,46,White,Male,GSW,23,5,2020,1,2,Dorchester,Hispanic or Latinx
+775,182082677,2018/10/13 01:31:00+00,2018/10/13 01:31:00+00,B3,33,Black or African American,Male,GSW,21,6,2018,4,10,Dorchester,Not Hispanic or Latinx
+776,050514974,2016/01/01 14:17:27+00,2005/09/24 05:01:00+00,B2,16,Black or African American,Male,GSW,1,7,2005,3,9,Roxbury,Not Hispanic or Latinx
+777,202084756,2020/11/17 03:05:45+00,2020/11/17 03:04:08+00,E18,20,Black or African American,Male,GSW,22,2,2020,4,11,Hyde Park,Hispanic or Latinx
+778,172105745,2017/12/23 08:13:00+00,2017/12/23 08:13:00+00,C11,48,White,Male,GSW,3,7,2017,4,12,Dorchester,Not Hispanic or Latinx
+779,232013379,2023/02/18 17:45:33+00,2023/02/19 04:34:32+00,D4,37,Black or African American,Male,GSW,23,7,2023,1,2,Roxbury,Not Hispanic or Latinx
+780,202049803,2020/08/22 13:46:41+00,2020/07/15 01:14:41+00,B2,24,Unknown,Male,GSW,21,3,2020,3,7,Roxbury,Unknown
+781,162009550,2016/02/05 22:46:00+00,2016/02/04 22:46:00+00,B2,22,Black or African American,Male,GSW,17,5,2016,1,2,Roxbury,Not Hispanic or Latinx
+782,222081486,2022/10/22 20:04:56+00,2022/10/22 04:59:46+00,B3,36,Black or African American,Male,GSW,0,7,2022,4,10,Dorchester,Not Hispanic or Latinx
+783,152062504,2015/07/29 20:01:25+00,2015/07/29 02:32:00+00,B2,31,White,Female,GSW,22,3,2015,3,7,Dorchester,Hispanic or Latinx
+784,162067346,2016/08/21 18:23:07+00,2016/08/20 04:05:00+00,B2,35,Black or African American,Male,GSW,0,7,2016,3,8,Dorchester,Hispanic or Latinx
+785,162101250,2016/12/13 15:48:00+00,2016/12/12 19:55:00+00,C11,24,Black or African American,Male,GSW,14,2,2016,4,12,Dorchester,Not Hispanic or Latinx
+786,202034010,2020/05/16 23:54:46+00,2020/05/16 23:54:46+00,C11,56,Black or African American,Male,GSW,19,7,2020,2,5,Dorchester,Not Hispanic or Latinx
+787,202043876,2020/06/23 05:55:40+00,2020/06/23 05:51:40+00,B3,19,Black or African American,Male,GSW,1,3,2020,2,6,Dorchester,Not Hispanic or Latinx
+788,212073444,2021/10/10 16:06:57+00,2021/10/10 18:59:57+00,E18,20,Black or African American,Male,GSW,14,1,2021,4,10,Hyde Park,Not Hispanic or Latinx
+789,182080411,2018/10/05 07:31:00+00,2018/10/05 07:31:00+00,C6,26,Black or African American,Male,GSW,3,6,2018,4,10,Roxbury,Not Hispanic or Latinx
+790,192061117,2019/08/06 05:29:20+00,2019/08/06 05:29:20+00,B3,18,Black or African American,Male,GSW,1,3,2019,3,8,Dorchester,Not Hispanic or Latinx
+791,192088243,2019/10/31 20:51:48+00,2019/10/31 18:05:22+00,E18,44,White,Male,GSW,14,5,2019,4,10,Roslindale,Hispanic or Latinx
+792,222053028,2022/07/16 21:58:00+00,2022/07/16 05:03:53+00,C11,48,Black or African American,Male,STAB,1,7,2022,3,7,,Not Hispanic or Latinx
+793,232031186,2023/04/23 22:16:21+00,2023/04/23 01:37:44+00,E18,23,Black or African American,Male,GSW,21,7,2023,2,4,Hyde Park,Not Hispanic or Latinx
+794,152101840,2015/12/10 13:39:29+00,2015/12/10 01:18:00+00,B3,27,Black or African American,Male,GSW,20,4,2015,4,12,Dorchester,Not Hispanic or Latinx
+795,192015793,2019/03/02 07:59:00+00,2019/03/02 07:59:00+00,B3,32,Black or African American,Male,GSW,2,7,2019,1,3,Dorchester,Not Hispanic or Latinx
+796,222085581,2022/11/04 19:41:12+00,2022/11/05 02:42:15+00,D4,39,Black or African American,Male,GSW,22,6,2022,4,11,South End,Not Hispanic or Latinx
+797,162029672,2016/04/20 19:28:49+00,2016/04/17 05:18:06+00,C11,45,White,Male,Trauma,1,1,2016,2,4,Dorchester,Not Hispanic or Latinx
+798,172051926,2017/07/01 13:53:00+00,2017/06/28 13:57:00+00,C11,20,Black or African American,Male,GSW,9,4,2017,2,6,Dorchester,Not Hispanic or Latinx
+799,182036836,2018/05/15 23:03:53+00,2018/05/15 14:39:00+00,B3,33,Black or African American,Male,GSW,10,3,2018,2,5,Mattapan,Not Hispanic or Latinx
+800,202053871,2020/07/30 03:15:38+00,2020/07/30 03:10:38+00,C11,28,Black or African American,Male,GSW,23,4,2020,3,7,Dorchester,Not Hispanic or Latinx
+801,212031592,2021/05/14 14:07:44+00,2021/05/15 00:34:44+00,D4,24,White,Male,STAB,20,6,2021,2,5,South End,Hispanic or Latinx
+802,212059080,2021/08/23 18:28:15+00,2021/08/22 04:34:11+00,B3,30,Black or African American,Male,GSW,0,1,2021,3,8,Mattapan,Hispanic or Latinx
+803,172079527,2017/09/24 10:40:56+00,2017/09/24 10:39:00+00,C6,33,White,Male,GSW,6,1,2017,3,9,South Boston,Hispanic or Latinx
+804,192033997,2019/05/09 19:56:02+00,2019/05/08 14:05:01+00,B3,24,Black or African American,Male,GSW,10,4,2019,2,5,Dorchester,Not Hispanic or Latinx
+805,192047704,2019/06/23 19:02:16+00,2019/06/23 19:02:38+00,B3,25,Black or African American,Male,GSW,15,1,2019,2,6,Mattapan,Not Hispanic or Latinx
+806,172068857,2017/08/21 01:39:34+00,2017/08/21 01:39:00+00,B2,30,Black or African American,Female,GSW,21,1,2017,3,8,Roxbury,Not Hispanic or Latinx
+807,152075106,2015/09/10 15:20:00+00,2015/09/10 08:38:00+00,B2,32,Black or African American,Male,GSW,4,5,2015,3,9,Roxbury,Not Hispanic or Latinx
+808,162078997,2016/09/27 05:00:18+00,2016/09/27 04:56:00+00,E13,42,Black or African American,Male,GSW,0,3,2016,3,9,Jamaica Plain,Not Hispanic or Latinx
+818,232070897,2023/09/02 18:16:00+00,2023/09/03 03:41:08+00,B3,22,Black or African American,Male,GSW,23,7,2023,3,9,Dorchester,Hispanic or Latinx
+826,232072799,2023/09/09 17:01:20+00,2023/09/09 09:26:30+00,B3,29,Black or African American,Female,GSW,5,7,2023,3,9,Dorchester,Not Hispanic or Latinx
+841,232082860,2023/10/13 14:42:38+00,2023/10/13 18:06:41+00,C11,30,Black or African American,Male,GSW,14,6,2023,4,10,Dorchester,Not Hispanic or Latinx
+844,232083024,2023/10/14 19:16:06+00,2023/10/14 04:27:49+00,B3,25,Black or African American,Male,GSW,0,7,2023,4,10,Mattapan,Not Hispanic or Latinx
+850,232084591,2023/10/20 01:15:03+00,2023/10/19 15:00:46+00,E18,,,,STAB,11,5,2023,4,10,Mattapan,
+859,232095738,2023/11/25 21:22:43+00,2023/11/25 19:37:52+00,D14,24,,Male,GSW,14,7,2023,4,11,Allston,
+870,232100807,2023/12/11 15:23:02+00,2023/12/11 22:33:02+00,E5,,,,STAB,17,2,2023,4,12,Roslindale,
+875,232101811,2023/12/15 15:24:46+00,2023/12/15 11:40:52+00,A7,34,,Male,STAB,6,6,2023,4,12,East Boston,
+885,232106072,2023/12/30 18:51:49+00,2023/12/30 05:52:04+00,C11,41,Black or African American,Male,GSW,0,7,2023,4,12,Dorchester,Not Hispanic or Latinx
+886,242000085,2024/01/01 18:22:06+00,2024/01/01 10:29:42+00,C11,24,Black or African American,Male,GSW,5,2,2024,1,1,Dorchester,Not Hispanic or Latinx
