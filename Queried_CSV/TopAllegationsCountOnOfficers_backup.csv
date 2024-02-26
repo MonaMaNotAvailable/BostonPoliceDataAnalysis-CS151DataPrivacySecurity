@@ -1,0 +1,2951 @@
+"first_name","last_name","rank","neighborhood","allegation_count","allegation_percentage"
+" Lanita D","Cullinane","sgtdet","Braintree",118,1.12
+" Lawrence D","Welch","ptl","Jamaica Plain",98,0.93
+" Frederick M","Mendes","ptl","Holbrook",88,0.83
+" Craig D","Jones","ptl","Bridgewater",82,0.78
+" Sharon","Dottin","depsup","Hyde Park",72,0.68
+" James KY","Chin","depsup","Hyde Park",72,0.68
+" Winifred","Cotter","supt","South Boston",72,0.68
+" Michael J","Stratton","depsup","Dorchester",72,0.68
+" Marcus C","Eddings","supt","Mattapan",72,0.68
+" Gerard W","Bailey","supt","Quincy",72,0.68
+" Kevin J","McGoldrick","depsup","South Boston",72,0.68
+" Kenneth J","Gaines","depsup","Hyde Park",72,0.68
+" Jeffrey I","Walcott","supt","South End",72,0.68
+" Beth E","Donovan","depsup","Dorchester",72,0.68
+" Richard","Dahill","depsup","South Boston",72,0.68
+" Courtney C","Matthews","depsup","Braintree",72,0.68
+" Dana S","Barrett","sergt","Hyde Park",60,0.57
+" Mark A","Clark","ptl","Bridgewater",60,0.57
+" Tyrone E","Smith","ptl","Mattapan",56,0.53
+" Kelvin M","Ervin","ptl","Hyde Park",56,0.53
+" Joseph","Lynch","ptl","Hyde Park",52,0.49
+" Louis A","Vasquez","ptl","Chelsea",50,0.47
+" James F","Meredith","sergt","Medway",50,0.47
+" Robert C","Boyle","sergt","Duxbury",48,0.45
+" Earl G","Jacob","ptl","Brockton",46,0.44
+" Haseeb","Hosein","capt","Milton",44,0.42
+" Steven A","Dodd","ptl","Roslindale",44,0.42
+" Rance","Cooley","ptl","Millis",44,0.42
+" Gladys","Frias","ptl","Hyde Park",40,0.38
+" Dwain R","Jackson","ptl","Norwood",40,0.38
+" Michael John","Boulger","ptl","West Roxbury",38,0.36
+" Jean-Paul","Limontas","det","Hyde Park",38,0.36
+" Joseph","Fawkes","ptl","Millis",36,0.34
+" Richard G","Moriarty","det","Duxbury",34,0.32
+" Robert F","Figueroa","ptl","Roxbury",34,0.32
+" Adam A","Mammone","sergt","Kingston",34,0.32
+" Scott R","Roby","ptl","Hyde Park",34,0.32
+" Martin O","Velez","ptl","East Boston",34,0.32
+" Sean","Flaherty","ptl","South Boston",34,0.32
+" Richard","Estrella","ptl","West Bridgewater",34,0.32
+" Jason C","Reid","ptl","Bridgewater",34,0.32
+" John T","Bergquist","ptl","Wrentham",32,0.30
+" Kirk D","Merricks","ptl","Dorchester",30,0.28
+" Sean F","Deery","det","Braintree",30,0.28
+" William J","Feeney","sgtdet","Westwood",30,0.28
+" Patrick K","Foley","ptl","South Boston",30,0.28
+" Dennis I","Morson","ptl","Mattapan",30,0.28
+" Paul W","Murphy","sgtdet","Westwood",30,0.28
+" Cesar","Abreu","sergt","Hyde Park",30,0.28
+" Mathew","Wosny","sergt","West Roxbury",30,0.28
+" Shana","Cottone","sergt","Norfolk",30,0.28
+" Leighton B","Facey","capt","North Easton",30,0.28
+" Charbel B","Kamel","ptl","West Roxbury",30,0.28
+" John H","Danilecki","capt","Walpole",30,0.28
+" Donna M","Gavin","ltdet","Milton",28,0.27
+" Liam P","Hawkins","ptl","West Roxbury",28,0.27
+" John K","Rogers","ptl","Weymouth",28,0.27
+" Vaden F","Scantlebury","ptl","East Boston",28,0.27
+" Roland D","Sandefur","ptl","Roxbury",28,0.27
+" Timothy M","Kervin","lieut","Allston/Brighton",28,0.27
+" Laura A","Delaney","det","South Easton",28,0.27
+" Thomas A","Joyce","sgtdet","Winthrop",28,0.27
+" Michael","Paillant","ptl","Roslindale",28,0.27
+" Sean","Paul","ptl","Mansfield",26,0.25
+" Lynwood","Jenkins","ptl","Roxbury",26,0.25
+" Joseph","Hynes","ptl","Pembroke",26,0.25
+" Thomas E","Lembo","sgtdet","Dedham",26,0.25
+" George J","Crowley","ptl","Allston/Brighton",26,0.25
+" Andrew B","Blake","ptl","Dorchester",26,0.25
+" Ramon M","Kelly-Chalas","ptl","Dorchester",26,0.25
+" Emmanuel C","Dambreville","ptl","Dorchester",26,0.25
+" Steven","Smigliani","ptl","Hyde Park",26,0.25
+" Matthew K","Carey","ptl","Winchester",26,0.25
+" Darnell V","Toomer","ptl","Quincy",26,0.25
+" Raymond A","Bowen","ptl","Hyde Park",26,0.25
+" David P","O'Sullivan","ptl","Dorchester",26,0.25
+" Patrick Edward","Byrne","sergt","South Boston",26,0.25
+" Paula M","Sutherland","ptl","South Easton",24,0.23
+" Nora L","Baston","supt","Roslindale",24,0.23
+" John P","Doris","sergt","Roslindale",24,0.23
+" Mariana Victoria","Avila","ptl","Roxbury",24,0.23
+" Wayne Emory","Hester","ptl","Dorchester",24,0.23
+" Garvin F","McHale","ptl","Dorchester",24,0.23
+" Mary M","Rooney","det","Norwood",24,0.23
+" Francisco","Colon","ptl","Hyde Park",24,0.23
+" Matthew J","Conley","ptl","Hyde Park",24,0.23
+" Paul R","Donovan","supt","Dorchester",24,0.23
+" Gregory P","Long","supt","Canton",24,0.23
+" William G","Ridge","supt","Scituate",24,0.23
+" Kevin T","Smith","ptl","Charlestown",24,0.23
+" Wayne","Lanchester","capt","Walpole",24,0.23
+" Dennis A","White","supt","Randolph",24,0.23
+" Kenneth H","Grubbs","ptl","Brockton",24,0.23
+" William G","Gross","comiss","Roslindale",24,0.23
+" Dante B","Williams","det","Hyde Park",24,0.23
+" John P","Quinn","ptl","West Roxbury",24,0.23
+" Willie B","Lyons","ptl","Hyde Park",24,0.23
+" Mark P","Hayes","capt","Pembroke",24,0.23
+" Richard P","McNeill","ptl","Plymouth",24,0.23
+" Michael P","Russell","ptl","Dorchester",24,0.23
+" Shawn J","Grant","ptl","Hyde Park",24,0.23
+" Stephen R","Landrum","ptl","Jamaica Plain",22,0.21
+" Thomas","Gallagher","ptl","Methuen",22,0.21
+" Carlos A","Martinez","ptl","Hyde Park",22,0.21
+" Nilton","Ramos","ptl","Dorchester",22,0.21
+" Joel Christopher","McCarthy","sergt","South Boston",22,0.21
+" Agnaldo P","Monteiro","sergt","Roxbury",22,0.21
+" Jean Moise","Acloque","det","Norwood",22,0.21
+" Thomas J","Noto","ptl","Dorchester",22,0.21
+" David","Malcolm","ptl","Braintree",22,0.21
+" Paul J","Zelvis","sergt","Duxbury",22,0.21
+" Gregory","Brown","det","Brockton",22,0.21
+" Joslin A","Pierre-Thomas","ptl","Ipswich",22,0.21
+" Marcelino","Cardoso","det","Allston/Brighton",22,0.21
+" Jay D","Soares","ptl","Dorchester",22,0.21
+" John A","Conway","ptl","Weymouth",22,0.21
+" James","Conley","ptl","Stoneham",22,0.21
+" Paul J","Downey","ptl","West Roxbury",22,0.21
+" Robert J","Donaruma","lieut","West Roxbury",20,0.19
+" Roselyn","Lacroix","ptl","Dorchester",20,0.19
+" William J","Kelley","det","Billerica",20,0.19
+" Darryn L","Brown","sgtdet","Dorchester",20,0.19
+" Michael Colin","Doherty","ptl","South Boston",20,0.19
+" Paul E","Delaney","sergt","Weymouth",20,0.19
+" Cynthia M","Beckford-Brewington","ptl","Mattapan",20,0.19
+" Michael M","Ross","det","Westwood",20,0.19
+" Dana C","Lamb","ptl","Roslindale",20,0.19
+" Francis N","Garcia","ptl","Brockton",20,0.19
+" James A","Moore","sgtdet","Roslindale",20,0.19
+" Andrew J","Fay","ptl","West Roxbury",20,0.19
+" Richard E","Davis","ptl","Dorchester",20,0.19
+" Richard L","Greer","ptl","Hyde Park",20,0.19
+" Thomas F","Rose","sergt","Jamaica Plain",20,0.19
+" Domingo R","Montiero","ptl","Roxbury",20,0.19
+" Thomas","Bent","ptl","West Roxbury",20,0.19
+" Jeffrey C","Cecil","det","West Roxbury",20,0.19
+" Anthony B","Platt","ptl","Brockton",20,0.19
+" John M","Johnson","sergt","Milton",20,0.19
+" Anthony M","Alexis","ptl","West Bridgewater",20,0.19
+" Ismael","Sosa","ptl","Hyde Park",20,0.19
+" John W","Earley","lieut","Walpole",20,0.19
+" Sixto","Merced","sergt","Mattapan",20,0.19
+" Javier A","Velasquez","ptl","Roslindale",20,0.19
+" Joseph D","McDonough","ptl","Dorchester",20,0.19
+" Sean","Martin","lieut","Norwood",20,0.19
+" James R","Sheehan","det","Dorchester",20,0.19
+" Joseph P","Gorman III","ptl","Walpole",20,0.19
+" Samuel J","Berte","ptl","Braintree",20,0.19
+" Amy M","Erlandson","sgtdet","Medfield",18,0.17
+" Jeffrey","King","sergt","Allston/Brighton",18,0.17
+" Jimmy","Giraldo","det","Norwell",18,0.17
+" Ronald E","Pirrello","sergt","Canton",18,0.17
+" Rory M","Coleman","ptl","Dorchester",18,0.17
+" Robert M","Lundbohm","det","Reading",18,0.17
+" Charles R","Moore","sergt","Dorchester",18,0.17
+" Wayne G","Clarke","sgtdet","Framingham",18,0.17
+" Kathleen P","Doris","sgtdet","Roslindale",18,0.17
+" Christopher M","Holt","ptl","Dorchester",18,0.17
+" Daniel M","Humphreys","sgtdet","Walpole",18,0.17
+" Ann Marie","Barrett","ptl","Quincy",18,0.17
+" Isabel C","Sweet","sergt","East Boston",18,0.17
+" Richard L","Medina","sgtdet","Walpole",18,0.17
+" Jahad","Hasan","ptl","Wayland",18,0.17
+" Franklyn","Centeio Sr.","ptl","Hyde Park",18,0.17
+" John J","Manning","ptl","Rockland",18,0.17
+" Samora F","Lopes","ptl","Back Bay/Beacon Hill",18,0.17
+" John M","Noberini","sergt","Wilmington",18,0.17
+" Greg T","Walsh","det","South Boston",18,0.17
+" William R","Hubbard","ptl","West Roxbury",18,0.17
+" Anthony","Parham","ptl","Roxbury",18,0.17
+" Wilfredo","Coriano","ptl","Dorchester",18,0.17
+" Sean M","Doherty","sgtdet","Marshfield",18,0.17
+" Wandy A","Rosario","ptl","Jamaica Plain",18,0.17
+" Timothy P","Stanton","det","Dedham",16,0.15
+" Daryle Patrick","Dwan","lieut","Bellingham",16,0.15
+" Michael A","Brown","sgtdet","Marshfield",16,0.15
+" India D","Lynch","ptl","West Roxbury",16,0.15
+" Sean","Daniely","det","Fenway/Kenmore",16,0.15
+" David J","Clemons Sr.","ptl","Roxbury",16,0.15
+" David R","Lanteigne","ptl","Concord",16,0.15
+" Robert M","Charbonnier","sergt","Braintree",16,0.15
+" Desmond","Tyler","det","Stoughton",16,0.15
+" Jeffrey","Cahill","ptl","Rockland",16,0.15
+" John J","Fitzgerald","lieut","West Roxbury",16,0.15
+" Stephen J","Ridge","det","Scituate",16,0.15
+" William M","Cloran Jr.","ptl","Central Boston",16,0.15
+" Jailson C","Ramos","ptl","Roxbury",16,0.15
+" Daniel J","McCarthy","ptl","Dorchester",16,0.15
+" John F","Downey","ptl","West Roxbury",16,0.15
+" Clifton","McHale","sergt","Charlestown",16,0.15
+" Thomas J","Domenico","ptl","Saugus",16,0.15
+" William F","Traft","det","Dorchester",16,0.15
+" Richard J","Driscoll","lieut","Dorchester",16,0.15
+" David L","O'Connor","sergt","Allston/Brighton",16,0.15
+" Timothy Andrew","Brady","ptl","Abington",16,0.15
+" David L","Santosuosso","ptl","Westwood",16,0.15
+" Luis M","Anjos","det","Hanson",16,0.15
+" Cleveland A","Burwell","ptl","Cambridge",16,0.15
+" Caetano A","Teixeira","ptl","Raynham",16,0.15
+" James","Holder","ptl","Dorchester",16,0.15
+" Mark Joseph","Loewen","ptl","Roslindale",16,0.15
+" Michael","Estepe","ptl","Bridgewater",16,0.15
+" Edward J","MacPherson","ptl","Westwood",16,0.15
+" Michael Patrick","Stewart","ptl","South Boston",16,0.15
+" Christopher","Mylett","ptl","Mansfield",16,0.15
+" Carlson","Breneus","ptl","West Roxbury",16,0.15
+" Michael","Golden","det","Hingham",16,0.15
+" Windell C","Josey","det","Brockton",16,0.15
+" Elbert Miguel","Pereira","ptl","Mattapan",16,0.15
+" Scott","Pulchansingh","ptl","Hyde Park",16,0.15
+" Ryan H","Manning","ptl","West Roxbury",14,0.13
+" Otis C","Harewood","ptl","South End",14,0.13
+" Michael Christopher","Coppinger","ptl","Dorchester",14,0.13
+" Myron W","Phillips","ptl","Roxbury",14,0.13
+" Myles","Lawton","ptl","North Billerica",14,0.13
+" Michael F","Doran","ptl","South Boston",14,0.13
+" Fabian J","Belgrave","det","Hyde Park",14,0.13
+" Molwyn A","Shaw","det","Dorchester",14,0.13
+" Jerome A","Hall-Brewster","sergt","Stoughton",14,0.13
+" Jimmy Le","Nguyen","ptl","West Roxbury",14,0.13
+" Joaquim P","Antunes","ptl","Framingham",14,0.13
+" Frank James","O'Brien","ptl","West Roxbury",14,0.13
+" Timothy J","Hancock","ptl","Dorchester",14,0.13
+" Thomas Michael","Finn","ptl","Wrentham",14,0.13
+" Thomas J","Teahan","ltdet","Mashpee",14,0.13
+" Andrew","Crosby","ptl","Marblehead",14,0.13
+" Steven L","Horne","det","Hyde Park",14,0.13
+" Adrian S","Worrell","sergt","Roslindale",14,0.13
+" Derek","Kelley","ptl","Charlestown",14,0.13
+" John P","Mullan","ptl","Billerica",14,0.13
+" Jose","Molina","ptl","South Easton",14,0.13
+" Joseph","Downing","det","West Roxbury",14,0.13
+" Eric L","MacPherson","ptl","Reading",14,0.13
+" Shawn J","McCarthy","ptl","East Boston",14,0.13
+" Shaun M","McBrien","ptl","Hyde Park",14,0.13
+" Baltazar","Darosa","ptl","Brockton",14,0.13
+" Joseph Glynn","Simonson","ptl","Dorchester",14,0.13
+" Sean F","Joyce","det","West Roxbury",14,0.13
+" Vance C","Mills","det","Brockton",14,0.13
+" William Leo","Parlon","det","Roslindale",14,0.13
+" David S","Gavin","sgtdet","West Roxbury",14,0.13
+" Paul J","Russell","capt","Marshfield",14,0.13
+" Edwin Manuel","Lopez","ptl","Hyde Park",14,0.13
+" Keith P","Kaplan","ptl","Roslindale",14,0.13
+" Keith R","Wood","ptl","Bridgewater",14,0.13
+" Roderick L","Lewis","ptl","Weymouth",14,0.13
+" Kevin M","Welsh","sergt","Attleboro",14,0.13
+" Brian C","Mahoney","sergt","South Boston",14,0.13
+" Kevin Michael","Magoon","det","Quincy",14,0.13
+" Robert H","Connolly","ptl","Haverhill",14,0.13
+" Robert A","Griffin","det","Dorchester",14,0.13
+" Daniel J","Tracey","sergt","Quincy",14,0.13
+" Gregory N","Webb","ptl","Mattapan",14,0.13
+" Leonard J","Lilly","ptl","Dorchester",14,0.13
+" Linda E","Stanford","ptl","Jamaica Plain",14,0.13
+" Lucas E","Taxter","sgtdet","East Boston",14,0.13
+" James J","Freeman","sergt","West Roxbury",14,0.13
+" Peter N","Fontanez","ptl","Shrewsbury",14,0.13
+" Edward P","Barrett","sergt","Norwell",14,0.13
+" Mark S","Bordley","ptl","North Easton",14,0.13
+" Daphney","Orion","ptl","Randolph",12,0.11
+" Joseph R","Horton","lieut","Kingston",12,0.11
+" Ildo D","Goncalves","ptl","Brockton",12,0.11
+" Lamont","Anderson","det","Hyde Park",12,0.11
+" Clarence T","Morris","ptl","Mattapan",12,0.11
+" Joseph Garrette","Tate","ptl","Hyde Park",12,0.11
+" Debra M","Fisher","ptl","Plymouth",12,0.11
+" Shawn P","Marando","ptl","Littleton",12,0.11
+" Eliot","Telisnor","ptl","Hyde Park",12,0.11
+" Jackson","Geneus","ptl","Roslindale",12,0.11
+" Ana c","Almeida","ptl","Hyde Park",12,0.11
+" Anthony F","Lamonica","ptl","Dorchester",12,0.11
+" Diamantino E","Araujo","ptl","Milton",12,0.11
+" Paul D","Wright","ptl","Littleton",12,0.11
+" Anthony","Williams","det","Randolph",12,0.11
+" Patrick","Kane","det","Milton",12,0.11
+" Paul J","Passanisi","ptl","Marshfield",12,0.11
+" Brian R","Dunford","sergt","Milton",12,0.11
+" Tarus Jay","Jefferson","ptl","Malden",12,0.11
+" Edward L","Gately","ptl","Braintree",12,0.11
+" Terrence Shane","Burke","det","Dorchester",12,0.11
+" Brian W","Johnson","det","Duxbury",12,0.11
+" John F","Kenneally","ptl","Westwood",12,0.11
+" Gregory L","Vickers","ptl","Hyde Park",12,0.11
+" Janet P","Lewis","ptl","Roslindale",12,0.11
+" John F","Alves","ptl","Dorchester",12,0.11
+" Daniel G","Griffin","det","Dorchester",12,0.11
+" John D","Broderick","sgtdet","Dorchester",12,0.11
+" Thomas J","O'Leary","sgtdet","Canton",12,0.11
+" Angelo R","Hernandez","ptl","Roslindale",12,0.11
+" Tiffany R","Chaplin","ptl","Mattapan",12,0.11
+" Clifton W","Singletary","ptl","Randolph",12,0.11
+" Richard H","Fitzpatrick","sergt","Dover",12,0.11
+" Timothy","Denio","ptl","Dorchester",12,0.11
+" Alfred A","James","det","Brockton",12,0.11
+" Timothy","Lenane","ptl","Dedham",12,0.11
+" Richard D","Freedman","ptl","Roslindale",12,0.11
+" John","Tevnan","lieut","Weymouth",12,0.11
+" Luke B","Holbrook","sergt","Canton",12,0.11
+" John","Moynihan","ptl","Norwood",12,0.11
+" Jarrod A","Gero","det","West Roxbury",12,0.11
+" Dowayne O","Lewis","ptl","Medfield",12,0.11
+" Frank G","Williams","ptl","South End",12,0.11
+" Francisco","Rodriguez","ptl","Hyde Park",12,0.11
+" Calvin","Belfon","ptl","Dorchester",12,0.11
+" Gary","Barker","sgtdet","Roxbury",12,0.11
+" Andrew C","Powers","ptl","Somerset",12,0.11
+" Edward A","Moquete","ptl","Lawrence",12,0.11
+" Raul A","Sutherland","ptl","Roxbury",12,0.11
+" Gary J","Ryan","lieut","Dorchester",12,0.11
+" Francesco","Recupero","ptl","Winthrop",12,0.11
+" Elvin","Aviles","ptl","Roslindale",12,0.11
+" Patrick MJ","Foley","det","Walpole",12,0.11
+" Ralph W","Caulfield","sergt","Canton",12,0.11
+" Manuel","Blas","sgtdet","Hyde Park",12,0.11
+" Michael P","Pankievich","ptl","Peabody",12,0.11
+" Christopher","Rooney","ptl","Dorchester",12,0.11
+" Michael J","Spence","ptl","Dorchester",12,0.11
+" Phillip K","Wong","ptl","Dorchester",12,0.11
+" Michael H","Byrnes","det","East Boston",12,0.11
+" Carlton A","Williamson","det","North Easton",12,0.11
+" Christopher F","Carroll","sgtdet","Dorchester",12,0.11
+" Philip","Bissonnette","sergt","Franklin",12,0.11
+" Monicka D","Stinson","ptl","Dorchester",12,0.11
+" Patrick W","Wood","ptl","Dedham",12,0.11
+" Michael G","Talbot","sgtdet","Milton",12,0.11
+" Craig E","Crowley","ptl","Dorchester",12,0.11
+" Christopher J","McCarthy","ptl","Marshfield",12,0.11
+" Norberto B","Perez","sergt","East Boston",12,0.11
+" Jeffrey F","Hannigan","ptl","Southborough",12,0.11
+" Davey Kenneth","Stephens","ptl","Hyde Park",12,0.11
+" Andrew","Heggie","ptl","Dorchester",12,0.11
+" Edward K","Kwok","ptl","Natick",12,0.11
+" Tisha L","Murphy","det","Dorchester",12,0.11
+" David","Godin","ptl","Wilmington",12,0.11
+" Omar","Borges","ptl","Hyde Park",12,0.11
+" Kevin","Smith","ptl","West Roxbury",12,0.11
+" Edward W","Cox II","ptl","Dorchester",12,0.11
+" David C","Murphy","lieut","Braintree",12,0.11
+" Helen","Bucelewicz","ptl","Allston/Brighton",12,0.11
+" Justin P","Wood","sergt","Marshfield",12,0.11
+" Sabrina","Gill","ptl","Hyde Park",12,0.11
+" Joseph R","Leeman","lieut","South Boston",12,0.11
+" William L","Chen","ptl","Milton",12,0.11
+" Ellys E","Lee","ptl","Roslindale",10,0.09
+" James D","Hawkins","ptl","Medford",10,0.09
+" James C","Clark","ptl","West Roxbury",10,0.09
+" James B","Conley","lieut","Norton",10,0.09
+" Adam J","Fornash","ptl","Charlestown",10,0.09
+" Humberto","DaVeiga","ptl","Roxbury",10,0.09
+" Harry F","Scales","ptl","Mattapan",10,0.09
+" Gregory D","Waldrip","det","Dorchester",10,0.09
+" Evon F","Burke","ptl","Mattapan",10,0.09
+" Evon J","Burroughs","ptl","Pembroke",10,0.09
+" Felipe I","Colon","depsup","Hyde Park",10,0.09
+" Gerald","Cahill","sgtdet","Dorchester",10,0.09
+" Gary","Barker Jr.","det","Dorchester",10,0.09
+" Frank A","Pomodoro","det","Peabody",10,0.09
+" Andrew J","Minichello","sergt","East Boston",10,0.09
+" Zachary Andrew","Crossen","ptl","West Roxbury",10,0.09
+" Timothy","Cullen","sergt","Walpole",10,0.09
+" Timothy","Callahan","ptl","West Roxbury",10,0.09
+" Terrance V","O'Toole","det","Scituate",10,0.09
+" Taylor S","Small","det","Pembroke",10,0.09
+" Steven M","Charbonnier","det","Braintree",10,0.09
+" Stephen M","Doran","ptl","Weymouth",10,0.09
+" Stephen C","McManus","det","West Roxbury",10,0.09
+" Stephen","Rioux","det","Dorchester",10,0.09
+" Stephen","McKunes","ptl","Dorchester",10,0.09
+" Stefania A","Panzavecchia","ptl","Hyde Park",10,0.09
+" Shumeane L","Benford","det","Dorchester",10,0.09
+" Shawn L","West","ptl","Roslindale",10,0.09
+" Selena","Farley","ptl","Hyde Park",10,0.09
+" Sean M","Murphy","ptl","Dorchester",10,0.09
+" Sean C","McCarthy","lieut","Winchester",10,0.09
+" Sean  M","Wilbanks","lieut","South Boston",10,0.09
+" Scott R","Mangino","ptl","Peabody",10,0.09
+" Beth","Leary","ltdet","Dorchester",10,0.09
+" Bienvenido","DeLaCruz","ptl","Dorchester",10,0.09
+" Sara D","Dorsey","sergt","Hyde Park",10,0.09
+" Ryan","Wilson","ptl","West Roxbury",10,0.09
+" Ryan","Conlon","det","Hingham",10,0.09
+" Brendan P","Walsh","lieut","Needham",10,0.09
+" Roger T","Burke","ptl","Dorchester",10,0.09
+" Brian","Evans","sgtdet","Stoneham",10,0.09
+" Alberto","Santiago","ptl","Wrentham",10,0.09
+" Robertkly","Joseph","ptl","West Roxbury",10,0.09
+" Robert W","Ciccolo","capt","Needham",10,0.09
+" Brian P","Lundy","ptl","Chelsea",10,0.09
+" William F","Dunne","ptl","Weymouth",10,0.09
+" Rico","Lucien","ptl","Hyde Park",10,0.09
+" Raymundo E","Melo","ptl","Raynham",10,0.09
+" Carl J","Nemes","ptl","Dorchester",10,0.09
+" Peter","Cabrera","ptl","Milton",10,0.09
+" Carole D","Holmes","ptl","Hanson",10,0.09
+" Paul William","Sheehan","ptl","Hyde Park",10,0.09
+" Paul W","Robertson","ptl","Foxboro",10,0.09
+" Castera","Bazile","ptl","Arlington",10,0.09
+" Paul M","Joseph","sergt","Roslindale",10,0.09
+" Paul A","Deleo Jr.","sergt","East Boston",10,0.09
+" Patrick","Kelly","ptl","West Roxbury",10,0.09
+" Wilfredo","Garcia","ptl","Hyde Park",10,0.09
+" Monique R","Cesar","ptl","Allston/Brighton",10,0.09
+" Michael P","McDonagh","ptl","Weymouth",10,0.09
+" Michael J","Linskey","sgtdet","Braintree",10,0.09
+" Michael H","Lam","ptl","Stoughton",10,0.09
+" Michael C","Hanson","sgtdet","Marshfield",10,0.09
+" Christopher J","Ross","ptl","Hanson",10,0.09
+" Christopher Mark","Keaney","ptl","West Roxbury",10,0.09
+" Michael","Destefano","ptl","Bridgewater",10,0.09
+" Matthew J","Kulesza","ptl","Hyde Park",10,0.09
+" Mark A","Maregni","det","Georgetown",10,0.09
+" Mark","Foley","ptl","Braintree",10,0.09
+" Daniel G","H mariam","ptl","Mattapan",10,0.09
+" Daniel P","Donahue","ptl","East Walpole",10,0.09
+" Walter T","Mitchell","det","Roxbury",10,0.09
+" Daniel S","O'Donnell","ptl","Hyde Park",10,0.09
+" Daran D","Edwards","sergt","Dorchester",10,0.09
+" Walter","Suprey","sergt","Danvers",10,0.09
+" Kyle J","Gomes","ptl","South Boston",10,0.09
+" W Scot","Green","ptl","Bridgewater",10,0.09
+" Kevin","McElmoyle","det","Hyde Park",10,0.09
+" David","Yee","det","Newton Center",10,0.09
+" Vincent H","Stephens","ptl","Roxbury",10,0.09
+" Wilson","Quiles","sergt","Hyde Park",10,0.09
+" Keith A","Webb","sgtdet","Roxbury",10,0.09
+" Karl","Dugal","ptl","Milton",10,0.09
+" Joseph M","Collins","ptl","Kingston",10,0.09
+" Joseph J P","Connolly","ptl","West Roxbury",10,0.09
+" Joseph h","McDonough","ptl","West Roxbury",10,0.09
+" Joseph E","Sullivan","sgtdet","West Roxbury",10,0.09
+" Joseph","Marrero","det","Walpole",10,0.09
+" John P","Conroy","lieut","South Boston",10,0.09
+" John N","Calisi","ptl","West Roxbury",10,0.09
+" Derrick S","Levy","sergt","Dorchester",10,0.09
+" John G","Fitzgerald","sgtdet","Marshfield",10,0.09
+" Donald F","Keenan","sgtdet","South Boston",10,0.09
+" Tommy T","Yung","ptl","Dorchester",10,0.09
+" Todd M","Peterson","ptl","Westwood",10,0.09
+" Joel","Resil","ptl","Pembroke",10,0.09
+" Joao C","Rodrigues","ptl","Randolph",10,0.09
+" Jessica C","Anderson","ptl","Mattapan",10,0.09
+" Andrell J","Jones","ptl","Hyde Park",10,0.09
+" Jeffrey C","Connolly","ptl","Hyde Park",10,0.09
+" Jason M","Ezekiel","ptl","Dorchester",10,0.09
+" Jason A","Nunez","ptl","Hyde Park",10,0.09
+" James W","Carnell","ptl","Quincy",10,0.09
+" Arthur W","Green","ptl","West Roxbury",8,0.08
+" Jose","Gomes","ptl","Roxbury",8,0.08
+" Carmen L","Curry","depsup","Hyde Park",8,0.08
+" Jonathan","O'Brien","ptl","Dorchester",8,0.08
+" Jonathan","Hester","sergt","Franklin",8,0.08
+" William J","Dwan","sgtdet","Hingham",8,0.08
+" Maria C","King","ptl","Dorchester",8,0.08
+" Stanley","Demesmin","lieut","Medfield",8,0.08
+" Curtis A","Jones","ptl","Dorchester",8,0.08
+" Robert W","Walsh","ptl","Quincy",8,0.08
+" Philip V","Barden","ptl","West Roxbury",8,0.08
+" John R","McCabe","det","Westwood",8,0.08
+" Daniel J","Adams","det","Roslindale",8,0.08
+" Stephen","Ryan","ptl","Canton",8,0.08
+" Stephen A","Borne","ptl","West Roxbury",8,0.08
+" Stephen E","Puopolo","ptl","Norwell",8,0.08
+" Matthew Paul","Stone","ptl","West Roxbury",8,0.08
+" Roberto B","LaColla","ptl","Marshfield",8,0.08
+" Patrick","Browning","sergt","Marshfield",8,0.08
+" Robin A","Demarco","sgtdet","Medford",8,0.08
+" Rodney O","Best","det","Scituate",8,0.08
+" Rick E","Johnson","sgtdet","Stoughton",8,0.08
+" Cary","Chin","det","Quincy",8,0.08
+" John M","Ridge","ptl","Braintree",8,0.08
+" Stephen P","O'Connell","ptl","South Boston",8,0.08
+" Anthony J","Poulos","ptl","West Roxbury",8,0.08
+" Kenneth M","Curley","det","Dorchester",8,0.08
+" Stephen W","Green","sergt","Braintree",8,0.08
+" Hubert G","Valmond","det","Roslindale",8,0.08
+" Zandarina C","Townsend","ptl","Randolph",8,0.08
+" Sybil F","Mason","ptl","Dorchester",8,0.08
+" John J","Gould","det","East Boston",8,0.08
+" Tamara M","Espinola","ptl","Mattapan",8,0.08
+" Robert","Cordasco","ptl","Marshfield",8,0.08
+" Diep H","Nguyen","ptl","Fitchburg",8,0.08
+" Roland S","Robinson","ptl","Dedham",8,0.08
+" Leroy A","Streat","ptl","Milton",8,0.08
+" David C","Williams","det","Brockton",8,0.08
+" Patrick","Morrison","sergt","Braintree",8,0.08
+" Carlos","Borgos","ptl","South Boston",8,0.08
+" Thomas C","Brooks","sergt","Braintree",8,0.08
+" Patrick J","McGillicuddy","ptl","Dorchester",8,0.08
+" David E","Melvin","ptl","Stoughton",8,0.08
+" Nytisha D","Brown","ptl","Canton",8,0.08
+" Brendan O","McIntyre","ptl","Dedham",8,0.08
+" Dana E","Grant","det","Plymouth",8,0.08
+" Jane","Claflin","ptl","Dorchester",8,0.08
+" Thomas Grimes","Doherty","ptl","Quincy",8,0.08
+" Lenin","Ortiz","ptl","Norton",8,0.08
+" James H","O'Brien","ptl","Walpole",8,0.08
+" Brendan M","O'Donnell","ptl","Marshfield",8,0.08
+" John C","Hughes","ltdet","West Roxbury",8,0.08
+" Karl T","Strother","sgtdet","Hyde Park",8,0.08
+" Roy A","Frederick","det","Hyde Park",8,0.08
+" David J","Edwards","det","Mattapan",8,0.08
+" Rebecca J","Leo","ptl","Roslindale",8,0.08
+" Andrew P","Mastrorillo","ptl","Hyde Park",8,0.08
+" Jason S","Gilmore Sr.","sergt","Roslindale",8,0.08
+" Richard","Casallas","det","West Roxbury",8,0.08
+" Kamil","Kluziak","ptl","Abington",8,0.08
+" Andrew L","Sepulveda","ptl","Dorchester",8,0.08
+" Kamau","Pritchard","ptl","Mattapan",8,0.08
+" Lyndon F","Christian","ptl","Hyde Park",8,0.08
+" Laurence C","Johnson","ptl","West Roxbury",8,0.08
+" Timothy G","Fitzpatrick","sergt","West Roxbury",8,0.08
+" Joel","Rodriguez","ptl","Hyde Park",8,0.08
+" Robert C","Young","ptl","Dorchester",8,0.08
+" Eamon D","Geoghegan","sergt","Central Boston",8,0.08
+" Brendan","Lyons","ptl","South Boston",8,0.08
+" Frank R","Chiola","ptl","Hyde Park",8,0.08
+" Salvatore A","Calabrese","ptl","Hyde Park",8,0.08
+" Jimmy R","Cox","ptl","Hyde Park",8,0.08
+" Timothy J","Torigian","lieut","Walpole",8,0.08
+" Joshua J","DeLaRosa","ptl","West Roxbury",8,0.08
+" Frederick D","Lane","ptl","Hyde Park",8,0.08
+" Estenel","Veillard","ptl","Hyde Park",8,0.08
+" Todd M","Hartgrove","det","Lynn",8,0.08
+" Latoya L","Gamble","ptl","Auburn",8,0.08
+" Andrew","Hunter","ptl","Hyde Park",8,0.08
+" Francis M","Sheridan","ptl","Hyde Park",8,0.08
+" Eduardo A","Espino","ptl","Allston/Brighton",8,0.08
+" Brian J","Perry","ptl","Dorchester",8,0.08
+" Richard","Diaz","ptl","Kingston",8,0.08
+" Scott","Yanovitch","lieut","Dorchester",8,0.08
+" Jennifer","De los Santos","ptl","Roxbury",8,0.08
+" Jenna M","Hawkins","ptl","West Roxbury",8,0.08
+" Lance R","Norwood","ptl","Hyde Park",8,0.08
+" Gino","Provenzano","sergt","South Boston",8,0.08
+" Richard","Withington","ptl","Bridgewater",8,0.08
+" Brian J","MacLean","ptl","Dorchester",8,0.08
+" Tlaloc","Cutroneo","sergt","Vass",8,0.08
+" Andreas","Kaplan","ptl","Roslindale",8,0.08
+" Michael P","Paradis","ptl","Marshfield",8,0.08
+" Daniel T","Conboy","sergt","South Easton",8,0.08
+" Paula F","Pearson","ptl","Roxbury",8,0.08
+" Brian J","Lydon","ptl","Milton",8,0.08
+" James H","Buckley","sergt","Danvers",8,0.08
+" Patrick Olaf","Abrahamson","ptl","Allston/Brighton",8,0.08
+" Joseph J","DeAngelo","ptl","Dorchester",8,0.08
+" Sean","Flaherty","lieut","Rockland",8,0.08
+" Omar A","Cepeda","ptl","North Easton",8,0.08
+" Henry Joseph","Staines","lieut","Dedham",8,0.08
+" Michael V","Calabro","ptl","Norton",8,0.08
+" Sean Michael","McCarthy","ptl","West Roxbury",8,0.08
+" Sean P","Flynn","det","Dorchester",8,0.08
+" Joseph G","Monahan","sergt","Berlin",8,0.08
+" Michael J","Olszak","ptl","Brockton",8,0.08
+" Peter J","Garabedian","ptl","Wakefield",8,0.08
+" Allan G","Kelley","ptl","Hyde Park",8,0.08
+" Lakenya L","Webster","ptl","Dorchester",8,0.08
+" Miguelangelo R","Pires","det","Dorchester",8,0.08
+" Mila S","Depina-Cooley","ptl","Dorchester",8,0.08
+" Patricia M","Durant","det","North Easton",8,0.08
+" Murphy L","Gregory Jr","ptl","Stoughton",8,0.08
+" Allison","Eng","det","East Boston",8,0.08
+" Sean P","Smith","lieut","Milton",8,0.08
+" Peter L","McCarthy","det","West Roxbury",8,0.08
+" Claire K","Duffy","ptl","Wrentham",8,0.08
+" Michael C","Wilson","ptl","Dorchester",8,0.08
+" Gregory","Lynch","ptl","Westwood",8,0.08
+" Joseph A","Gallarelli","sgtdet","Wilmington",8,0.08
+" Christopher J","Keaton","ptl","South Boston",8,0.08
+" Brigido Orlando","Leon","ptl","Hyde Park",8,0.08
+" Nicholas","Onishuk","det","Medway",8,0.08
+" Daniel C","Keane","sergt","West Roxbury",8,0.08
+" Darrell","Vinson","ptl","Mattapan",8,0.08
+" Paul J","Bercume","det","Franklin",8,0.08
+" Nolan R","Burns","ptl","Charlestown",8,0.08
+" Michael","O'Rourke","ptl","Jamaica Plain",8,0.08
+" Daniel E","MacDonald","det","Hanover",8,0.08
+" Michael","Mahoney","ptl","Mattapan",8,0.08
+" Ethan","Grey","sergt","Walpole",8,0.08
+" Joseph","Abasciano","ptl","West Roxbury",8,0.08
+" Robert P","Hurley","sergt","East Boston",8,0.08
+" Christopher M","Nee","ptl","Hanover",8,0.08
+" Norman D","Texeria","ptl","Dorchester",8,0.08
+" Steven P","Ashman","ptl","Lynn",6,0.06
+" Anthony","Cutone","det","Dedham",6,0.06
+" John G","Maloof","det","South End",6,0.06
+" James D","Bowden","det","Norwood",6,0.06
+" John G","Burrows","sergt","Dorchester",6,0.06
+" Terrique E","Chambers","ptl","Hyde Park",6,0.06
+" Thomas  E","Sullivan","det","Hanover",6,0.06
+" Tracey A","Fenton","ptl","Foxboro",6,0.06
+" John F","Callahan","det","West Roxbury",6,0.06
+" Thomas G","Griffiths","ptl","South Yarmouth",6,0.06
+" John D","McDonough","ltdet","West Roxbury",6,0.06
+" Donald B","Powell","ptl","Hyde Park",6,0.06
+" Donald O","Caisey","det","Mattapan",6,0.06
+" Thomas M","Antonino","ptl","Weymouth",6,0.06
+" John C","Ho","ptl","West Roxbury",6,0.06
+" John A","Rouvalis","sgtdet","Mansfield",6,0.06
+" William Reid","Toner","sergt","Billerica",6,0.06
+" John A","Adduci","ptl","Quincy",6,0.06
+" William Y","Walker","ptl","West Roxbury",6,0.06
+" John","McDonald","ptl","Hingham",6,0.06
+" Douglas J","McGrath","sergt","Dorchester",6,0.06
+" Joey C","Key","ptl","Roxbury",6,0.06
+" James E","Powell","ptl","Hyde Park",6,0.06
+" Andrew L","Johnson","sgtdet","Chestnut Hill",6,0.06
+" James V","Giardina Jr.","ptl","Lynnfield",6,0.06
+" Frank A","Femino","ptl","Pembroke",6,0.06
+" James F","Lydon","ptl","Marshfield",6,0.06
+" Eddy","Chrispin","sergt","Hyde Park",6,0.06
+" Jill","Ryan","ptl","West Roxbury",6,0.06
+" Jessica H","Wagner","det","Hyde Park",6,0.06
+" Jeremy L","Fitton","sergt","North Attleboro",6,0.06
+" Jeremiah C","Hogan","ptl","West Roxbury",6,0.06
+" Francis J","St Peter","ptl","West Roxbury",6,0.06
+" Jeffrey S","Firnstein","det","West Roxbury",6,0.06
+" Tod","Herron","det","Hyde Park",6,0.06
+" Edward J","Curley","ptl","Hingham",6,0.06
+" Michael P","Murphy","ptl","Hyde Park",6,0.06
+" Gino D","Rodrigues","ptl","Hyde Park",6,0.06
+" Michael P","McCarthy","ltdet","Medfield",6,0.06
+" Michael R","Doyle","ptl","Pembroke",6,0.06
+" Michael L","Rockwell","ptl","Hopkinton",6,0.06
+" Michael R","Szegda","ptl","Dorchester",6,0.06
+" Christopher","Morgan","sergt","Marshfield",6,0.06
+" Michael T","Duffley","ptl","Dorchester",6,0.06
+" Michael T","McManus","ptl","Walpole",6,0.06
+" Michael W","Flaven","ptl","Holliston",6,0.06
+" Christopher A","Hartgrove","det","Scituate",6,0.06
+" Michelle M","Maffeo","ptl","Dorchester",6,0.06
+" Edward Joseph","Nolan","ptl","Dorchester",6,0.06
+" Gloria D","Kinkead","det","Brockton",6,0.06
+" Christa A","Milton","ptl","Milton",6,0.06
+" Muryelle","Staco","ptl","Quincy",6,0.06
+" Nicholas","Fisher","det","Dorchester",6,0.06
+" Nicholas","Litterio","ptl","Dorchester",6,0.06
+" Michael A","Mattera","ptl","East Boston",6,0.06
+" Michael A","Forde","ptl","Randolph",6,0.06
+" James N","Lydon Jr.","ptl","Marshfield",6,0.06
+" Charlie H","Daniels","det","Melrose",6,0.06
+" Nicholas G","Moore","sergt","Scituate",6,0.06
+" Christopher M","Colby","sergt","Westwood",6,0.06
+" Charles J","Kelley","det","Dorchester",6,0.06
+" Christopher M","Kennedy","ptl","Allston/Brighton",6,0.06
+" Christopher M","Long","ptl","York",6,0.06
+" Evan","Nunez","ptl","Hyde Park",6,0.06
+" Christopher R","Carr","ptl","Marshfield",6,0.06
+" Gregory A","McPherson","ptl","Dedham",6,0.06
+" Christopher R","Stevens","ptl","West Roxbury",6,0.06
+" Michael","Coyne","sergt","Braintree",6,0.06
+" Merica","Guillaume","ptl","Randolph",6,0.06
+" Matthew S","Ryan","sergt","Milton",6,0.06
+" Matthew S","McCabe","ptl","Bridgewater",6,0.06
+" Oscar","Calderon","ptl","Hyde Park",6,0.06
+" Matthew M","Ross","sergt","Dover",6,0.06
+" Clifford","Davis","det","Hyde Park",6,0.06
+" Matthew L","Walsh","ptl","South Boston",6,0.06
+" Gregory D","Hannigan","ptl","Andover",6,0.06
+" Matthew F","Becker","det","North Reading",6,0.06
+" Matthew E","Haslett","ptl","Dorchester",6,0.06
+" Patrick T","Murphy","ptl","Dorchester",6,0.06
+" Paul T","Quinn","sgtdet","Dorchester",6,0.06
+" Martin G","Smiddy","sgtdet","Weymouth",6,0.06
+" Mark L","Assad","sgtdet","Melrose",6,0.06
+" Cornell G","Paterson","ptl","Dorchester",6,0.06
+" Cothenia D","Cooper-Paterson","det","Dorchester",6,0.06
+" Pele","James","det","Framingham",6,0.06
+" Peter","Giannopoulos","ptl","Walpole",6,0.06
+" James M","Stoddard","ptl","Canton",6,0.06
+" William","Slyne","ptl","West Roxbury",6,0.06
+" Mark","Walsh","ptl","Milton",6,0.06
+" Quion Tee","Riley Jr.","ptl","West Roxbury",6,0.06
+" D Mark","Cooper","lieut","Walpole",6,0.06
+" Dahnielle","Hudson-Jones","ptl","Roxbury",6,0.06
+" Rafael M","Antunez","sergt","Milton",6,0.06
+" Marc D","Coleman","ptl","Dorchester",6,0.06
+" Madeline","Banks","ptl","Randolph",6,0.06
+" Alfredo","Andres","capt","Roslindale",6,0.06
+" Daniel","Polcaro","ptl","East Boston",6,0.06
+" Daniel A","Fitzgerald","ptl","South Boston",6,0.06
+" Bryan T","McGrath","ptl","Dorchester",6,0.06
+" Luis A","Rivera","ptl","Plainville",6,0.06
+" Ludwig H","Castillo","ptl","Dedham",6,0.06
+" Lucie","Andre","ptl","Hyde Park",6,0.06
+" Bruce W","Higgins","det","West Roxbury",6,0.06
+" Lorenzo I","Woodley","ptl","Brockton",6,0.06
+" Lisa M","Wright","ptl","Mattapan",6,0.06
+" Daniel Elliott","Ciccolo","ptl","Weymouth",6,0.06
+" Daniel F","MacDonald","sergt","Westwood",6,0.06
+" Richard M","Caban","ptl","Hyde Park",6,0.06
+" Jeffrey","Quinchia","ptl","North Attleboro",6,0.06
+" Daniel J","Fullam","ptl","Dorchester",6,0.06
+" Linda Marie","Mendez","ptl","West Roxbury",6,0.06
+" Robert","Butler","ptl","Woburn",6,0.06
+" Leslie","Joseph-Greene","det","Hyde Park",6,0.06
+" Leonardo","Hernandez","det","East Boston",6,0.06
+" William E","Doogan","sgtdet","West Roxbury",6,0.06
+" Leo Michael","Manning","ptl","Milton",6,0.06
+" Robert","Flynn","ptl",NULL,6,0.06
+" Robert","Kjersgard","sgtdet","Revere",6,0.06
+" Robert","Newton","ptl","Hingham",6,0.06
+" Brian P","Holmes","ptl","Dorchester",6,0.06
+" William F","Haley","det","West Roxbury",6,0.06
+" Erin T","Schroeder-Withington","det","Bridgewater",6,0.06
+" Henry","Beato","ptl","Randolph",6,0.06
+" Alvin S","Holder","det","Hyde Park",6,0.06
+" Dany","Matos","ptl","Dorchester",6,0.06
+" Alexander","Reyes","ptl","Hyde Park",6,0.06
+" Daren A","Bradshaw","sergt","Framingham",6,0.06
+" Jeffery M","Driscoll","ptl","Watertown",6,0.06
+" Jeff R","Carrio","ptl","Boxford",6,0.06
+" Brian G","Kelly","ptl","West Roxbury",6,0.06
+" Kim","Tavares","ptl","Weymouth",6,0.06
+" Robert M","Mulhern","ptl","Attleboro",6,0.06
+" Robert P","Colburn","ptl","Walpole",6,0.06
+" Kevin R","Plunkett","det","West Roxbury",6,0.06
+" Darryl Vu","Tran","ptl","Dorchester",6,0.06
+" Robert Quinten","Casper","ptl","South Boston",6,0.06
+" Robert T","England","det","Hyde Park",6,0.06
+" Kevin M","Donahue","ptl","Dorchester",6,0.06
+" Henry M","Pereira","ptl","Stoughton",6,0.06
+" David","Chaves","det","West Roxbury",6,0.06
+" Brian","Puzzo","ptl","Revere",6,0.06
+" Kevin J","McClay","ptl","Millis",6,0.06
+" Erick Kelvin","James","ptl","Randolph",6,0.06
+" Kenny","Joseph","ptl","Braintree",6,0.06
+" Vladimir","Xavier","ptl","Roxbury",6,0.06
+" Jean G","Jean Louis","ptl","Hyde Park",6,0.06
+" William J","Flaherty","ptl","West Roxbury",6,0.06
+" Albert C","Christie","ptl","Mattapan",6,0.06
+" Eric T","Schmidt","ptl","Westwood",6,0.06
+" Kenneth A","Sousa","sergt","Bridgewater",6,0.06
+" William J","Flores","ptl","Walpole",6,0.06
+" William J","Samaras","det","Charlestown",6,0.06
+" Isaac D","Jackson IV","ptl","Hyde Park",6,0.06
+" Karl C","Truong","ptl","Braintree",6,0.06
+" Karen Y","Mejia","ptl","Hyde Park",6,0.06
+" William James","Sullivan","ptl","Weymouth",6,0.06
+" Juan J","Seoane","det","West Roxbury",6,0.06
+" Ryan","Urso","ptl","West Roxbury",6,0.06
+" Samil T","Silta","sergt","Needham",6,0.06
+" Sandra J","Swain","det","Dorchester",6,0.06
+" Victor L","Evans Jr.","sgtdet","Hyde Park",6,0.06
+" Santino S","Daddieco","ptl","Hyde Park",6,0.06
+" Scott D","Lucas","ptl","Roslindale",6,0.06
+" Joseph P","Matthews","ptl","Milton",6,0.06
+" Scott M","Mackie","sergt","Central Boston",6,0.06
+" Joseph P","Cintolo","sergt","Wakefield",6,0.06
+" Joseph M","Narduzzo","ptl","Medford",6,0.06
+" Joseph M","Miskel","ptl","Plymouth",6,0.06
+" Jason M","Albanese","sergt","Quincy",6,0.06
+" Sean A","Rooney","ptl","Norwood",6,0.06
+" Eric D","Bradshaw","ptl","Hyde Park",6,0.06
+" Joseph G","Gillespie","capt","West Roxbury",6,0.06
+" Jacqueline A","Sellon","sergt","Dorchester",6,0.06
+" Joseph E","DiGirolamo","lieut","Rehoboth",6,0.06
+" Sergio D","Medrano","ptl","Roslindale",6,0.06
+" Joseph A","Murray","ptl","Marshfield",6,0.06
+" Sharis","Barkhordarian","ptl","Fenway/Kenmore",6,0.06
+" Eric","Mencey","ptl","Hyde Park",6,0.06
+" William M","Bulger","ptl","Pembroke",6,0.06
+" Shayna M","Rivera","ptl","Mattapan",6,0.06
+" Sherry","Dellascio","ptl","Hyde Park",6,0.06
+" Sinead M","Coyne","ptl","Hyde Park",6,0.06
+" Jose L","Acosta","ptl","Peabody",6,0.06
+" Jonathan H","Quigg","ptl","South Boston",6,0.06
+" Arthur V","Lonergan","ptl","Roslindale",6,0.06
+" Jon-Michael S","Harber","ptl","South Easton",6,0.06
+" Stefan","Theodore","ptl","Allston/Brighton",6,0.06
+" Stephen","McNeil","sergt","Norwell",6,0.06
+" Dennis M","Medina","det","Hyde Park",6,0.06
+" Stephen","Morash","sergt","Walpole",6,0.06
+" Stephen J","Canto","ptl","Weymouth",6,0.06
+" Timothy S","Cunningham","sergt","Pembroke",6,0.06
+" Antoine J","Ramos","ptl","West Roxbury",6,0.06
+" James","Harte","det","Dorchester",6,0.06
+" Undrey","Sanders","ptl","Dorchester",6,0.06
+" William P","Henry","ptl","Roslindale",6,0.06
+" Janine","Busby","det","Dorchester",6,0.06
+" John M","Brown","sgtdet","Hyde Park",6,0.06
+" Steven","Sweeney","capt","Roslindale",6,0.06
+" Aaron F","Dell","ptl","Ashland",4,0.04
+" Adam","Mazzola","sergt","Foxboro",4,0.04
+" Adam M","DiPerri","det","Raynham",4,0.04
+" Alexis","Maldonado","ptl","Hyde Park",4,0.04
+" Alicia","Grealish","sgtdet","Hyde Park",4,0.04
+" Allison","Berry-O'Toole","det","Scituate",4,0.04
+" Allison Patricia","McHale","ptl","East Boston",4,0.04
+" Amy","Hamilton","det","South Boston",4,0.04
+" Amyleigh","Devito","det","Roslindale",4,0.04
+" Andrew C","Miskell","det","Milton",4,0.04
+" Andrew M","Caron","ptl","Roslindale",4,0.04
+" Andrew M","Torres","ptl","Hyde Park",4,0.04
+" Angel","Figueroa","ptl","Roslindale",4,0.04
+" Anthony C","Puopolo","ptl","Hyde Park",4,0.04
+" Anthony N","Bellissimo","ptl","Charlestown",4,0.04
+" Antonette C","Cabral","ptl","Dorchester",4,0.04
+" Antonio","Cruz","ptl","Roxbury",4,0.04
+" Ayesha M","Lawton","ptl","Hyde Park",4,0.04
+" Berlino","Felix","det","Mattapan",4,0.04
+" Bernard E III","Hicks","ptl","Milton",4,0.04
+" Brandon L","Williams","ptl","Melrose",4,0.04
+" Brendan M","Bosse","ptl","Hyde Park",4,0.04
+" Brendan M","Walsh","det","Dorchester",4,0.04
+" Brendan P","Dever","det","Quincy",4,0.04
+" Brendan R","England","ptl","Milton",4,0.04
+" Brendan W","Kelly","sergt","West Roxbury",4,0.04
+" Bret","Giannetti","ptl","Braintree",4,0.04
+" Brian","Fitzgibbon","ptl","Dorchester",4,0.04
+" Brian B","McManus","sergt","West Roxbury",4,0.04
+" Brian C","Black","sgtdet","Canton",4,0.04
+" Brian D","McGrail","sergt","Rochester",4,0.04
+" Brian J","Doherty","ptl",NULL,4,0.04
+" Brian J","Larkin","ltdet","Braintree",4,0.04
+" Brian J","Linehan","ptl","Dorchester",4,0.04
+" Brian L","Ball","det","West Roxbury",4,0.04
+" Brian Matthew","Leahy","sgtdet","Dorchester",4,0.04
+" Brian R","Delahanty","det","Allston/Brighton",4,0.04
+" Brian T","Farrell","sergt","Pembroke",4,0.04
+" Bryan","Dickson","det","Dorchester",4,0.04
+" Carl E","Shorter","ptl","Quincy",4,0.04
+" Carol","Morse","ptl","Randolph",4,0.04
+" Carolyn L","Kennedy","ptl","Walpole",4,0.04
+" Charles J","Cellucci","sgtdet","West Roxbury",4,0.04
+" Christopher","Smerz","ptl","Dorchester",4,0.04
+" Christopher D","Crager","ptl","Hyde Park",4,0.04
+" Christopher E","Connolly","sergt","Stoneham",4,0.04
+" Christopher G","Hegerich","ptl","West Roxbury",4,0.04
+" Christopher L","Vazquez","ptl","Dorchester",4,0.04
+" Christopher P","Dunn","ptl","South Boston",4,0.04
+" Craig A","Wozniak","det","Back Bay/Beacon Hill",4,0.04
+" Daniel","McNamara","ptl","Braintree",4,0.04
+" Daniel J","Sparrow","ptl","Hyde Park",4,0.04
+" Daniel P","McMorrow","ptl","West Roxbury",4,0.04
+" Daniel T","Toomey","ptl","West Roxbury",4,0.04
+" Dario E","Fancelli","sergt","Dorchester",4,0.04
+" David","Bianchetto","ptl","Hyde Park",4,0.04
+" David A","Macioce","ptl","Allston/Brighton",4,0.04
+" David A","Stewart","ptl","Dorchester",4,0.04
+" David D","Crabbe","sergt","Foxboro",4,0.04
+" David Paul","MacDonald","ptl","Dorchester",4,0.04
+" Dean","Bickerton","lieut","Hanover",4,0.04
+" Dean B","Quinby","ptl","Dorchester",4,0.04
+" Deirdre M","Pinkham","ptl","Milton",4,0.04
+" Dennis R","Linehan","ptl","Dorchester",4,0.04
+" Derek H","Chan","ptl","Dorchester",4,0.04
+" Derek M","Scott","ptl","Dorchester",4,0.04
+" Derek Scott","Jefferson","ptl","Dorchester",4,0.04
+" Dominic P","DiMarzo","ptl","East Boston",4,0.04
+" Donald P","Stone","det","Melrose",4,0.04
+" Dudley N","Hill","ptl","Holbrook",4,0.04
+" Ediberto","Figueroa","det","Dorchester",4,0.04
+" Edward J","Boylan","ptl","Quincy",4,0.04
+" Edward J","Garvey","sgtdet","Dorchester",4,0.04
+" Edward J","Gracia","ptl","Dorchester",4,0.04
+" Edward L","Roach","ptl","Mansfield",4,0.04
+" Edward P","Dervan","ptl","West Roxbury",4,0.04
+" Eliseo","Marrero","ptl","Dorchester",4,0.04
+" Elizabeth C","Evans","ptl","Dorchester",4,0.04
+" Elizabeth Susan","Philbin","ptl","Quincy",4,0.04
+" Elliot Raymond","Guenard","ptl","Hyde Park",4,0.04
+" Emily M","English","det","Dorchester",4,0.04
+" Eric","Foley","ptl","Dorchester",4,0.04
+" Eric G","Krause","sgtdet","Hyde Park",4,0.04
+" Eugenio P","Fernandes","ptl","Dorchester",4,0.04
+" Francis W","Flynn","sergt","Pembroke",4,0.04
+" Frank","Lee","ptl","Milton",4,0.04
+" Frantz","Saintfort","ptl","Hyde Park",4,0.04
+" Fred","Ferrara","ptl","South Boston",4,0.04
+" Frederick J","Boyle","ptl","Braintree",4,0.04
+" Gregg R","Bowden","ptl","Marshfield",4,0.04
+" Gregory","McCormick","ptl","Milton",4,0.04
+" Gregory D","Dankers","ptl","Roslindale",4,0.04
+" GRenee","Payne-Callender","det","Dorchester",4,0.04
+" Henry A","Araica","ptl","Hyde Park",4,0.04
+" Hugo R","Alvarez","ptl","East Boston",4,0.04
+" Israul","Marrero","ptl","Dorchester",4,0.04
+" Ivan A","Bermejo","det","Winchester",4,0.04
+" James","Tran","ptl","Dorchester",4,0.04
+" James B","Moccia","ptl","Hyde Park",4,0.04
+" James L","Galvin","lieut","Canton",4,0.04
+" James L","Rattigan","det","Hanson",4,0.04
+" James L","Walsh","ptl","Dorchester",4,0.04
+" James M","Doiron","ptl","Pembroke",4,0.04
+" James M","Foley","lieut","West Roxbury",4,0.04
+" James M","Gigliello","ptl","West Roxbury",4,0.04
+" James M","O'Loughlin","ptl","West Roxbury",4,0.04
+" James R","Tarantino","ltdet","West Roxbury",4,0.04
+" James S","Moccia","ptl","Hyde Park",4,0.04
+" James T","Cullity","sgtdet","West Roxbury",4,0.04
+" Jason","Turcotte","ptl","South Hamilton",4,0.04
+" Jason A","Richardson","ptl","Dorchester",4,0.04
+" Jason M","Clutterbuck","sergt","Wrentham",4,0.04
+" Jay P","Tully","det",NULL,4,0.04
+" Jean","Dumel","ptl","Hyde Park",4,0.04
+" Jeffrey","Lippolis","ptl","Dorchester",4,0.04
+" Jeffrey W","Lynch","ptl","West Roxbury",4,0.04
+" Jeremy M","Mahoney","ptl","Hyde Park",4,0.04
+" Jessica","Coppney","ptl","South Boston",4,0.04
+" Joao","DePina","ptl","Dorchester",4,0.04
+" John E","Ball","ptl","Dorchester",4,0.04
+" John F","Hynes","sergt","South Boston",4,0.04
+" John F","McBrien","sergt","Medfield",4,0.04
+" John Fredrick","Horan","ptl","West Roxbury",4,0.04
+" John Joseph","Houlihan","ptl","Dorchester",4,0.04
+" John M","Bresnahan","ptl","Hyde Park",4,0.04
+" John M","Shaughnessy","sergt","Milton",4,0.04
+" John N","Foundas","det","Natick",4,0.04
+" John P","Wright","sergt","Braintree",4,0.04
+" John W","Green","ptl","Mattapan",4,0.04
+" Jose","Diaz","ptl","West Roxbury",4,0.04
+" Jose","Molina III","ptl","Hyde Park",4,0.04
+" Jose M","Teixeira","sgtdet","West Roxbury",4,0.04
+" Joseph","Hanley","ptl","Westwood",4,0.04
+" Joseph","Holmes","ptl","Bedford",4,0.04
+" Joseph","McSorley","ptl","Melrose",4,0.04
+" Joseph","Nelligan","ptl",NULL,4,0.04
+" Joseph B","McMenamy","ptl","Hyde Park",4,0.04
+" Joseph Michael","Burke","ptl","West Roxbury",4,0.04
+" Joseph R","Greco","ptl","Saugus",4,0.04
+" Joseph S","King","det","Hull",4,0.04
+" Katelyn M","O'Toole","ptl","Braintree",4,0.04
+" Katherine E","Glaropoulos","ptl","East Boston",4,0.04
+" Keith","Monahan","ptl","West Roxbury",4,0.04
+" Kendra J","Conway","ptl","West Newton",4,0.04
+" Kenneth","Fong","capt","Carlisle",4,0.04
+" Kenneth M","Conley","sgtdet","Norwood",4,0.04
+" Kenneth R","Reid","ptl","Dorchester",4,0.04
+" Kevin","Peckham","ptl","Hyde Park",4,0.04
+" Kevin","Zarnoch","ptl","Dorchester",4,0.04
+" Kevin D","Rooney","ptl","Dorchester",4,0.04
+" Kevin F","Jones","sergt","Pembroke",4,0.04
+" Kevin F","Lockhead","ptl","East Boston",4,0.04
+" Kevin M","Doogan","det","Norfolk",4,0.04
+" Kevin R","Cooper","ptl","Mansfield",4,0.04
+" Kevin T","Power","sgtdet","Westwood",4,0.04
+" Kevin W","Cullen","ptl","West Roxbury",4,0.04
+" Khai Q","Nguyen","ptl","Canton",4,0.04
+" Kurt J","Stokinger","ptl","Norton",4,0.04
+" Kyle","McCabe","ptl","West Roxbury",4,0.04
+" Larry E","Ellison","det","Foxboro",4,0.04
+" Lawrence A","Calderone","ptl","Jamaica Plain",4,0.04
+" Lawrence J","Craven","ptl","East Wareham",4,0.04
+" Lisa G","Venus","ptl","Hyde Park",4,0.04
+" Lisa J","Sullivan","lieut","Quincy",4,0.04
+" Lissette","Garcia","ptl","Jamaica Plain",4,0.04
+" Ludwik H","Bartkiewicz","det","Milton",4,0.04
+" Luis","Velasquez","ptl","Mansfield",4,0.04
+" Margaret A","Ricard","ptl","West Roxbury",4,0.04
+" Mark Joseph","McKeown","det","West Roxbury",4,0.04
+" Mark Steven","Brooks","ptl","Hanson",4,0.04
+" Martin D","Harrison","ptl","Mattapan",4,0.04
+" Mary F","Dibella","ptl","Dorchester",4,0.04
+" Mathew R","Pieroway","ptl","West Roxbury",4,0.04
+" Matthew G","Shea","ptl","West Roxbury",4,0.04
+" Matthew J","Morris","ptl","Dorchester",4,0.04
+" Matthew P","Morrissey","ptl","Dorchester",4,0.04
+" Matthew W","McCarthy","ptl","Walpole",4,0.04
+" Melissa I","Medina","ptl","Walpole",4,0.04
+" Micah W","Chapman","ptl","West Roxbury",4,0.04
+" Michael","Burke","ptl","Needham",4,0.04
+" Michael","Powers","ptl","Charlestown",4,0.04
+" Michael","Taylor","ptl","Hyde Park",4,0.04
+" Michael C","O'Hara","lieut","Canton",4,0.04
+" Michael D","Holden","sergt","East Boston",4,0.04
+" Michael F","Gill","ptl","Roslindale",4,0.04
+" Michael F","Leary","ptl","Dorchester",4,0.04
+" Michael J","Geary","ptl","Dorchester",4,0.04
+" Michael P","McDougall","sergt","Hanover",4,0.04
+" Michael R","Bizzozero","ptl","Hingham",4,0.04
+" Moses Jose","DaSilva","ptl","Hyde Park",4,0.04
+" Nadia G","Siconolfi","ptl","Roslindale",4,0.04
+" Nathan P","Robbins","ptl","Dorchester",4,0.04
+" Nicole L","Grant","det","Plymouth",4,0.04
+" Nicole W","LaPointe","sergt","Medfield",4,0.04
+" Omar","McGovern","ptl","Hyde Park",4,0.04
+" Oscar A","Guerrero","ptl","Hyde Park",4,0.04
+" Pamela Lynne","Besold","lieut","Roslindale",4,0.04
+" Patrick J","Creavin","ptl","West Roxbury",4,0.04
+" Patrick J","Cullity","ltdet","Foxboro",4,0.04
+" Patrick J","Enwright","ptl","West Roxbury",4,0.04
+" Patrick J","McDonough","sergt","Dorchester",4,0.04
+" Patrick M","Curtin","ptl","South Boston",4,0.04
+" Patrick S","Flaherty","ptl","Dorchester",4,0.04
+" Paul","Gormley","ptl","Roslindale",4,0.04
+" Paul C","McLaughlin","sgtdet","Westwood",4,0.04
+" Paul Christopher","McGarty Jr.","ptl","Roslindale",4,0.04
+" Paul F","Brooks","sergt","Walpole",4,0.04
+" Paul R","Chevrette","det","West Roxbury",4,0.04
+" Paul T","Sanders","ptl","Walpole",4,0.04
+" Peter","Chu","sergt","West Roxbury",4,0.04
+" Peter J","Savalis","ptl","Mansfield",4,0.04
+" Philip Joseph","Kearney","ptl","Dorchester",4,0.04
+" Rachel O","McGuire","ptl","Norwell",4,0.04
+" Reginald J","Pinckney","ptl","Taunton",4,0.04
+" Reivilo","Degrave","ptl","Milton",4,0.04
+" Ricardo","Alexandre","ptl","Dorchester",4,0.04
+" Richard","Slamin","ptl","Randolph",4,0.04
+" Richard A","Porter","ptl","Concord",4,0.04
+" Robert","Dirienzo","ptl","Reading",4,0.04
+" Robert M","Zingg","det","Westwood",4,0.04
+" Roberta C","Craven","ptl","Hyde Park",4,0.04
+" Rohan","Nicholas","ptl","Brockton",4,0.04
+" Roy","Gava","ptl","Dedham",4,0.04
+" Ryan","Schain","ptl","West Roxbury",4,0.04
+" Ryan","Wynne","ptl","Dorchester",4,0.04
+" Ryan W","Mason","sergt","Marshfield",4,0.04
+" Scott J","MacIsaac","ptl","West Roxbury",4,0.04
+" Scott W","Gillis","sergt","Dorchester",4,0.04
+" Sean","Bang","ptl","Dorchester",4,0.04
+" Sean P","Mulligan","ptl","Hyde Park",4,0.04
+" Sean P","Scannell","ptl","Buzzards Bay",4,0.04
+" Shawn M","O'Neil","ptl","Braintree",4,0.04
+" Sheldon T","Morgan","ptl","Hyde Park",4,0.04
+" Stephen D","Roe","ptl","Hyde Park",4,0.04
+" Stephen E","Roy","ptl","Hyde Park",4,0.04
+" Stephen G","Crimmins","ptl","Swampscott",4,0.04
+" Stephen G","Kelly","det","West Roxbury",4,0.04
+" Stephen P","Pasciuto","ptl","Wakefield",4,0.04
+" Stephen T","O'Brien","det","West Roxbury",4,0.04
+" Steven J","Morgan","det","Dorchester",4,0.04
+" Steven M","Ciccolo","lieut","Milton",4,0.04
+" Terence","O'Neil","ptl","Marshfield",4,0.04
+" Terence S","Long","ptl","Pembroke",4,0.04
+" Thomas B","Hayes","sergt","Wakefield",4,0.04
+" Thomas B","Hopkins","ltdet","Quincy",4,0.04
+" Thomas M","Griffin","sergt","Raynham",4,0.04
+" Thomas V","McDonough","det","Rockland",4,0.04
+" Thuan D","Lai","ptl","Hyde Park",4,0.04
+" Timothy","Connolly","capt","Milton",4,0.04
+" Timothy","Lawless","ptl","Dorchester",4,0.04
+" Timothy","McCarthy","det","Hyde Park",4,0.04
+" Timothy C","Evans","det","West Roxbury",4,0.04
+" Timothy D","Murray","det","Central Boston",4,0.04
+" Timothy G","Trull","ptl","West Roxbury",4,0.04
+" Timothy J","Mills","ptl","Hyde Park",4,0.04
+" Timothy M","Horan","lieut","West Roxbury",4,0.04
+" Todd T","Ho","ptl","Milton",4,0.04
+" Tomas Coilin","Kearney","sergt","Roslindale",4,0.04
+" William","Iraola","ptl","Hyde Park",4,0.04
+" William P","Moran","ptl","Bridgewater",4,0.04
+" Ydritzabel","Oller","ptl","Hyde Park",4,0.04
+" Yong W","Lee","ptl","Allston/Brighton",4,0.04
+" Christopher J","Curtin","ptl","West Roxbury",2,0.02
+" Ricky M","Rabb","ptl","Chestnut Hill",2,0.02
+" Arthur","DePinho","ptl","Roslindale",2,0.02
+" Charles A","Vest","sergt","West Roxbury",2,0.02
+" Owen C","Murray","ptl","West Roxbury",2,0.02
+" Vladimir A","Levichev","ptl","Chestnut Hill",2,0.02
+" Christopher J","Cunniff","sgtdet","South Boston",2,0.02
+" Robert","Cuddyer","ptl","Braintree",2,0.02
+" Christopher J","Broderick","sergt","Kingston",2,0.02
+" Brian S","Waters","sergt","Kingston",2,0.02
+" Daniel J","Quintiliani","det","West Roxbury",2,0.02
+" Jose M","Araujo","ptl","Dorchester",2,0.02
+" Leoutrah L","Tabb","ptl","Roxbury",2,0.02
+" Michael D","Peters","ptl","Jamaica Plain",2,0.02
+" Michael D","Rideout","ptl","Randolph",2,0.02
+" Mark","Whalen","ptl","Hyde Park",2,0.02
+" Michael E","Felton","sergt","Weymouth",2,0.02
+" Brian J","Reaney","ptl","Dorchester",2,0.02
+" Jamie","Pietroski","ptl","Dorchester",2,0.02
+" Robert E","Anthony","ptl","East Boston",2,0.02
+" Antonio","Nunez","ptl","Roxbury",2,0.02
+" Craig D","Smalls","ptl","Roxbury",2,0.02
+" Brian J","Michaud","ptl","Walpole",2,0.02
+" Stephen M","Borbee","ptl","West Roxbury",2,0.02
+" Patricia M","Darosa","ptl","Hyde Park",2,0.02
+" Stephen M","Fabiano","ptl","Charlestown",2,0.02
+" Stephen M","O'Neil","ptl","Walpole",2,0.02
+" Juana V","Hernandez","sergt","West Roxbury",2,0.02
+" Mark Andrew","Potter","ptl","Chestnut Hill",2,0.02
+" Stephen P","Romano","sgtdet","West Roxbury",2,0.02
+" Michael F","Fanning","ptl","South Boston",2,0.02
+" Mark Anthony","Bruno","ptl","East Boston",2,0.02
+" Adrian","Pinto","ptl","West Roxbury",2,0.02
+" Robert J","Ridge","sgtdet","Hanover",2,0.02
+" John A","McCarthy","sergt","Hanover",2,0.02
+" Patrick","Conroy","det","Dorchester",2,0.02
+" Jamila","Gales","ptl","Dorchester",2,0.02
+" Yrene E","Castillo","ptl","Hyde Park",2,0.02
+" Steven","Lizardo","ptl","West Roxbury",2,0.02
+" Steven","McGovern","ptl","Walpole",2,0.02
+" Mark E","Madden Jr.","ptl","Bridgewater",2,0.02
+" Anthony H","Francis","det","Roxbury",2,0.02
+" Brian F","Yandle","ptl","Dorchester",2,0.02
+" Brian E","Tracey","ptl","Dorchester",2,0.02
+" John A","Teixeira","det","Holliston",2,0.02
+" Mark J","Fleming","sergt","Stoneham",2,0.02
+" Steven G","Downs","sgtdet","East Bridgewater",2,0.02
+" Steven H","Collette","ptl","Dorchester",2,0.02
+" Brian D","Albert","sgtdet","Canton",2,0.02
+" Michael J","Conneely","ptl","West Roxbury",2,0.02
+" Aaron T","Blocker","det","Mattapan",2,0.02
+" Courtney A","Powell","sgtdet","South Easton",2,0.02
+" Anthony D","Willis","ptl","Roxbury",2,0.02
+" Jason D","Romano","ptl","Central Boston",2,0.02
+" Joseph","Buiel","det","Duxbury",2,0.02
+" Robert Thomas","Lucas","ptl","South Boston",2,0.02
+" Anthony D","Ierardi","sergt","Dover",2,0.02
+" James Michael","Sullivan-Venezia","ptl","Roslindale",2,0.02
+" Steven P","McLaughlin","capt","Foxboro",2,0.02
+" Steven R","Lambert","ptl","West Roxbury",2,0.02
+" Brian","Stallings","ptl","Hyde Park",2,0.02
+" Michael J","Jones","ptl","Malden",2,0.02
+" William G","Knecht","sergt","Hyde Park",2,0.02
+" Emanuel","Canuto","det","Milton",2,0.02
+" Patrick Cullen","Munroe","ptl","East Boston",2,0.02
+" Roberto C","Paulino","det","Hyde Park",2,0.02
+" Susan A","Ruggiero","ptl","Hyde Park",2,0.02
+" Tony Y","Szeto","ptl","Cambridge",2,0.02
+" Denis J","Fitzpatrick","ptl","Winthrop",2,0.02
+" Susan R","Edghill-Yard","sgtdet","Roslindale",2,0.02
+" Patrick F","Cadogan","ptl","Dorchester",2,0.02
+" James J","Rowley Jr.","ptl","West Roxbury",2,0.02
+" Rodney H","Cameron","ptl","Milton",2,0.02
+" Michael J","McManus","ptl","Roslindale",2,0.02
+" Roger D","Layden Jr.","ptl","Dorchester",2,0.02
+" Veritta M","Pitts","det","South Easton",2,0.02
+" Tahisha L","Skeen","det","Hyde Park",2,0.02
+" Mark William","Harrington","capt","Braintree",2,0.02
+" Michael J","Phinney","ptl","Quincy",2,0.02
+" Tamiko R","Neal-Jackson","ptl","Dorchester",2,0.02
+" Bret","LaBelle","sergt","Dedham",2,0.02
+" Timothy R","Donovan","ptl","Abington",2,0.02
+" Donald M","Lee","det","Hanover",2,0.02
+" Edward F","McMahon","sergt","West Roxbury",2,0.02
+" Timothy R","Hicks","ptl","Quincy",2,0.02
+" Patrick K","Layden","ptl","Quincy",2,0.02
+" John N","Flynn","lieut","West Roxbury",2,0.02
+" Jeremiah","Goodwin","ptl","East Boston",2,0.02
+" Kevin J","Toomey","ptl","West Roxbury",2,0.02
+" Kevin J","Yalmokas","det","West Barnstable",2,0.02
+" Adolfo","Brito","ptl","Roxbury",2,0.02
+" John P","Boyle","det","West Roxbury",2,0.02
+" Edward","Grace","ptl","Charlestown",2,0.02
+" Annie M","Cox","ptl","Hyde Park",2,0.02
+" Andrew","Medina","ptl","West Roxbury",2,0.02
+" Terrence C","Joyce","ptl","Braintree",2,0.02
+" Cavan","Dunn","ptl","Dorchester",2,0.02
+" William","Gallagher","sgtdet","Dorchester",2,0.02
+" Kevin M","Cavanaugh","ptl","Humarock",2,0.02
+" Michael P","Linskey","ptl","Braintree",2,0.02
+" Paul  A","Sadatis Jr","lieut","Hyde Park",2,0.02
+" Brendan E","Cavanaugh","ptl","West Roxbury",2,0.02
+" Michael P","Maloney","ptl","Allston/Brighton",2,0.02
+" Dave E","Juba","det","Roslindale",2,0.02
+" Derek","Marcoaldi","ptl","Dorchester",2,0.02
+" Kevin M","Guy","det","Revere",2,0.02
+" Kara","Connolly","det","Pembroke",2,0.02
+" Andrew G","Wilcox","ptl","Dorchester",2,0.02
+" Amy E","Boyle","ptl","West Roxbury",2,0.02
+" Therese M","Kozmiski","capt","Duxbury",2,0.02
+" Christopher","Bailey","sergt","Dorchester",2,0.02
+" Paul G","Broderick","ptl","Canton",2,0.02
+" Christopher","Adams","ptl","Dorchester",2,0.02
+" Thomas","Kelley","det","Walpole",2,0.02
+" Thomas","Leahy","sergt","Dorchester",2,0.02
+" Joseph","Singletary","ptl","Mattapan",2,0.02
+" Joseph","Starkey","ptl","West Roxbury",2,0.02
+" Daniel E","Smith","ptl","Taunton",2,0.02
+" Kevin P","Cook","det","Quincy",2,0.02
+" John P","Greland","capt","Hanover",2,0.02
+" Ryan Patrick","Egan","ptl","Allston/Brighton",2,0.02
+" Jean-Gerard","Dorsainvil","det","West Roxbury",2,0.02
+" Kevin P","McGoldrick","sergt","West Roxbury",2,0.02
+" Ryan T","MacRoberts","ptl","Hyde Park",2,0.02
+" John E","McNulty","sergt","Franklin",2,0.02
+" Albert A","McDonough","ptl","West Roxbury",2,0.02
+" Thomas E","Barrett","sgtdet","West Roxbury",2,0.02
+" John E","Pels","ptl","Dorchester",2,0.02
+" Jeremiah J","O'Brien","ptl","West Roxbury",2,0.02
+" Earl O","Perkins","sgtdet","Dorchester",2,0.02
+" Joseph C","Trodella","det","Peabody",2,0.02
+" Louis","Madeira","ptl","Milford",2,0.02
+" Matthew","Burton","ptl","South Boston",2,0.02
+" Daniel B","Kornetsky","det","Newburyport",2,0.02
+" Matthew","Hogardt","sergt","Westwood",2,0.02
+" Louis T","Relerford","det","Worcester",2,0.02
+" Thomas J","Finn","det","West Roxbury",2,0.02
+" Debra G","Blandin","ptl","Hyde Park",2,0.02
+" Michael T","Walsh","det","South Boston",2,0.02
+" Thomas J","Keeley","det","Braintree",2,0.02
+" David J III","Hansford","ptl","Pembroke",2,0.02
+" Troy E","Hartgrove","det","Rockland",2,0.02
+" Matthew A","Kervin","sergt","Allston/Brighton",2,0.02
+" Lucia","Palomares","det","Jamaica Plain",2,0.02
+" Paulmichael","Bertocchi","ptl","Dorchester",2,0.02
+" Thomas J","Porter","ptl","Dorchester",2,0.02
+" Luciano","Cirino-Ayuso","ptl","Hyde Park",2,0.02
+" Daniel A","Wallace","ptl","Fremont",2,0.02
+" Timothy G","Laham","sgtdet","Foxboro",2,0.02
+" Thomas L","Sexton","sgtdet","Milton",2,0.02
+" Alfredo","Araujo","ptl","Hyde Park",2,0.02
+" David G","Pinciaro","ptl","Hyde Park",2,0.02
+" Adam C","Gill","sergt","Wrentham",2,0.02
+" Thomas M","Menino Jr.","det","Canton",2,0.02
+" Angela D","Coleman","ptl","Hyde Park",2,0.02
+" Karyn A","Vandyke","det","Brockton",2,0.02
+" Peter A","Zographos","ptl","Walpole",2,0.02
+" Frank","Nogueira","ptl","Kingston",2,0.02
+" Franklin E","Ortiz","ptl","Jamaica Plain",2,0.02
+" Peter D","O'Brien","ptl","West Roxbury",2,0.02
+" Thomas P","Bernier","det","West Roxbury",2,0.02
+" James Robert","Warmsley","ptl","Roxbury",2,0.02
+" Fred R","Williams","ltdet","Foxboro",2,0.02
+" Peter J","Cazeau","ptl","Hyde Park",2,0.02
+" James P","Defeo","det","Wilmington",2,0.02
+" Luis","Lopez","ptl","Stoughton",2,0.02
+" John R","O'Malley","lieut","Natick",2,0.02
+" Peter J","Messina","sergt","Walpole",2,0.02
+" Frederick P","Kennedy","ptl","Milton",2,0.02
+" William A","Connor","ptl","Dorchester",2,0.02
+" Matthew J","Ryan","ptl","South Boston",2,0.02
+" Matthew J","Wyman","ptl","West Roxbury",2,0.02
+" Billie Ann","Kelly","ptl","East Boston",2,0.02
+" Garrett G","Mitchell","sgtdet","Walpole",2,0.02
+" Betty","Yu","ptl","Weymouth",2,0.02
+" John R","Pugsley","ptl","Wakefield",2,0.02
+" Peter S","Papasso","det","North Reading",2,0.02
+" Joseph E","Garcia","ptl","Westwood",2,0.02
+" James H","LaCroix","ptl","Foxboro",2,0.02
+" Bernard Edward","Greene","ltdet","Fenway/Kenmore",2,0.02
+" Scott M","Stenstrom","ptl","Westwood",2,0.02
+" Mina","Sobhy","ptl","East Boston",2,0.02
+" Jason R","Villanueva","ptl","Hyde Park",2,0.02
+" John T","Boyle","sgtdet","Allston/Brighton",2,0.02
+" Philip F","Coleman","ptl","Dorchester",2,0.02
+" Seamus P","Walsh","det","Dorchester",2,0.02
+" Daniel A","Long","ptl","South Boston",2,0.02
+" Kathleen","Burke","ptl","Dorchester",2,0.02
+" George J","Beaulieu","ptl","Whitman",2,0.02
+" Kathleen","Senise","ptl","Dorchester",2,0.02
+" Moises J","Abreu","ptl","Hyde Park",2,0.02
+" Sean","Cullen","ptl","West Roxbury",2,0.02
+" Joseph F","Medina","det","West Roxbury",2,0.02
+" Phillip A","Owens","sgtdet","Salem",2,0.02
+" Phillip J","Ronca","ptl","Braintree",2,0.02
+" Matthew McNeil","Conley","ptl","West Roxbury",2,0.02
+" Lylana","Jones-Henderson","ptl","Roxbury",2,0.02
+" Phyllis E","Carter","det","Roslindale",2,0.02
+" Vincent","Schettino","ptl","East Boston",2,0.02
+" Pilar","Sanchez","ptl","Roslindale",2,0.02
+" David G","Hyslip","det","Hanson",2,0.02
+" Gerard Stephen","Kennedy","ptl","West Roxbury",2,0.02
+" Jason","McKenna","ptl","Hyde Park",2,0.02
+" Dennis J","Crowley","ptl","Bridgewater",2,0.02
+" John W","Ezekiel","ptl","Lynnfield",2,0.02
+" Korey L","Franklin","ptl","Hyde Park",2,0.02
+" Elias","Cruz","ptl","Roslindale",2,0.02
+" Benjamin M","Katz","ptl","Roslindale",2,0.02
+" Domenic A","Columbo","ptl","West Roxbury",2,0.02
+" Jesse E","Goff","det","Arlington",2,0.02
+" Andrew G","Garvey","sgtdet","Norwell",2,0.02
+" Joseph L","Coppinger","ptl","West Roxbury",2,0.02
+" Rafael C","Rodriguez","sergt","South End",2,0.02
+" Dennis C","Cogavin","lieut","West Roxbury",2,0.02
+" Rafael W","Acevedo","ptl","Dedham",2,0.02
+" Kyle J","Holmes","ptl","South Boston",2,0.02
+" John F","Puglia","sgtdet","Hanover",2,0.02
+" Gregory","Joseph","ptl","Hyde Park",2,0.02
+" Dennis","Layden","ptl","Dorchester",2,0.02
+" Jason","Morano","ptl","East Boston",2,0.02
+" Keith D","Dalrymple","capt","Pembroke",2,0.02
+" Damon D","Gibbs","sergt","Hyde Park",2,0.02
+" Carina","Shepard","ptl","Hyde Park",2,0.02
+" Randall D","Martin","ptl","Mattapan",2,0.02
+" Joseph M","Maguire","sergt","Franklin",2,0.02
+" John","Caulfield","ptl","West Roxbury",2,0.02
+" Sean P","Francis","ptl","Bridgewater",2,0.02
+" Manuel G","Miranda","ptl","Roxbury",2,0.02
+" Marc","Delvalle","ptl","Charlestown",2,0.02
+" Ethan C","Cole","sergt","Jamaica Plain",2,0.02
+" Raymond","D'Oyley","ptl","Dracut",2,0.02
+" Marc","McBrien","ptl","West Roxbury",2,0.02
+" Raymond","Ramirez","ptl","West Roxbury",2,0.02
+" Sean S","Sullivan","ptl","Weymouth",2,0.02
+" Sean T","O'Connor","ptl","Dorchester",2,0.02
+" Timothy J","Golden","sergt","West Roxbury",2,0.02
+" Gustavo Gil","Medina","ptl","South Boston",2,0.02
+" Cara E","Doyle","ptl","West Roxbury",2,0.02
+" Serge A","Sanon","det","Hyde Park",2,0.02
+" Harold","Tibets","ptl","Dorchester",2,0.02
+" Melissa A","Lombardo","det","Roslindale",2,0.02
+" Harry","Bazile","det",NULL,2,0.02
+" Seth A","Housman","det","West Roxbury",2,0.02
+" Kelley J","McCormick","capt","Arlington",2,0.02
+" Heather A","MacKenzie","ptl","East Bridgewater",2,0.02
+" Andrew","Creed","det","Quincy",2,0.02
+" Shandralee","Pinto","ptl","West Roxbury",2,0.02
+" Shannon","McLaughlin-Fabiano","ptl","Charlestown",2,0.02
+" John","Farrell","sergt","Walpole",2,0.02
+" Melvin","Ruiz","det","West Roxbury",2,0.02
+" James J","Fitzpatrick","capt","Bridgewater",2,0.02
+" Eliana","Builes","ptl","East Boston",2,0.02
+" John","Kacvinsky","ptl","North Andover",2,0.02
+" Elmazine C","Nelson","ptl","Jamaica Plain",2,0.02
+" William B","Jones","ptl","Hyde Park",2,0.02
+" Jorge L","Hernandez","ptl","East Boston",2,0.02
+" Michael","Aziz","sergt","Hyde Park",2,0.02
+" Renee L","Jackson","ptl","Brockton",2,0.02
+" Daniel P","Cunningham","ptl","Dorchester",2,0.02
+" Joseph R","Dominguez","det","Carlisle",2,0.02
+" Kenneth A","MacMaster","lieut","Hanover",2,0.02
+" Shawn","MacIver","ptl","Hyde Park",2,0.02
+" Shawn","Roberts","ptl","Roslindale",2,0.02
+" Shawn C","Butler","ptl","West Roxbury",2,0.02
+" Ian P","Mahoney","sergt","Weymouth",2,0.02
+" Christopher T","Walsh","lieut","Hyde Park",2,0.02
+" Christopher R","Steele","ptl","Dorchester",2,0.02
+" Eric W","Bulman","sgtdet","Hanover",2,0.02
+" Atiya","Younger","ptl","Roslindale",2,0.02
+" Edward T","Norton","sergt","Norwood",2,0.02
+" Shawn N","Harris","ptl","Jamaica Plain",2,0.02
+" Charles V","MacKinnon","sergt","West Roxbury",2,0.02
+" Shawn P","McKenzie","ptl","Bellingham",2,0.02
+" Caitlin B","Haugh","ptl","Dorchester",2,0.02
+" John J","Dineen","sgtdet","Marshfield",2,0.02
+" John","Studley","det","Dorchester",2,0.02
+" Nichole","Tyler","ptl","Brockton",2,0.02
+" Jill","O'Connor","ptl","Allston/Brighton",2,0.02
+" Ismael Lopes","Almeida","ptl","Dorchester",2,0.02
+" Ismael R","Henriquez","det","Dorchester",2,0.02
+" Christopher R","Fencer","det","Dorchester",2,0.02
+" John J","Hardy","lieut","Boxford",2,0.02
+" John J","MacLaughlan","sergt","West Roxbury",2,0.02
+" Eric C","Byron","ptl","Dorchester",2,0.02
+" Kenneth R","Autio","det","North Chelmsford",2,0.02
+" Alexis","Herrera-Brea","ptl","Roxbury",2,0.02
+" Andre Dimitrius","Watson","ptl","Roslindale",2,0.02
+" Maria P","Galvao","det","Dorchester",2,0.02
+" William F","Sargent","ptl","South Boston",2,0.02
+" Eric A","Francis","ptl","Hyde Park",2,0.02
+" Jacqueline D","Creaven","lieut","West Roxbury",2,0.02
+" David","Martinez","det","Stoughton",2,0.02
+" Devon M","Cornelius","ptl","Hyde Park",2,0.02
+" Joshua O","Cummings","det","Ipswich",2,0.02
+" Richard D","Cintolo","ptl","Winthrop",2,0.02
+" David M","O'Sullivan","det","East Bridgewater",2,0.02
+" Nina","Jefferson","ptl","Roxbury",2,0.02
+" Bryan","Rivers","det","Mattapan",2,0.02
+" James Michael","McDonnell","ptl","South Boston",2,0.02
+" Eric","McPherson","det","Stoughton",2,0.02
+" Siobhan Bernadette","Elvin","ptl","Dorchester",2,0.02
+" Jose D","Amado","ptl","Hyde Park",2,0.02
+" Michael","Ridge","ptl","West Roxbury",2,0.02
+" Richard G","Lewis","sgtdet","Canton",2,0.02
+" James","Blake","sergt","West Roxbury",2,0.02
+" Charles R","Blicker","ptl","Milton",2,0.02
+" Charles K","Burch","ptl","Lynn",2,0.02
+" John J","O'Keefe","ptl","Canton",2,0.02
+" James","Gorman","ptl","Dorchester",2,0.02
+" Marie A","Miller","ptl","New Bedford",2,0.02
+" James R","Parker","ptl","Stoneham",2,0.02
+" Arthur J","Hall-Brewster","det","Dorchester",2,0.02
+" Lee S","Merlino","ptl","Hyde Park",2,0.02
+" James","O'Loughlin","det","West Roxbury",2,0.02
+" John James","Feeney","ptl","Dorchester",2,0.02
+" Charles E","Wilson","supt","Charlestown",2,0.02
+" James A","Gauvin","ptl","Hyde Park",2,0.02
+" James A","Griffin","det","Hyde Park",2,0.02
+" Arthur G","Torigian","ltdet","Sherborn",2,0.02
+" Timothy F","Wilson","ptl","Dorchester",2,0.02
+" Arthur G","Fritch","ptl","South Boston",2,0.02
+" Juan A","Diaz","det","Canton",2,0.02
+" Winston","DeLeon","sergt","Hyde Park",2,0.02
+" Eddy B","Pena","ptl","Franklin",2,0.02
+" David L","Hale","ptl","Dorchester",2,0.02
+" Lenin H","Frederick","det","Hyde Park",2,0.02
+" Richard Sean","Spillane","ptl","West Roxbury",2,0.02
+" James D","Scopa","ptl","Wakefield",2,0.02
+" Timothy Joseph","Duggan","ptl","South Boston",2,0.02
+" Michael Anthony","Mustacchio","ptl","Central Boston",2,0.02
+" Allison D","Ross","ptl","Roxbury",2,0.02
+" Julie M","Colburn","ptl","Walpole",0,0.00
+" Justin","Evangelista","ptl","West Roxbury",0,0.00
+" Justin D","Cremins","ptl","Dorchester",0,0.00
+" David Jr","Milien Jr.","civili","Dorchester",0,0.00
+" Justin R","O'Brien","ptl","East Boston",0,0.00
+" Kaitlin","Walsh","civili",NULL,0,0.00
+" Kaitlin E","Berardi","ptl","Roslindale",0,0.00
+" David Joseph","Papapietro","civili",NULL,0,0.00
+" David Joseph","O'Connor","ptl","Dorchester",0,0.00
+" Kamisha L","Green","ptl","Mattapan",0,0.00
+" Karcel","Eveillard","ptl","Jamaica Plain",0,0.00
+" Karen","Hutton","civili","Hyde Park",0,0.00
+" Karen","Kelley","civili","Allston/Brighton",0,0.00
+" Karen","Perry","civili","Roxbury",0,0.00
+" Karen E","Clark","civili",NULL,0,0.00
+" Karen E","Kelleher","civili","West Roxbury",0,0.00
+" Karen M","Coleman","civili","Allston/Brighton",0,0.00
+" Karen M","Cullen","civili","Roslindale",0,0.00
+" Karen M","Healy","civili","West Roxbury",0,0.00
+" David John","Spiers","civili",NULL,0,0.00
+" Karissa N","Scano","ptl","Dorchester",0,0.00
+" David J","Marshall","ptl","West Roxbury",0,0.00
+" Karyn R","McCarthy","ptl","Walpole",0,0.00
+" Kate E","Blas","civili","Hyde Park",0,0.00
+" Katelyn M","Coe","ptl","South Boston",0,0.00
+" Todd M","Brown","ptl","Hanover",0,0.00
+" Katherine","Osgood","civili","Fenway/Kenmore",0,0.00
+" Katherine Anne","Cyr","civili",NULL,0,0.00
+" Andrea J","Trojano","civili","Dorchester",0,0.00
+" Katheryn T","Stanton","ptl","West Roxbury",0,0.00
+" Kathleen H","Doherty","civili","Dorchester",0,0.00
+" Kathryne","Hall","civili","West Roxbury",0,0.00
+" Kathy A","Kearney","civili","West Roxbury",0,0.00
+" Katie Bridget","Murray","ptl","Dorchester",0,0.00
+" Kato I","Francis","ptl","West Roxbury",0,0.00
+" Katrina","Mammoli","civili","Hyde Park",0,0.00
+" Katy","Janvier","civili","Dorchester",0,0.00
+" Kayla Marie","Toner","civili",NULL,0,0.00
+" Kaylee","Hutchinson","civili",NULL,0,0.00
+" Kedron W","Murphy","civili","Dorchester",0,0.00
+" Andrea Amaro","Marques","civili","Allston/Brighton",0,0.00
+" Keith","Tolland","ptl","Medfield",0,0.00
+" David Fernando","Hernandez","civili","Roxbury",0,0.00
+" David F","Murray","ptl","Hyde Park",0,0.00
+" Keith R","Callow","ptl","South Boston",0,0.00
+" David F","Cox","ptl","South Boston",0,0.00
+" Kelli Ann","McLaughlin","civili","Dorchester",0,0.00
+" Kelly C","Brown","civili","Dorchester",0,0.00
+" David F","Bridges","ptl","Milton",0,0.00
+" Aarti Mabel","Telore","civili",NULL,0,0.00
+" Kenisha","Benjamin","det","Dorchester",0,0.00
+" Kennedy C","Semedo","ptl","Hyde Park",0,0.00
+" Tom T","Le","civili",NULL,0,0.00
+" Kenneth","Turner","sgtdet","Dorchester",0,0.00
+" David E","Flaherty","lieut","Weymouth",0,0.00
+" David Corneilus","Adamson","civili",NULL,0,0.00
+" David B","Estrada","civili","Weston",0,0.00
+" Zachary I","MacInnis","ptl","Dorchester",0,0.00
+" David","Powell","ptl","Hyde Park",0,0.00
+" Kenneth Michael","Grealish","civili",NULL,0,0.00
+" KENY","ABEL","civili",NULL,0,0.00
+" Kerline","Desir","ptl","West Roxbury",0,0.00
+" Kerri","Smith","civili","South Boston",0,0.00
+" Kerri A","Guerin","ptl","Marshfield",0,0.00
+" Kerry","Galvin","civili","Dorchester",0,0.00
+" Kerry","Ryan","civili","South Boston",0,0.00
+" Kerry A","Sullivan","civili","Reading",0,0.00
+" Keva","Phillips","civili","Roxbury",0,0.00
+" Kevin","Callahan","ptl","South Boston",0,0.00
+" Kevin","Coakley","ptl","South Boston",0,0.00
+" Kevin","Egan","ptl","Hyde Park",0,0.00
+" Kevin","Kosiorek","civili","West Roxbury",0,0.00
+" Kevin","Larade","civili","South Boston",0,0.00
+" David","Marquez Rivas","ptl","Roslindale",0,0.00
+" Kevin","Melay","ptl","Dorchester",0,0.00
+" Kevin","Mendes","ptl","East Boston",0,0.00
+" Kevin","Montero","ptl","Mattapan",0,0.00
+" Toni Ann","Piemonte","civili","East Boston",0,0.00
+" Kevin","Pumphret","det","West Roxbury",0,0.00
+" David","Hernandez","ptl","East Boston",0,0.00
+" Kevin","Sullivan","ptl","Dorchester",0,0.00
+" Kevin","Witherspoon","sgtdet","Avon",0,0.00
+" Tony Alexander","Romero","ptl","Dorchester",0,0.00
+" Kevin   P","Swan","sergt","Hyde Park",0,0.00
+" KEVIN D","ASHE","civili","West Roxbury",0,0.00
+" Kevin F","Golden","ptl","Reading",0,0.00
+" Toren Lakeon","Langham","civili",NULL,0,0.00
+" Andre","Ceballos","civili",NULL,0,0.00
+" Kevin Gerard","Shelley","ptl","West Roxbury",0,0.00
+" Kevin J","Foley","civili","Westwood",0,0.00
+" David","Hardie","ptl","Dorchester",0,0.00
+" David","Giaccai","civili","West Roxbury",0,0.00
+" Kevin K","Herbert","ptl","Dorchester",0,0.00
+" Kevin K","Watson","ptl","Roslindale",0,0.00
+" Kevin M","Butcher","ptl","Roslindale",0,0.00
+" Tracy","Wyse","ptl","Dorchester",0,0.00
+" Darwin","Hernandez","ptl","Canton",0,0.00
+" Kevin Michael","Bernazzani","ptl","West Roxbury",0,0.00
+" Darryl W","Owens","ptl","Hyde Park",0,0.00
+" Kevin P","Cahill","ptl","Dorchester",0,0.00
+" Kevin P","Finn","det","East Boston",0,0.00
+" Kevin P","Finn","sgtdet","Winthrop",0,0.00
+" Kevin Paul","McCarthy","ptl","Dorchester",0,0.00
+" Tracy A","Kenney","civili","Dorchester",0,0.00
+" Darryl","Dorsainvil","ptl","West Roxbury",0,0.00
+" Kevin Stephen","O'Leary","ptl","South Boston",0,0.00
+" Tram H","Tran","civili","Dorchester",0,0.00
+" Kevin T","Rowley","ptl","West Roxbury",0,0.00
+" Darrin Patrick","Greeley","capt","West Roxbury",0,0.00
+" Keyanna","Smith","ptl","Mattapan",0,0.00
+" Keyara","Nolen","civili","Dorchester",0,0.00
+" Tyler","Bovitch","civili","Chestnut Hill",0,0.00
+" Khalilah A","Drummer","civili","Roslindale",0,0.00
+" Darlene S","Bufford","civili",NULL,0,0.00
+" Kim A","Parker","civili","Dorchester",0,0.00
+" Kim L","Andrade","ptl","Brockton",0,0.00
+" Kimber","Taylor","ptl","West Roxbury",0,0.00
+" Kimberly","Huertas Rivera","civili",NULL,0,0.00
+" Kimberly A","Dacy-Smith","civili","Allston/Brighton",0,0.00
+" Kimberly A","Lenane","civili","Dorchester",0,0.00
+" Kimberly R","Herndon","civili","Roxbury",0,0.00
+" Kimberlyanne","Haynes","civili",NULL,0,0.00
+" Kimmarie S","Keane","civili","West Roxbury",0,0.00
+" Darlene","Tevnan","civili","South Boston",0,0.00
+" Kirk Orlando","Maxwell","ptl","Hyde Park",0,0.00
+" Kit W","Tong","ptl","Dorchester",0,0.00
+" Koraliz","Cruz","civili","East Boston",0,0.00
+" Kristen A","Morgan","civili","Stoughton",0,0.00
+" Tyler","Briffett","ptl","West Roxbury",0,0.00
+" Tyler Shaun","Mathewson","ptl","South Boston",0,0.00
+" Kyle","Ortiz","civili","Roxbury",0,0.00
+" Kyle Christian","Ryan","ptl","South Boston",0,0.00
+" Darlene","Lagoa","det","Hyde Park",0,0.00
+" Kyle Matthew","Gilmore","civili",NULL,0,0.00
+" Kyle Owen","Gaughan","civili",NULL,0,0.00
+" Kylie Ann","Langton","ptl","East Boston",0,0.00
+" Daria","Deleo","civili",NULL,0,0.00
+" Lamona","Mallett","civili",NULL,0,0.00
+" Daniel S","Simons","ptl","Woburn",0,0.00
+" Daniel Robert","Isberg","ptl","Jamaica Plain",0,0.00
+" Daniel P","Harlow","ptl","Plainville",0,0.00
+" Larneshia Cha","Bryant-Alexander","civili",NULL,0,0.00
+" Tyraun","Barboza","ptl","Dorchester",0,0.00
+" Latoya L","Boman","civili",NULL,0,0.00
+" Daniel P","Duff","ltdet","Hingham",0,0.00
+" Laura","Cutone","civili","Allston/Brighton",0,0.00
+" Laura","Lang","ptl","Canton",0,0.00
+" Laura","Ortiz","civili","Dorchester",0,0.00
+" Laura E","Dhooge","ptl","Hyde Park",0,0.00
+" Laura L","Dickerson","civili","Roxbury",0,0.00
+" Laura Melissa","Suarez","ptl","West Roxbury",0,0.00
+" Laureen S","Dowdy","civili","South Boston",0,0.00
+" Lauren","Woods","ptl","Dorchester",0,0.00
+" Daniel Mark","Sonia","civili","Roslindale",0,0.00
+" Laurence J","Sullivan","ptl","East Boston",0,0.00
+" Laurie","Farrell","civili","Charlestown",0,0.00
+" Andra","Saliba","civili","Central Boston",0,0.00
+" Daniel M","Conway","ptl","West Roxbury",0,0.00
+" Lawrence E","Murphy","civili","Tewksbury",0,0.00
+" Anastatia T","Boyle","ptl","Braintree",0,0.00
+" Lawrence J","Herman","civili","Westwood",0,0.00
+" Lea D","Allen","ptl","Hyde Park",0,0.00
+" Leah A","Phillips","ptl","Roxbury",0,0.00
+" Leah E","Bagas","det","Dorchester",0,0.00
+" Leah M","Giammarco","civili","Lynnfield",0,0.00
+" Leanne E","Hurley","ptl","Dedham",0,0.00
+" Lee W","Bawoh","civili","Roxbury",0,0.00
+" Leigh Anne","Fitzgerald","ptl","Westwood",0,0.00
+" Daniel Lajuan","Rose","ptl","Mattapan",0,0.00
+" Leiry A","Melendez-Sullivan","ptl","Fenway/Kenmore",0,0.00
+" Daniel James","Bamford","ptl","Dorchester",0,0.00
+" Daniel J","Sheehan","ptl","Dorchester",0,0.00
+" Daniel J","O'Shea","civili","Braintree",0,0.00
+" Leroy","Fernandes","ptl","Roxbury",0,0.00
+" Daniel J","Nash","ptl","Dorchester",0,0.00
+" Lesley C","Short","ptl","Marshfield",0,0.00
+" Daniel J","MacIsaac","sergt","West Roxbury",0,0.00
+" Leslie A","Middleton","civili","Dorchester",0,0.00
+" Leslie Josefina","Paula","civili",NULL,0,0.00
+" Lesly","Decossa","ptl","Hyde Park",0,0.00
+" Lexis","Alleyne","civili",NULL,0,0.00
+" Liam Kaya","Grady","ptl","South Boston",0,0.00
+" Daniel J","Hooley","ptl","Hyde Park",0,0.00
+" Licia Marie","McLean","civili",NULL,0,0.00
+" Lieu","Nguyen","civili","Hull",0,0.00
+" Liliana","DiSessa","civili","East Boston",0,0.00
+" Linda","Garside","civili","Dorchester",0,0.00
+" Linda","Humphries","civili","Dorchester",0,0.00
+" Linda","Mitchell","civili","Dorchester",0,0.00
+" Linda A","Sutton","civili","Quincy",0,0.00
+" Daniel J","Hegerich","ptl","West Roxbury",0,0.00
+" Linda J","Labadini","civili","East Boston",0,0.00
+" Daniel J","Fullam Jr","ptl","Dorchester",0,0.00
+" Linsey C","Onishuk","det","Hyde Park",0,0.00
+" Lirida C","Alfonso-Colon","civili",NULL,0,0.00
+" Lisa","Clark-Morgan","ptl","Dorchester",0,0.00
+" Lisa","Kaynakian","civili","South Boston",0,0.00
+" Lisa A","Charves","civili",NULL,0,0.00
+" Lisa A","Czar","civili","South Boston",0,0.00
+" Lisa A","Donovan","civili","Dorchester",0,0.00
+" Lisa A","Hodges","civili","Dorchester",0,0.00
+" Usope","Civilus","civili","Roxbury",0,0.00
+" Lisa J","O'Brien","civili","West Roxbury",0,0.00
+" Lisa M","DelTufo","civili","Dorchester",0,0.00
+" Lisa M","McEachern","civili","West Roxbury",0,0.00
+" Lisa S","Beasley","civili",NULL,0,0.00
+" Lisandra Nicole","Hernandez","civili","Roxbury",0,0.00
+" Valarie L","Way","civili",NULL,0,0.00
+" Lois M","Hanf","civili","Norwood",0,0.00
+" Daniel C","Pusey","sgtdet","Dorchester",0,0.00
+" Lori","Lockhead","civili",NULL,0,0.00
+" Lori M","McCarthy","civili","Braintree",0,0.00
+" Lorraine A","McLaughlin","civili","West Roxbury",0,0.00
+" Louidor","Michel","ptl","Mattapan",0,0.00
+" Louisimond","Vertyl","ptl","Hyde Park",0,0.00
+" Lourdes L","Torres","civili","Roxbury",0,0.00
+" Daniel B","Byrne","ptl","North Falmouth",0,0.00
+" Lucy C","Warren","civili","Quincy",0,0.00
+" Daniel A","Roca","ptl","Dorchester",0,0.00
+" Valerie A","Johnson","ptl","Norwood",0,0.00
+" Luigi","Mastrangelo","civili","Roxbury",0,0.00
+" Luigi R","Sorrentino","civili","East Boston",0,0.00
+" Luis","Vazquez","ptl","Walpole",0,0.00
+" Vallerie F","Thorpe","civili","Roxbury",0,0.00
+" Luis A","Cruz","depsup","West Roxbury",0,0.00
+" Daniel A","Moriarty","civili","Mattapan",0,0.00
+" Luis Alberto","Diaz","ptl","Roxbury",0,0.00
+" Luis Alejandro","Capriles","ptl","Roslindale",0,0.00
+" Lukasz","Grochowski","ptl","Dorchester",0,0.00
+" Luke","Payne","civili",NULL,0,0.00
+" Daniel","Murphy","ptl","Dorchester",0,0.00
+" Lynda","Hosea","civili","Dorchester",0,0.00
+" Lynda Susan","Way","civili",NULL,0,0.00
+" Daniel","Marifiote","ptl","East Boston",0,0.00
+" Lynette","Praileau","det","Mattapan",0,0.00
+" Lynette V","Williams","civili",NULL,0,0.00
+" Lynn","Martin","civili","Mattapan",0,0.00
+" Daniel","Dalo","civili","Winthrop",0,0.00
+" Dana A","McGillicuddy","civili","Braintree",0,0.00
+" Madeline","DoCanto-Ramos","civili","Roxbury",0,0.00
+" Madonna E","Nagim-White","civili",NULL,0,0.00
+" Maisha Au79","Miraj","civili","Fenway/Kenmore",0,0.00
+" Malykah Carvalho","Lopes","ptl","Dorchester",0,0.00
+" Man Kai","Lo","civili","West Roxbury",0,0.00
+" Mang Shing","Yung","civili","Jamaica Plain",0,0.00
+" Mang Y","Yung","civili","Jamaica Plain",0,0.00
+" Manuel","Andrade","ptl","Dorchester",0,0.00
+" Manuel","Roberto","ptl","Hyde Park",0,0.00
+" Manuel A","Simas","ptl","Roxbury",0,0.00
+" Marc","Sullivan","sgtdet","Fenway/Kenmore",0,0.00
+" Dalia M","Adorno-Ayala","ptl","Stoughton",0,0.00
+" Marc David","Vaillancourt","civili","Tewksbury",0,0.00
+" Marcelina","DeLeon","civili","Hyde Park",0,0.00
+" Dale Deaven","Kennedy","ptl","Roxbury",0,0.00
+" Marcellus","Parker","civili","Randolph",0,0.00
+" Cynthia","Rodriguez-Hector","civili","Dorchester",0,0.00
+" Margaret","Dietzel","civili","Roslindale",0,0.00
+" Margaret","Sullivan","civili","West Roxbury",0,0.00
+" Amy E","Boudreau","det","Walpole",0,0.00
+" Margaret G","Kelly","civili","West Roxbury",0,0.00
+" Margaret P","O'Donovan","civili","South Boston",0,0.00
+" Margarita","Boudreau","civili","South Boston",0,0.00
+" Maria","Cabrillana","civili","West Roxbury",0,0.00
+" Maria","Cheevers","civili","South Boston",0,0.00
+" Maria","Montalvo-Adames","civili","Roslindale",0,0.00
+" Maria","Osorno","civili","East Boston",0,0.00
+" Maria","Ribeiro","civili","Pawtucket",0,0.00
+" Curtis","Carroll","ptl","Braintree",0,0.00
+" Maria L","Perry","civili","Mattapan",0,0.00
+" Maria P","Gelfusa","civili","Hyde Park",0,0.00
+" Marian","Callahan","civili","Charlestown",0,0.00
+" Crystal","Lockett","civili",NULL,0,0.00
+" Marianne","Curley","civili","Dorchester",0,0.00
+" Marianne","Joyce","civili","Walpole",0,0.00
+" Marianne R","O'Dowd","civili",NULL,0,0.00
+" Marie","Anthony","civili","Allston/Brighton",0,0.00
+" Marie R","MacIsaac","civili",NULL,0,0.00
+" Marilyn","Agudelo-Echevarr","civili","East Boston",0,0.00
+" Marilynne E","Gaffey","ptl","Dorchester",0,0.00
+" Mario E","Santillana","ptl","East Boston",0,0.00
+" Marisa A","Barker","civili","Fitchburg",0,0.00
+" Marivelle","Crespo","ptl","Watertown",0,0.00
+" Cristian","De Silva","ptl","West Roxbury",0,0.00
+" Mark","Lynch","civili","Dorchester",0,0.00
+" Mark","Marron","ptl","Dorchester",0,0.00
+" Mark","Osis","ptl","South Boston",0,0.00
+" Crefton","Watty-Niles","civili","Dorchester",0,0.00
+" Mark","Warren","civili","East Boston",0,0.00
+" Craig Matthew","Reynolds","ptl","Dorchester",0,0.00
+" Mark A","Tobin","ptl","West Roxbury",0,0.00
+" Mark C","Vitale","civili","East Boston",0,0.00
+" Mark D","Holbrook","ptl","Newton Highlands",0,0.00
+" Mark D","Kervin","det","Allston/Brighton",0,0.00
+" Mark J","Cassino","ptl","Dorchester",0,0.00
+" Vanesa","Acosta Arboleda","civili",NULL,0,0.00
+" Corey P","Dizoglio","ptl","Dorchester",0,0.00
+" Corey","Thomas","ptl","Roslindale",0,0.00
+" Mark Patrick","Grehan","ptl","Roxbury",0,0.00
+" Corde","LaMonica","ptl","South Boston",0,0.00
+" Mark S","Freire","sergt","Berkley",0,0.00
+" Mark S","O'Connell","civili","Hyde Park",0,0.00
+" Marlene Annmarie","Barnes","civili","Jamaica Plain",0,0.00
+" Martha J","DeMaio","civili","West Roxbury",0,0.00
+" Martin","Moore","civili","Roxbury",0,0.00
+" Martin A","Dunlap","ptl","Dorchester",0,0.00
+" Vernelle","Smalls-Cardona","civili","Mattapan",0,0.00
+" Conrad A","Dalton","ptl","Dorchester",0,0.00
+" Martin J","Hedderman","ptl","Norwood",0,0.00
+" Martin M","Joseph","sgtdet","Dorchester",0,0.00
+" Martin M","O'Malley","det","Dorchester",0,0.00
+" Conor David","Murphy","ptl","South Boston",0,0.00
+" Marvin","Malaret","ptl","Hyde Park",0,0.00
+" Marvin M","Wright","det","Mattapan",0,0.00
+" Marwan J","Moss","ltdet","Roslindale",0,0.00
+" Mary","Miller-Martin","civili","Jamaica Plain",0,0.00
+" Mary  Theresa","Flaherty","civili",NULL,0,0.00
+" Mary Beth","Woods","civili","Charlestown",0,0.00
+" Mary Bridget","Flaherty","civili",NULL,0,0.00
+" Mary E","Bellew","civili","Dorchester",0,0.00
+" Mary E","Goodwyn","civili","Roslindale",0,0.00
+" Mary E","Lee","ptl","Hanover",0,0.00
+" Mary E","Newsom","civili",NULL,0,0.00
+" Mary E","Ryan","civili","South Boston",0,0.00
+" Mary Ellen","O'Shea","civili","Dorchester",0,0.00
+" Veronica","Cardona","civili",NULL,0,0.00
+" Mary G","Coakley","civili","Dorchester",0,0.00
+" Mary J","Mirdik","civili",NULL,0,0.00
+" Connor T","Murphy","ptl","West Roxbury",0,0.00
+" Mary V","Doherty","civili","Dorchester",0,0.00
+" Maryellen Kathleen","Lancaster","civili","Dorchester",0,0.00
+" Connor","Hardy","ptl","Dorchester",0,0.00
+" Victor","Mendez","civili","Hyde Park",0,0.00
+" Matthew","Entwistle","ptl","Dorchester",0,0.00
+" Matthew","Manning","ptl","South Boston",0,0.00
+" Matthew","McCarty","ptl","Dorchester",0,0.00
+" Matthew","O'Connor","ptl","Dorchester",0,0.00
+" Matthew","Spillane","sgtdet","Canton",0,0.00
+" Matthew D","Cloherty","ptl","Dorchester",0,0.00
+" Matthew D","Farley","ptl","Hyde Park",0,0.00
+" Connor","Askins","ptl","Jamaica Plain",0,0.00
+" Colleen C","Fancelli","ptl","Dorchester",0,0.00
+" Amy","Reynolds","civili","Mansfield",0,0.00
+" Colin Daniel","McCarthy","ptl","Dorchester",0,0.00
+" Matthew J","Fogarty","det","Norwell",0,0.00
+" Matthew J","Grogan","ptl","West Roxbury",0,0.00
+" Cole","Meaney","civili","Dorchester",0,0.00
+" Victoria Marie","Ramirez","civili",NULL,0,0.00
+" Matthew James","Beggan","ptl","South Boston",0,0.00
+" Matthew John","Bouzane","civili","West Roxbury",0,0.00
+" Clorissa","McGregor","ptl","Dorchester",0,0.00
+" Matthew Kellen","Gaffey","ptl","Dorchester",0,0.00
+" Matthew L","Albanese","ptl","East Boston",0,0.00
+" Matthew L","Smith","sergt","East Boston",0,0.00
+" Clifford M","Connolly","sergt","Weymouth",0,0.00
+" Claude N","Defay","ptl","Hyde Park",0,0.00
+" Matthew Martin","DiPiro","ptl","Roslindale",0,0.00
+" Matthew N","Muckerheide","ptl","South End",0,0.00
+" Clarence Devon","Thompson","civili","Roxbury",0,0.00
+" Ciro","Feliciano","ptl","Foxboro",0,0.00
+" Cindy","Caldoron","ptl","Randolph",0,0.00
+" Matthew T","Gagnon","ptl","South Boston",0,0.00
+" Matthew Thomas","Layden","ptl","Dorchester",0,0.00
+" Matthew Thomas","Turner","ptl","Allston/Brighton",0,0.00
+" Amanda C","Kennedy","ptl","South Boston",0,0.00
+" Matthew W","O'Loughlin","ptl","Dorchester",0,0.00
+" Maureen M","Mackin","civili","Mansfield",0,0.00
+" Maureen T","Fay","civili",NULL,0,0.00
+" Mauricio E","Langa","sergt","Franklin",0,0.00
+" Max Duggan","McGuire","ptl","South Boston",0,0.00
+" May","Chen","ptl","Dorchester",0,0.00
+" Maykol V","Garcia","ptl","Jamaica Plain",0,0.00
+" Meagan","Badohu","ptl","Roxbury",0,0.00
+" Megan","Green","ptl","West Roxbury",0,0.00
+" Megan","Leavitt","civili","Charlestown",0,0.00
+" Megan","Lee","civili","South Boston",0,0.00
+" Megan E","Brugman","ptl","Dorchester",0,0.00
+" Meghan","Walsh","det","Dorchester",0,0.00
+" Meghan Mary","Barry","civili","West Roxbury",0,0.00
+" Melinda","Santos","civili","Roslindale",0,0.00
+" Melisa","Perez","civili",NULL,0,0.00
+" Melissa A","Marchionda","civili","Roslindale",0,0.00
+" Vincent J","Difazio","det","Abington",0,0.00
+" Melissa R","Concepcion","civili","Dorchester",0,0.00
+" Melvin A","Ruiz","ptl","West Roxbury",0,0.00
+" Mercedees Nanci","Barnes-Jackson","civili","Roxbury",0,0.00
+" Mercedes A","Parker","ptl","Hyde Park",0,0.00
+" Ciaran","Murphy","civili","Dorchester",0,0.00
+" Vinh H","Vu","civili",NULL,0,0.00
+" Virginia","Gaughan","civili","Walpole",0,0.00
+" Michael","Charbonnier","sergt","Charlestown",0,0.00
+" Michael","Condon","det","Fenway/Kenmore",0,0.00
+" Michael","Doyle","ptl","Dorchester",0,0.00
+" Christopher R","Miller","ptl","South Boston",0,0.00
+" Michael","Forbes","ptl","East Boston",0,0.00
+" Michael","Gaskins","civili",NULL,0,0.00
+" Michael","Kerin","ptl","Dorchester",0,0.00
+" Michael","Locke","lieut","Norwell",0,0.00
+" Christopher M","Donlon","ptl","Roslindale",0,0.00
+" Michael","Mastronardi","ptl","East Boston",0,0.00
+" Michael","McDonough","ptl","Dorchester",0,0.00
+" Michael","McNulty","ptl","Hyde Park",0,0.00
+" Michael","Nucci","det","East Boston",0,0.00
+" Christopher M","Armstrong","ptl","Dorchester",0,0.00
+" Christopher K","Shoulla","ptl","Hanover",0,0.00
+" Michael","Potts","civili","West Roxbury",0,0.00
+" Vladimir","Vilvalex","ptl","Dorchester",0,0.00
+" Michael","Shikoluk","det","West Roxbury",0,0.00
+" Michael","Slemon","civili",NULL,0,0.00
+" Michael","St.Peter","ptl","West Roxbury",0,0.00
+" Michael","Sullivan","sergt","Wrentham",0,0.00
+" Amanda","Cummings","civili","East Boston",0,0.00
+" Christopher J","Simpson","ptl","South Boston",0,0.00
+" Michael A","Dillon","sergt","West Roxbury",0,0.00
+" Michael A","Fayles","ptl","Foxboro",0,0.00
+" Christopher J","MacNeil","ptl","Braintree",0,0.00
+" Christopher J","Goodman","ptl","Hanover",0,0.00
+" Michael A","O'Hara","sergt","Allston/Brighton",0,0.00
+" Michael Christopher","Keddy","ptl","Dorchester",0,0.00
+" Christopher G","Walton","ptl","Allston/Brighton",0,0.00
+" Amanda","Armstrong","civili","West Roxbury",0,0.00
+" Michael D","Walsh","ptl","Jamaica Plain",0,0.00
+" Michael E","O'Dwyer","ptl","Dorchester",0,0.00
+" Michael F","Devane","sgtdet","Quincy",0,0.00
+" Christopher G","Markunas","civili","Roslindale",0,0.00
+" Michael F","Durant","ptl","West Roxbury",0,0.00
+" Waiman","Lee","det","Allston/Brighton",0,0.00
+" Wallace Grant","Tilford","civili","Roxbury",0,0.00
+" Michael G","Connolly","ptl","Marshfield",0,0.00
+" Christopher G","Byrne","civili","Buzzards Bay",0,0.00
+" Christopher Dennis","Myers","ptl","Dorchester",0,0.00
+" Christopher D","Croke","civili","Quincy",0,0.00
+" Michael J","Barden","ptl","Hyde Park",0,0.00
+" Michael J","Connolly","ltdet","Hanover",0,0.00
+" Michael J","Gavin","civili","West Roxbury",0,0.00
+" Amanda","Aragones","ptl","Allston/Brighton",0,0.00
+" Michael J","Hegarty","lieut","East Walpole",0,0.00
+" Christopher C","Walker","civili","Dorchester",0,0.00
+" Michael J","Loney","civili","West Roxbury",0,0.00
+" Michael J","Long","ptl","Mattapan",0,0.00
+" Michael J","Matthews","ptl","Peabody",0,0.00
+" Michael J","Miller","ptl","Dorchester",0,0.00
+" Christopher Antonio","Diaz","ptl","West Roxbury",0,0.00
+" Michael J","Shackford","civili","Walpole",0,0.00
+" Michael J","Simmons","civili","Whitman",0,0.00
+" Christopher Alan","Bird","ptl","Dorchester",0,0.00
+" Christopher","Sutton","civili","Roxbury",0,0.00
+" Michael J","Sullivan","ptl","West Roxbury",0,0.00
+" Michael James","Noonan","civili",NULL,0,0.00
+" Christopher","Kerrigan","ptl","Hyde Park",0,0.00
+" Michael L","Ennis","ptl","Roslindale",0,0.00
+" Christopher","Hamilton","ptl","West Roxbury",0,0.00
+" Michael M","Kelley","sergt","West Roxbury",0,0.00
+" Christopher","Hamilton","ltdet","South Boston",0,0.00
+" Michael P","Keaney","ptl","South Boston",0,0.00
+" Christopher","Finn","civili","Dorchester",0,0.00
+" Michael P","McDonagh","civili","Dorchester",0,0.00
+" Christopher","DiCicco","ptl","East Boston",0,0.00
+" Walter","Washington","ptl","Randolph",0,0.00
+" Christopher","Curtis","ptl","Roslindale",0,0.00
+" Christopher","Burns","det","Dorchester",0,0.00
+" Michael P","Saltalamacchia","ptl","Shirley",0,0.00
+" Michael P","Sullivan","det","South Boston",0,0.00
+" Michael P","Warren","ptl","Mansfield",0,0.00
+" Christine Marie","Boucher","civili","Roxbury",0,0.00
+" Alveta Jo","Haynes","civili","Roxbury",0,0.00
+" Christine","Vraibel","civili","Charlestown",0,0.00
+" Michael R","Mylett","sgtdet","Mansfield",0,0.00
+" Michael R","Nee","ptl","Milton",0,0.00
+" Michael R","O'Donnell","ptl","Dorchester",0,0.00
+" Christine","Melia Marini","ptl","Allston/Brighton",0,0.00
+" Michael S","Andrade","ptl","Hyde Park",0,0.00
+" Michael S","DeLuca","sergt","Hanover",0,0.00
+" Michael S","Santry","ptl","Needham",0,0.00
+" Michael Seamus","Lydon","ptl","Roslindale",0,0.00
+" Christine","Kelly","civili","South Boston",0,0.00
+" Michael T","Goggin Jr.","ptl","Norwell",0,0.00
+" Christine","Carr","ptl","Dorchester",0,0.00
+" Michael T","Principe","ptl","Middleboro",0,0.00
+" Michael T","Walton","ptl","Allston/Brighton",0,0.00
+" Michael V","Butler","ptl","West Roxbury",0,0.00
+" Christina maria","Gatej","ptl","West Roxbury",0,0.00
+" Michael V","Kern","ltdet","West Roxbury",0,0.00
+" Christina M","Salem","civili","Fenway/Kenmore",0,0.00
+" Michaela","Grenham","civili",NULL,0,0.00
+" Michelle","Eden","civili","Roxbury",0,0.00
+" Michelle","Peguero","civili",NULL,0,0.00
+" Michelle A","Williams","det","Foxboro",0,0.00
+" Michelle Jean","Davey","civili",NULL,0,0.00
+" Michelle M","Cummins","ptl","Dorchester",0,0.00
+" Christina M","Dunlap","civili","Dorchester",0,0.00
+" Middalia","Marcial-Centeio","civili","Brockton",0,0.00
+" Miguel E","Montesino","det","Hyde Park",0,0.00
+" Christina J","Merrick","ptl","Marshfield",0,0.00
+" Christian A","Cuascut Hernandez","ptl","East Boston",0,0.00
+" Mildred","Gonzalez","civili","Hyde Park",0,0.00
+" Millicent R","Brown","civili","West Roxbury",0,0.00
+" Minhael","Park","civili",NULL,0,0.00
+" Miranda Lee","O'Brien","civili","Dorchester",0,0.00
+" Miriam","Sanchez Grullon","civili","Back Bay/Beacon Hill",0,0.00
+" Mirta L","Willis","civili","Mattapan",0,0.00
+" Mitchell Logan","Gambon","ptl","West Roxbury",0,0.00
+" Mollie Tressa","Brown","civili",NULL,0,0.00
+" Molly E","Rattigan","ptl","Roslindale",0,0.00
+" Christian","Coyne","ptl","Hyde Park",0,0.00
+" Moneeka Y","Colston","civili","Dorchester",0,0.00
+" Monica","Powell","civili","Roxbury",0,0.00
+" Monica L","Sheesley","det","Wrentham",0,0.00
+" Monica M","Quinonez","det","South Boston",0,0.00
+" Ching Wah","Chan","civili","Quincy",0,0.00
+" Cheryl O","Clarke","civili","Roxbury",0,0.00
+" Morris Viet","Luu","ptl","Allston/Brighton",0,0.00
+" Altresa S","Wimes","civili","Back Bay/Beacon Hill",0,0.00
+" Cheryl M","Botteri","civili","Walpole",0,0.00
+" Cheryl Ann","Springer","civili","Hyde Park",0,0.00
+" Cheryl A","Farrell-Koyon","civili",NULL,0,0.00
+" Chelsey N","Wiesman","civili",NULL,0,0.00
+" Nadeia","Faustin","civili","Brockton",0,0.00
+" Ward A","Johnson","ptl","Dorchester",0,0.00
+" Nadine","Powell","ptl","Roslindale",0,0.00
+" Namrud B","Tsehai","civili",NULL,0,0.00
+" Nancy","Monday","civili",NULL,0,0.00
+" Nancy E","Cellucci","det","West Roxbury",0,0.00
+" Nancy M","Dankers","ptl","Roslindale",0,0.00
+" Nancy Marie","Benson","civili","Hyde Park",0,0.00
+" Nancy Stephann","Callow","civili","South Boston",0,0.00
+" Narteeca","Mitchell","civili","Dorchester",0,0.00
+" Natalie Nicole","Berryhill","civili",NULL,0,0.00
+" Nataly","Matos","civili","Roxbury",0,0.00
+" Natasha","Gumbs-Levarity","civili","Hyde Park",0,0.00
+" Natasha Yvette","Lajara","ptl","West Roxbury",0,0.00
+" Warith","Sultan","civili","Dorchester",0,0.00
+" Naweed A","Hassan","ptl","Allston/Brighton",0,0.00
+" Neal G","Manning","ptl","Waltham",0,0.00
+" Neva J","Coakley","det","Roxbury",0,0.00
+" Nia","Howard","ptl","Jamaica Plain",0,0.00
+" Nicholas","Beliveau","ptl","Hanover",0,0.00
+" Nicholas","Bernazzani","ptl","Roslindale",0,0.00
+" Nicholas","Erb","ptl","West Roxbury",0,0.00
+" Nicholas","Faulkner","civili",NULL,0,0.00
+" Chelsea L","Powell","ptl","Roslindale",0,0.00
+" Nicholas","Kimaiyo","ptl","Roxbury",0,0.00
+" Chau V","Nguyen","ptl","Quincy",0,0.00
+" Charonda","Raye","civili","Dorchester",0,0.00
+" Nicholas","Politsopoulos","ptl","Roslindale",0,0.00
+" Nicholas","Schultz","ptl","Dorchester",0,0.00
+" Nicholas J","McLaughlin","ptl","Dorchester",0,0.00
+" Nicholas William","Cubarney","ptl","Dorchester",0,0.00
+" Nickisha M","Gales","civili","Mattapan",0,0.00
+" Nicole","De Melo","civili",NULL,0,0.00
+" Nicole","England","civili","Hyde Park",0,0.00
+" Nicole","McMullin","sergt","Hyde Park",0,0.00
+" Nicole Cathrine","Fanandakis","civili",NULL,0,0.00
+" Warren J","Hoppie","lieut","Hyde Park",0,0.00
+" Altagracia","Perello","civili","Dorchester",0,0.00
+" Nilda","Roach","civili","Jamaica Plain",0,0.00
+" Nilda L","Colon","civili","Roslindale",0,0.00
+" Nile John","Reavis","ptl","Hyde Park",0,0.00
+" Charles R","Daly","ltdet","West Roxbury",0,0.00
+" Nixon S","Nazaire","ptl","Hyde Park",0,0.00
+" Noel R","Esteves","ptl","Roslindale",0,0.00
+" Noelle A","MacDonald","civili","Charlestown",0,0.00
+" Charles J","Smyth","ptl","Canton",0,0.00
+" Noreen","Sheehan","civili","Jamaica Plain",0,0.00
+" Charles H","Harrington","civili","Dorchester",0,0.00
+" Charles H","Daniels","civili","East Boston",0,0.00
+" Olivia J","Azulay","civili","West Roxbury",0,0.00
+" Allison P","Gunther","ptl","West Roxbury",0,0.00
+" Omar","Nunez","civili","Roxbury",0,0.00
+" Charles D","Coleman","det","Hyde Park",0,0.00
+" Orville L","Mason","ptl","Dorchester",0,0.00
+" Oscar","Anaya","civili","South Easton",0,0.00
+" Charles C Jr","Owen","civili","Revere",0,0.00
+" Oscar","Henriquez","ptl","Dorchester",0,0.00
+" Osvaldo","Cabral","civili",NULL,0,0.00
+" Owen Patrick","Russell","ptl","Dorchester",0,0.00
+" Pamela","McDevitt","ptl","South Boston",0,0.00
+" Wayne P","Brown","ptl","Mattapan",0,0.00
+" Pamelia D","Harris","sgtdet","Avon",0,0.00
+" Patrice","Bennett","ptl","Mattapan",0,0.00
+" Patrice Murphy","Sullivan","civili","West Roxbury",0,0.00
+" Patricia","Feeney","civili","Weymouth",0,0.00
+" Patricia A","Falcione","civili","Hyde Park",0,0.00
+" Patricia A","Lee","civili","South Boston",0,0.00
+" Patricia A","O'Leary","civili","Jamaica Plain",0,0.00
+" Patricia A","Pembroke","civili",NULL,0,0.00
+" Patricia A","Welch","civili",NULL,0,0.00
+" Charles","Zukowski III","ptl","Dorchester",0,0.00
+" Patricia M","Hoey","civili","Bridgewater",0,0.00
+" Patricia S","Guarino","civili","East Boston",0,0.00
+" Patricia-Ann D","Olbrys","ptl","Norwood",0,0.00
+" Charlene","Willoughby","ptl","Mattapan",0,0.00
+" Charisse E","Brittle-Powell","det","South Easton",0,0.00
+" Chandra S","Dixon","civili","Roxbury",0,0.00
+" Chad A","Wozniak","ptl","Pembroke",0,0.00
+" Patrick","O'Leary","civili","Medfield",0,0.00
+" Patrick","Romanoski","civili","Charlestown",0,0.00
+" Patrick","Russell","ptl","Braintree",0,0.00
+" Patrick","Ryther","ptl","Hyde Park",0,0.00
+" Patrick","Welch","ptl","Dorchester",0,0.00
+" Patrick","Welter","ptl","Dorchester",0,0.00
+" Patrick A","Markland","civili","Hyde Park",0,0.00
+" Patrick B","Santry","sergt","Pembroke",0,0.00
+" Patrick Brian","Costello","ptl","Dorchester",0,0.00
+" Patrick E","Higgins","ptl","Needham",0,0.00
+" Celia","Plagenza","civili","East Boston",0,0.00
+" Patrick F","Lynch","ptl","Dorchester",0,0.00
+" Patrick Gerard","Fullam","ptl","Dorchester",0,0.00
+" Wendy Lee","Ng","civili","Norwood",0,0.00
+" Wendy Mi","Steinman","ptl","South Boston",0,0.00
+" Aliza","Rodriguez","civili","Hyde Park",0,0.00
+" Alixandrea","Hallahan","civili",NULL,0,0.00
+" Celeste J","Croxton-Tate","ptl","Hyde Park",0,0.00
+" Patrick Joseph","Sullivan","ptl","Roslindale",0,0.00
+" Cedric","Lopes","ptl","Roslindale",0,0.00
+" Patrick L","Champagnie","sgtdet","Mattapan",0,0.00
+" Patrick L","Murphy","sergt","East Walpole",0,0.00
+" William","Dick","ptl","Hyde Park",0,0.00
+" Cecilia V","Melo","civili","Dorchester",0,0.00
+" Cecil R","Jones","sgtdet","Charlestown",0,0.00
+" William","Dickerson","civili","Roxbury",0,0.00
+" Cecelia","Carruthers","civili","Roxbury",0,0.00
+" Paul","Nee","ptl","Marshfield",0,0.00
+" Paul","Nolan","civili","Walpole",0,0.00
+" Catia Milaniza","Freire","ptl","Roxbury",0,0.00
+" Paul A","MacIsaac","sergt","Quincy",0,0.00
+" Zachary James","Keenan","ptl","South Boston",0,0.00
+" William","Moccia","ptl","Hyde Park",0,0.00
+" Catia","Pina","civili","Roxbury",0,0.00
+" Paul E","Brady","ptl","Canton",0,0.00
+" Catherine P","Callahan","civili","Dorchester",0,0.00
+" William","Parlon","civili","Roslindale",0,0.00
+" Catherine Marie","Barry","civili","Dorchester",0,0.00
+" Catherine M","Snedeker","civili","Allston/Brighton",0,0.00
+" Paul J","Locke","civili","East Boston",0,0.00
+" Paul J","Needham","civili","Franklin",0,0.00
+" Catherine M","McKillop","civili","Charlestown",0,0.00
+" Catherine C","McDonagh","civili",NULL,0,0.00
+" Catherine","LaMonica","civili","South Boston",0,0.00
+" Paul L","D'Ambrosio","ptl","Chester",0,0.00
+" Paul L","Donlon","sergt","Middleboro",0,0.00
+" Castro","Clemat","ptl","Hyde Park",0,0.00
+" William","Richtberg","civili","Jamaica Plain",0,0.00
+" Cassie Marie","Shuherk","civili",NULL,0,0.00
+" Paul T","Boddy","sergt","Boxford",0,0.00
+" Cassandra","Prioleau","civili","Hyde Park",0,0.00
+" William","Ryan","civili","Dorchester",0,0.00
+" Casey Marie","Kelliher","ptl","South Boston",0,0.00
+" Casey M","King","ptl","Hyde Park",0,0.00
+" Carolyn I","Flaherty","civili","Dorchester",0,0.00
+" Paula","Melchin","civili",NULL,0,0.00
+" Paula A","Mullen-Vraibel","civili","Dorchester",0,0.00
+" Carolyn","Sygiel","det","Dorchester",0,0.00
+" Paula M","Casper","civili","South Boston",0,0.00
+" Carolyn","Ivens","ptl","West Roxbury",0,0.00
+" Pauline E","Gilmartin","civili","Quincy",0,0.00
+" Paulo","Pereira","det","Dorchester",0,0.00
+" Carole A","Walsh","civili","South Boston",0,0.00
+" Carole A","Collins","ptl","Hyde Park",0,0.00
+" Peter","Demayo","civili","Hanover",0,0.00
+" Carole A","Coleman","civili",NULL,0,0.00
+" Peter G","Moscaritolo","ptl","Braintree",0,0.00
+" Carol M","Twomey","civili","Charlestown",0,0.00
+" Peter J","Golden","civili","Hyde Park",0,0.00
+" Peter J","Kilduff","civili","Malden",0,0.00
+" Peter K","King Jr.","ptl","Hyde Park",0,0.00
+" Carol","Thompson","civili","Wilmington",0,0.00
+" Carmen Sarai","Padron","ptl","Hyde Park",0,0.00
+" Peter W","Lekaditis","ptl","West Roxbury",0,0.00
+" Carmen","Perez","civili","Fenway/Kenmore",0,0.00
+" Philip","Polizzi","civili","Wakefield",0,0.00
+" Philip C","Castor","ptl","West Roxbury",0,0.00
+" PHILIP E","BURKE","ptl","South Boston",0,0.00
+" Philip F","Morgan","sgtdet","Brockton",0,0.00
+" Philip J","Bliss","det","Hopkinton",0,0.00
+" William A","McGovern","civili","Norton",0,0.00
+" Carmen","Figueroa","civili","Roxbury",0,0.00
+" Phillip","Terenzi","capt","Hanover",0,0.00
+" Carlos Xavier","Rosario","civili","Allston/Brighton",0,0.00
+" Phyllis A","Walsh","civili","Dorchester",0,0.00
+" Pierce Fitzgerald","Norton","ptl","South Boston",0,0.00
+" Prescott T","Caisey","ptl","East Taunton",0,0.00
+" Priscilla","Carter-Mattocks","civili","Brockton",0,0.00
+" Priscilla A","Farulla","civili","East Boston",0,0.00
+" Priscilla A","Smith","civili","Roxbury",0,0.00
+" Quang","Ha","civili","Canton",0,0.00
+" Quintin L","Gabriel","civili","Randolph",0,0.00
+" Carlos F","Peralta","ptl","Dorchester",0,0.00
+" Rachel Ann","Kerry","civili","Hyde Park",0,0.00
+" William Alden","Hull","ptl","Dorchester",0,0.00
+" Rachel R","Camper","civili","Roslindale",0,0.00
+" Carlos De jesus","Abreu","civili",NULL,0,0.00
+" Ralph Hantz","Blain","ptl","Jamaica Plain",0,0.00
+" Ralph R","Rosati","civili","Hyde Park",0,0.00
+" Carla","Sullivan","det",NULL,0,0.00
+" Rami","Awad","ptl","West Roxbury",0,0.00
+" Ramon A","Rivera","ptl","Hyde Park",0,0.00
+" Carl","Blando","sgtdet","Walpole",0,0.00
+" Randy J","del Villar","ptl","Hyde Park",0,0.00
+" Raphael","Riordan","ptl","Hyde Park",0,0.00
+" Cardicia V","Welcome","civili","Dorchester",0,0.00
+" Raymond","Albanese","civili",NULL,0,0.00
+" Raymond","Liang","civili","South End",0,0.00
+" Raymond","Soto","ptl","Roslindale",0,0.00
+" Raymond J","Gentile","ptl","Roslindale",0,0.00
+" Raymond M","Dalere","civili","Hyde Park",0,0.00
+" Raymond Peter","Tomasini","civili",NULL,0,0.00
+" Candida","Johnson","civili","Dorchester",0,0.00
+" Rebecca","Boissaye","civili","Roslindale",0,0.00
+" Rebecca E","Reuss","civili",NULL,0,0.00
+" Calvin","Emanuel","civili",NULL,0,0.00
+" Regina","Samuel","civili","Roxbury",0,0.00
+" Regina M","Moran","civili","Holbrook",0,0.00
+" Alexis R","Manolakis","civili","Dorchester",0,0.00
+" Rene","Sanchez","sergt","West Roxbury",0,0.00
+" Renisha O","Silva","det","Milton",0,0.00
+" Renzo A","Monzon","ptl","West Roxbury",0,0.00
+" Reynaldo B","Salcedo","civili","Rockland",0,0.00
+" Alexis","Williams","civili",NULL,0,0.00
+" Ricardo","Jean","ptl","Hyde Park",0,0.00
+" Richard","Auclair","civili","Dorchester",0,0.00
+" Caitlyn","Castor","civili",NULL,0,0.00
+" Caitlin A","O'Rourke","civili","Roslindale",0,0.00
+" Caitlan Ann Marie","Wolkenhauer","civili",NULL,0,0.00
+" Richard","Guilford","ptl","Brockton",0,0.00
+" Richard","Mace","civili","Stoughton",0,0.00
+" Richard","Moy","det","South End",0,0.00
+" Richard","Osberg","lieut","Salem",0,0.00
+" Richard","Santiago","ptl","South Boston",0,0.00
+" Richard","Sexton","capt","Braintree",0,0.00
+" Byron C","Foote","ptl","Mattapan",0,0.00
+" Richard A","Evans","capt","Hanover",0,0.00
+" Richard Anthony","Errico","ptl","South Boston",0,0.00
+" Richard Anthony","Regan","ptl","West Roxbury",0,0.00
+" Richard B","Stanton","ptl","Franklin",0,0.00
+" Bryan Marcel","Augustine","ptl","Dorchester",0,0.00
+" Richard D","Mullaly","ptl","Dorchester",0,0.00
+" Richard F","Harrington","civili","South Boston",0,0.00
+" Richard F","Litto","ptl","South Boston",0,0.00
+" Richard F","Rackauskas","ptl","Wrentham",0,0.00
+" Bruna L","Costa","civili","East Boston",0,0.00
+" Bruna","De Barros Cardoso","civili",NULL,0,0.00
+" Richard I","Pruitt","civili","South End",0,0.00
+" Bruce W","Hicks","ptl","Norton",0,0.00
+" Richard J","Houston","lieut","West Roxbury",0,0.00
+" Richard K","Ace","ptl","Hyde Park",0,0.00
+" Bruce","Kwong","ptl","Auburndale",0,0.00
+" Brittany","Freeman","ptl","West Roxbury",0,0.00
+" Richard L","Whalen","det","Norwood",0,0.00
+" Bridie-Ann","Brienzi","civili","Abington",0,0.00
+" Richard M","McDermott","ptl","West Roxbury",0,0.00
+" Bridget Teresa","Fealy","civili",NULL,0,0.00
+" Richard P","Petruccelli","civili","Winthrop",0,0.00
+" Richard W","Trull","ptl","West Roxbury",0,0.00
+" Bridget","Curtin-Buckley","civili","Charlestown",0,0.00
+" Ricky F","Cooks","det","Roslindale",0,0.00
+" Ricky Lee","Jones","civili",NULL,0,0.00
+" Brianne Paula","Carnell","civili",NULL,0,0.00
+" Briana","Xavier","civili","South Boston",0,0.00
+" Robert","Cedrone","civili",NULL,0,0.00
+" Brian T","Smith","ptl","Dorchester",0,0.00
+" Alexandra C","May","ptl","South Boston",0,0.00
+" Brian R","Carlson","ptl","Dorchester",0,0.00
+" Robert","Lee","ptl","Wayland",0,0.00
+" Brian R","Barcelou","civili","Hyde Park",0,0.00
+" Robert A","Fratalia","det","Bridgewater",0,0.00
+" Brian Paul","Armstrong","sergt","Dorchester",0,0.00
+" Robert A","Sheridan","ptl","Newton",0,0.00
+" Brian M","Hurld","ptl","South Boston",0,0.00
+" Robert Charles","Florentine","civili",NULL,0,0.00
+" Robert E","Lerro","ptl","Dorchester",0,0.00
+" Brian J","McEachern","ltdet","West Roxbury",0,0.00
+" Brian J","Gaughan","civili","Hyde Park",0,0.00
+" Robert J","Hoell Jr.","civili","Charlestown",0,0.00
+" Robert J","Kenney","det","Pembroke",0,0.00
+" Robert J","MacLean","ptl","Dorchester",0,0.00
+" Robert John","Walton","ptl","South Boston",0,0.00
+" Robert Keith","Connor","ptl","Dorchester",0,0.00
+" Brian Ford","Harrington","ptl","Dorchester",0,0.00
+" Robert M","Clark","ptl","Melrose",0,0.00
+" Robert M","Lemire","ptl","West Roxbury",0,0.00
+" Alexander","Nunez","civili",NULL,0,0.00
+" Brian D","Mulrean","det","South Easton",0,0.00
+" Brian Coughlin","Mulvey","ptl","Roslindale",0,0.00
+" Robert R","McNeil","ptl","West Roxbury",0,0.00
+" Brian Alberto","Soto-Marte","civili","West Roxbury",0,0.00
+" Robert T","Luongo","ptl","Central Boston",0,0.00
+" Brian","Winslow-Fortes","civili","Stoughton",0,0.00
+" Robert Wayne","Juliano","civili",NULL,0,0.00
+" Brian","Picarello","ptl","Roslindale",0,0.00
+" Brian","Miller","lieut","Dorchester",0,0.00
+" Brian","Garney","ptl","Dorchester",0,0.00
+" Robin L","DeClements","civili","Marshfield",0,0.00
+" Robin T","Nelson","civili","Roxbury",0,0.00
+" Brian","Fitzgerald","ptl","South Boston",0,0.00
+" Brian","Engelson","civili",NULL,0,0.00
+" Bria Leigh","Tiro","civili","Roslindale",0,0.00
+" Alexander","Moskos","civili","Holliston",0,0.00
+" Brett Joseph","Loycano","civili","Dorchester",0,0.00
+" Ronald D","Odom Sr.","civili",NULL,0,0.00
+" Brendon","Buccelli","ptl","South Boston",0,0.00
+" Rory","Foley","ptl","Dorchester",0,0.00
+" Brendan Patrick","Murphy","ptl","Back Bay/Beacon Hill",0,0.00
+" Rosa E","Figueroa","civili",NULL,0,0.00
+" Rosa L","Sanchez","civili","Mattapan",0,0.00
+" Rosa M","Baxter","civili","Dorchester",0,0.00
+" Rosalie","Nesbit","civili","Central Boston",0,0.00
+" Rosangela M","Pina-Tavares","civili","Foxboro",0,0.00
+" Rosanna","Cadogan","civili","Dorchester",0,0.00
+" Rose-May","Hudson","civili","Mansfield",0,0.00
+" Brendan Michael","Keohan","ptl","Dorchester",0,0.00
+" Rowena","Wesley","civili","Dorchester",0,0.00
+" Alex","Rosa","ptl","Dorchester",0,0.00
+" Brendan M","Linnane","ptl","Dorchester",0,0.00
+" Roy H","Broussard","ptl","Newtonville",0,0.00
+" Russell A","Stuart","civili","Walpole",0,0.00
+" Ryan","Donahue","ptl","Dorchester",0,0.00
+" Ryan","MacDonald","ptl","West Roxbury",0,0.00
+" Ryan","McQuaid","ptl","Dorchester",0,0.00
+" Alex","Misiaszek","ptl","West Roxbury",0,0.00
+" Brendan A","McCarthy","ptl","Dorchester",0,0.00
+" Brendan","Wheeler","ptl","Hyde Park",0,0.00
+" Albert D","Marchionda","civili","Hyde Park",0,0.00
+" Ryan Charles","Lonergan","civili","Roslindale",0,0.00
+" Ryan Daniel","O'Leary","ptl","West Roxbury",0,0.00
+" Ryan H","Frederick","ptl","Dorchester",0,0.00
+" Brendan","Driscoll","civili","Dorchester",0,0.00
+" Ryan J","Black","ptl","Hyde Park",0,0.00
+" Ryan J","Cikacz","civili","Rockland",0,0.00
+" Ryan James","Fullam","ptl","Dorchester",0,0.00
+" Ryan M","Connolly","ptl","South Boston",0,0.00
+" Ryan Patrick","Walsh","civili","Jamaica Plain",0,0.00
+" Ryan Richard","Kelly","ptl","Dorchester",0,0.00
+" Ryan W","Cunningham","sergt","South Boston",0,0.00
+" Brendan","Cahill","ptl","South Boston",0,0.00
+" Sade","Davis-Rogers","civili",NULL,0,0.00
+" Saequan Terrell","Sparks-Clancy","ptl","West Roxbury",0,0.00
+" Sagrario L","Ortiz","civili",NULL,0,0.00
+" Salvarys R","Reynoso-Santos","ptl","Dorchester",0,0.00
+" Brenda Lee","Watkins","civili","Roxbury",0,0.00
+" Samantha M","Curley","civili","Dorchester",0,0.00
+" Brenda Elizabeth","Figueroa","ptl","East Boston",0,0.00
+" Brenda","Harmon","civili","Dorchester",0,0.00
+" Samuel","Peguero Diaz","civili","Dorchester",0,0.00
+" Samuel D","Thomas","civili","Jamaica Plain",0,0.00
+" Brandon Shane","Carey","ptl","Dorchester",0,0.00
+" Samuel S","Byrd","civili",NULL,0,0.00
+" Sandra","Pizarro","civili","Jamaica Plain",0,0.00
+" Bradley J","Donahue","ptl","Back Bay/Beacon Hill",0,0.00
+" Sandra J","Tanner","civili","East Boston",0,0.00
+" Sandra L","Asaro","civili","East Boston",0,0.00
+" Sandra Marie","Cassio","civili",NULL,0,0.00
+" Sandra R","Smith","civili","Hyde Park",0,0.00
+" Santa A","Guerrero","civili",NULL,0,0.00
+" Bobbie","Butler","ptl","Mattapan",0,0.00
+" Santos","Hernandez","det","Stoughton",0,0.00
+" Birma","Brea","civili",NULL,0,0.00
+" Sarah","Briggs","ptl","East Boston",0,0.00
+" Sarah A","Stack","civili","Hyde Park",0,0.00
+" Sarah E","Malone","ptl","West Roxbury",0,0.00
+" Sarah E","Palermo","ptl","Dorchester",0,0.00
+" Sarah Elizabeth","Drew","ptl","South Boston",0,0.00
+" Sarah-Jane","Hassan McDaid","ptl","Allston/Brighton",0,0.00
+" Saviel G","Colon","ptl","South Boston",0,0.00
+" Schenice","Coleman","civili","Roxbury",0,0.00
+" Scott","Griffin","ptl","South Boston",0,0.00
+" Scott","O'Brien","ptl","Dorchester",0,0.00
+" Scott A","MacCallum","det","East Walpole",0,0.00
+" Beth","Ward","civili","South Boston",0,0.00
+" Scott Edward","O'Mara","sergt","Canton",0,0.00
+" William J","Goodwin","civili","Charlestown",0,0.00
+" Bernard A","Doyle","ptl","Quincy",0,0.00
+" Bernadette R","Holiday","civili","Hyde Park",0,0.00
+" Alando Augustus","Peart","civili",NULL,0,0.00
+" Scott W","O'Brien","lieut","Pembroke",0,0.00
+" William J","Louberry","ptl","Quincy",0,0.00
+" Sean","Bardol","ptl","East Walpole",0,0.00
+" Sean","Burke","ptl","Dorchester",0,0.00
+" Sean","Cavanaugh","ptl","Roslindale",0,0.00
+" Bernadette L","Sullivan","det","Mattapan",0,0.00
+" Sean","Doolan","ptl","Dorchester",0,0.00
+" Sean","Feeney","ltdet","Quincy",0,0.00
+" Sean","Finn","civili","Dorchester",0,0.00
+" Sean","Fitzgerald","civili","Hyde Park",0,0.00
+" Bernadette L","Metrano","civili","Jamaica Plain",0,0.00
+" Bernadette","Izzard-Stinson","det","Roxbury",0,0.00
+" Sean","Gannon","ptl","South Boston",0,0.00
+" Bernadette","Falzone","civili","South Boston",0,0.00
+" Sean","McKenna","civili",NULL,0,0.00
+" Sean","O'Brien","ptl","Dorchester",0,0.00
+" Benjamin N","Linsky","ptl","Hyde Park",0,0.00
+" Sean","Pero","ptl","Milton",0,0.00
+" Sean","Wallace","det","South Boston",0,0.00
+" Sean A","Moccia","ptl","Hyde Park",0,0.00
+" Benjamin F","Tisdale","det","Central Boston",0,0.00
+" Sean C","Burke","ptl","West Roxbury",0,0.00
+" Benjamin","Miller","ptl","Roslindale",0,0.00
+" Sean Christopher","Monahan","ptl","South Boston",0,0.00
+" Benis","Peguero","ptl","Dorchester",0,0.00
+" Beatrice","Tyler","civili","Roxbury",0,0.00
+" Sean J","Sullivan","civili","Dorchester",0,0.00
+" Sean M","Connor","civili","Braintree",0,0.00
+" Basit","Kamal","civili",NULL,0,0.00
+" Sean M","McCarthy","ptl","Dorchester",0,0.00
+" Sean M","Murphy","civili","South Easton",0,0.00
+" Barry Edward","Wiener","civili",NULL,0,0.00
+" Sean M","Rooney","det","West Roxbury",0,0.00
+" Sean M","Sullivan","ptl","Dorchester",0,0.00
+" Barbara M","Robertson","civili","West Roxbury",0,0.00
+" Barbara L","Hillman","civili","Dorchester",0,0.00
+" Sean P","Gilligan","ptl","Dorchester",0,0.00
+" William J","O'Sullivan","ptl","Weymouth",0,0.00
+" Alan K","Perkins","lieut","South Boston",0,0.00
+" Barbara A","Perucich","civili","Hyde Park",0,0.00
+" Sean Patrick","OBrien","ptl","Hyde Park",0,0.00
+" Sefa Kwasi","Dugbazah","ptl","Hyde Park",0,0.00
+" Barbara A","Brissenden","civili","South Boston",0,0.00
+" Barbara","Badohu","civili","Roslindale",0,0.00
+" Shalysha Monai","Marks","civili",NULL,0,0.00
+" Bahram","Gharony","civili","Fenway/Kenmore",0,0.00
+" Shannon","Wilbanks","civili","South Boston",0,0.00
+" Shannon Ann","Hogan","civili",NULL,0,0.00
+" Shannon M","Duffley","civili","South Boston",0,0.00
+" Shannon M","Murphy","civili",NULL,0,0.00
+" Sharel A","Roberson","civili","Brockton",0,0.00
+" Azadi","Charles-Sampson","civili","Dorchester",0,0.00
+" Ayanna M","Francis","civili",NULL,0,0.00
+" Sharon D","Woods","ptl","Canton",0,0.00
+" Sharon y","Owens","civili",NULL,0,0.00
+" Sharyon","Brown","ptl","Hyde Park",0,0.00
+" Awan","Freeman","civili","Roxbury",0,0.00
+" Shauna P","Lynch","civili","South Boston",0,0.00
+" Shawn","Burns","lieut","Pembroke",0,0.00
+" Austin","Brooks","ptl","Allston/Brighton",0,0.00
+" Augusto","Polanco","civili","Hyde Park",0,0.00
+" Alaa Yousf","Essa","civili",NULL,0,0.00
+" Astrid","Hernandez","civili","East Boston",0,0.00
+" Astrid","Gonzalez","civili","Roxbury",0,0.00
+" Shayne","Finn","ptl","West Roxbury",0,0.00
+" Shea Elizabeth","Kelly","civili",NULL,0,0.00
+" Sheila","Mignott","civili","Roxbury",0,0.00
+" Sheila","Roach","civili","Dorchester",0,0.00
+" Sheila","Smith","civili","East Sandwich",0,0.00
+" Sheila C","Shepard","ptl","Mattapan",0,0.00
+" Sheila Louise","Carter","civili","Dorchester",0,0.00
+" Sheila M","Morrissey","civili","West Roxbury",0,0.00
+" Sheila N","McLaughlin","ptl","Mattapan",0,0.00
+" William James","Walsh","civili","Melrose",0,0.00
+" Sheranda Eulena","Allen","ptl","Allston/Brighton",0,0.00
+" Askia A","Ambers","civili",NULL,0,0.00
+" Sheryl","Sutherland-Matthews","civili","Roxbury",0,0.00
+" Shirley","Cherisme","civili","Hyde Park",0,0.00
+" Shirley","Spencer","civili","Mattapan",0,0.00
+" Shonda","Rogers-Morales","civili","Hyde Park",0,0.00
+" Ashley Nicole","Clark","civili",NULL,0,0.00
+" Ashley L","Sena","ptl","Hyde Park",0,0.00
+" Siobhan","Blount","civili","West Roxbury",0,0.00
+" Siobhan B","Kelly","civili","West Roxbury",0,0.00
+" SiuYing","Au","civili","Allston/Brighton",0,0.00
+" Arthur M","McCarthy","ptl",NULL,0,0.00
+" Skye","Canuto","ptl","Milton",0,0.00
+" Sonia M","Ortiz","civili","Roslindale",0,0.00
+" Sonya D","Bynoe","civili","Dorchester",0,0.00
+" Sophia","Vega-Jones","det","Roslindale",0,0.00
+" St Julian","Little","ptl","Hyde Park",0,0.00
+" Stacey M","Menjin","civili",NULL,0,0.00
+" Stanley J","Leonard","ptl","Charlestown",0,0.00
+" Stanley Jesus","Pina","ptl","Roxbury",0,0.00
+" Stanley R","Greeley","civili","Baldwinville",0,0.00
+" Stefani Cathleen","McGrath","ptl","West Roxbury",0,0.00
+" Stephan Tracy","Lockwood","ptl","Dorchester",0,0.00
+" Stephanie","Hall","civili",NULL,0,0.00
+" Stephanie A","Hampton","ptl","Dorchester",0,0.00
+" Stephanie L","Gaines","det","Woburn",0,0.00
+" Stephanie M","Curtis","lieut","West Roxbury",0,0.00
+" Stephanie M","O'Sullivan","ptl","Dorchester",0,0.00
+" Stephanie Nicole","Villegas-Hoag","ptl","Roslindale",0,0.00
+" Stephany J","Leeman","civili","Dorchester",0,0.00
+" Stephen","Joyal","civili","West Roxbury",0,0.00
+" Stephen","Keenan","civili","Quincy",0,0.00
+" Arthenia A","Copeland","civili","Dorchester",0,0.00
+" Stephen","McNulty","ptl","West Roxbury",0,0.00
+" Stephen","Merrick","ptl","Marshfield",0,0.00
+" Arlene","Cruthird","civili",NULL,0,0.00
+" Stephen","Parenteau","ptl","Milton",0,0.00
+" Aristides R","Cardoso","ptl","Hyde Park",0,0.00
+" Ariana","Hughes","civili",NULL,0,0.00
+" Stephen","Shields","ptl","Dorchester",0,0.00
+" Aquilla","Simpson Jr.","civili",NULL,0,0.00
+" Stephen B","Sutliff","civili","Allston/Brighton",0,0.00
+" Antwane","Daye","ptl","Roslindale",0,0.00
+" Stephen D","Moy","sergt","Andover",0,0.00
+" Al S","Young","det","Hyde Park",0,0.00
+" Antonios S","Eliopoulos","civili","Newton Lower Falls",0,0.00
+" Aimee Lee","Pelosi","civili",NULL,0,0.00
+" ADRIEN","WRIGHT","civili",NULL,0,0.00
+" Adrian Patrick","Troy","ltdet","Quincy",0,0.00
+" Antoinette","Lorelike","civili","Brockton",0,0.00
+" Stephen J","Wilk","civili","Tewksbury",0,0.00
+" Anthony M","Mejia","civili","Roxbury",0,0.00
+" Anthony J","Serra","det","Pembroke",0,0.00
+" William M","Meade","lieut","Canton",0,0.00
+" Anthony J","Moussalli","ptl","Marshfield",0,0.00
+" Stephen T","Duran","det","Milton",0,0.00
+" Anthony H","Stemn","ptl","West Roxbury",0,0.00
+" Steve","Mills","civili","East Boston",0,0.00
+" Steve","Shields","civili","West Roxbury",0,0.00
+" Steven","Chen","ptl","Allston/Brighton",0,0.00
+" Steven","Faulkner","civili","West Roxbury",0,0.00
+" Steven","Sedlis","civili","Everett",0,0.00
+" Anthony GerardJoseph","Dowling","ptl","Hyde Park",0,0.00
+" Steven A","Campbell","civili","Braintree",0,0.00
+" Anthony E","Troy","sgtdet","Millis",0,0.00
+" Steven E","O'Neil","ptl","Newton Center",0,0.00
+" Steven j","Ditomaso","civili",NULL,0,0.00
+" Steven J","Dellascio","civili","Abington",0,0.00
+" Anthony E","Landry","civili","Milton",0,0.00
+" Adolfo","Paulino","ptl","West Roxbury",0,0.00
+" Steven M","Diprima","civili","East Boston",0,0.00
+" Steven M","Whitman","sgtdet","Mansfield",0,0.00
+" Steven P","Kovaleski","ptl","Dorchester",0,0.00
+" Stylianos","Katikakis","ptl","South Boston",0,0.00
+" Styvalis C","Sosa","ptl","Roxbury",0,0.00
+" Suni","Muhammad","ptl","Hyde Park",0,0.00
+" Susan","Bianchetto","civili","Jamaica Plain",0,0.00
+" Susan","Gillis","civili","Dorchester",0,0.00
+" Susan","Reaney","civili","Dorchester",0,0.00
+" Susan E","Lavey","civili","South Boston",0,0.00
+" Susan M","Clancy","det","Norwood",0,0.00
+" Anthony A","Twining","ptl","Hyde Park",0,0.00
+" Sydney LeCates","Niles","civili",NULL,0,0.00
+" Sylvia L","Correia","civili","Dorchester",0,0.00
+" Sylvia M","Zayas","civili","Dorchester",0,0.00
+" Tab M","Brown","ptl","West Roxbury",0,0.00
+" Tahir","Hussain","civili","Allston/Brighton",0,0.00
+" Tamara F","Finley","ptl","Dorchester",0,0.00
+" Anthony","Ortiz","det","Roslindale",0,0.00
+" Tammy D","Rudolph","civili",NULL,0,0.00
+" Tammy R","Napier","civili","Allston/Brighton",0,0.00
+" Tanasia Diamond","Tibbs","ptl","Dorchester",0,0.00
+" Anthony","Daniels","civili","East Boston",0,0.00
+" Taryn Marie","Conley","ptl","Roslindale",0,0.00
+" Tasha J","Hibbert","ptl","Roslindale",0,0.00
+" Taylor lauren","Buckley","civili","South Boston",0,0.00
+" Taylor Lee","Green","ptl","Hyde Park",0,0.00
+" Annmarie E","Ward","civili","Allston/Brighton",0,0.00
+" Teddy J","Hendricks","ptl","Braintree",0,0.00
+" William W","Zubrin","det","Dorchester",0,0.00
+" Teresa L","Myers","civili","Quincy",0,0.00
+" Terrell","Hicks","civili","Roxbury",0,0.00
+" Annexies","Garcia","civili",NULL,0,0.00
+" Terrence vincent","O'Toole","ptl","Dorchester",0,0.00
+" Annette","Zambello","ptl","West Roxbury",0,0.00
+" Terry","Johnson","civili",NULL,0,0.00
+" Terry J","Thomas","capt","Canton",0,0.00
+" Thanh T","Le","civili",NULL,0,0.00
+" Thelma D","Williams","civili","South End",0,0.00
+" Thelma S","Gomes","ptl","Roslindale",0,0.00
+" Theresa","Poindexter","civili","Roxbury",0,0.00
+" Theresa","Stevens","civili","Hyde Park",0,0.00
+" Theresa C","McClain","civili","Roxbury",0,0.00
+" Theresa E","Lawton","civili","Charlestown",0,0.00
+" Theresa Rita","Meade","civili","Dorchester",0,0.00
+" Anne R","Halidy","civili","Mattapan",0,0.00
+" Thomas","Driscoll","ptl","South Boston",0,0.00
+" Anne M","Leonard","civili","Saugus",0,0.00
+" Thomas","Mulrey","civili","Hingham",0,0.00
+" Thomas","Pratt","sgtdet","South Boston",0,0.00
+" Thomas","Taylor Jr.","ptl","Randolph",0,0.00
+" Thomas","Witt","civili","Braintree",0,0.00
+" Anne Elizabeth","Maher","ptl","West Roxbury",0,0.00
+" Anna","Stepanyan","civili","Fenway/Kenmore",0,0.00
+" Adilson G","Rosa","ptl","Mattapan",0,0.00
+" Adam Charles","MacMaster","ptl","Hyde Park",0,0.00
+" Anna","Cole","civili","Jamaica Plain",0,0.00
+" Thomas C","Corbett","ptl","West Roxbury",0,0.00
+" Thomas C","Santry","ptl","West Roxbury",0,0.00
+" Thomas E","Flynn","ptl","West Roxbury",0,0.00
+" Anna","Caldarelli","civili","East Boston",0,0.00
+" Thomas F","Maloney","ptl","South Boston",0,0.00
+" Ann Marie L","Esposito","civili",NULL,0,0.00
+" Thomas F","Sullivan","civili","Weymouth",0,0.00
+" Ann Marie","Kelly","civili","Weymouth",0,0.00
+" Ann Marie","Gaffney","civili","Dorchester",0,0.00
+" Thomas J","Carty","sergt","Canton",0,0.00
+" Ann M","Kennedy","civili","Dorchester",0,0.00
+" Thomas J","Foley","sgtdet","Hanover",0,0.00
+" Thomas J","Griffin","civili","Dorchester",0,0.00
+" Thomas J","Killion","ptl","Walpole",0,0.00
+" Thomas J","Linehan","civili",NULL,0,0.00
+" Thomas J","Nee","ptl","Quincy",0,0.00
+" Ann","Jackson","civili","Roxbury",0,0.00
+" Anildo fidalgo","Miranda","ptl","Roxbury",0,0.00
+" Angelene","Richardson","civili","Roxbury",0,0.00
+" Thomas John","Foley","ptl","Quincy",0,0.00
+" Thomas L","Jordan","civili","Jamaica Plain",0,0.00
+" Angela M","DiModica","civili",NULL,0,0.00
+" Thomas M","Dentremont","sgtdet","Arlington",0,0.00
+" Frank J","Alexopoulos","civili","Franklin",0,0.00
+" Frank","Wong","ptl","West Roxbury",0,0.00
+" Francisco","Valdez","civili","Roxbury",0,0.00
+" Thomas patrick","Sonia","civili","Roslindale",0,0.00
+" Freddie J","Velez","ptl","Hyde Park",0,0.00
+" Francisca P","Payano-Marte","civili",NULL,0,0.00
+" Thomas R","Hutchings","civili","Allston/Brighton",0,0.00
+" Frederick M","MacDonald","sergt","Hanover",0,0.00
+" Francis Xavier","DeLuca","civili","South End",0,0.00
+" Gabriel","Abreu","ptl","Hyde Park",0,0.00
+" Gail I","DeCoste","ptl","Westwood",0,0.00
+" Garnet","Brown","ptl","Mattapan",0,0.00
+" Garrett","Boyle","ptl","Dorchester",0,0.00
+" Francis X","McLaughlin","det","Dover",0,0.00
+" Francis X","Hughes","civili","Bristol",0,0.00
+" Francis X","Baker","civili","Hyde Park",0,0.00
+" Gary","Marino","ptl","Lynn",0,0.00
+" Gary J","Eblan","sgtdet","Somerset",0,0.00
+" Francis","Woods","ptl","Dorchester",0,0.00
+" Gavin","Tan","civili","Allston/Brighton",0,0.00
+" Gayane","Faniants","civili","Medford",0,0.00
+" Geneese","Webster","civili","Dorchester",0,0.00
+" George C","Downing","ptl","Dorchester",0,0.00
+" George E","Billotte","ptl","Braintree",0,0.00
+" George E","Boggs","ptl","Brockton",0,0.00
+" George E","Juliano","ltdet","Duxbury",0,0.00
+" George F","Carino","sgtdet","Wakefield",0,0.00
+" Francis","Ciampa","ptl","East Boston",0,0.00
+" George Y","Lee","civili","Roslindale",0,0.00
+" Georges","Exilien","ptl",NULL,0,0.00
+" Francia","Guerrero","civili","Roxbury",0,0.00
+" Gerald","Cunningham","civili",NULL,0,0.00
+" Gerald F","Ajemian","ptl","Walpole",0,0.00
+" Geraldine","McElmoyle","civili","Hyde Park",0,0.00
+" Geraldine","Sims","civili","Mattapan",0,0.00
+" Geraldine Ann","McTomney","civili","Hyde Park",0,0.00
+" Gerard Jermaine","Wynn","ptl","Roxbury",0,0.00
+" Gerard Majella","Giblin","ptl","West Roxbury",0,0.00
+" Gerard P","Tatten","civili","West Roxbury",0,0.00
+" Gerard T","O'Brien","sergt","Braintree",0,0.00
+" Gerard Thomas","Buckley","civili",NULL,0,0.00
+" Florine","Hicks","civili","Hyde Park",0,0.00
+" Gianna P","Mullane","ptl","Dorchester",0,0.00
+" Gilda","Martinez","civili","Jamaica Plain",0,0.00
+" Fermain","Cardona","det","Millis",0,0.00
+" Felix A","Gonzalez","civili","Dorchester",0,0.00
+" Giseli A","Perez-Araujo","civili",NULL,0,0.00
+" Felicia D","Dillahunt","civili","Roxbury",0,0.00
+" Ewa","Logan","civili","Allston/Brighton",0,0.00
+" Everton D","Gilzene","ptl","Hyde Park",0,0.00
+" Thomas R","Sullivan","ptl","South Boston",0,0.00
+" Evelyn","Johnson","civili","Hyde Park",0,0.00
+" Gregory","Dorfeuille","civili","Roslindale",0,0.00
+" Gregory","Groover","civili","Roxbury",0,0.00
+" Evelyn","Del Valle","civili",NULL,0,0.00
+" Gregory","Mahoney","civili","Middleboro",0,0.00
+" Adam","Russell","civili","Dorchester",0,0.00
+" Eva Marie","Doucette-Watson","civili","Abington",0,0.00
+" Thomas W","Lema","ltdet","Marshfield",0,0.00
+" Gregory D","Gallagher","sgtdet","Plymouth",0,0.00
+" Eva L","Santiago","civili","Mattapan",0,0.00
+" Eumir O","Pena","ptl","Hyde Park",0,0.00
+" Gregory J","Artesani","civili","West Roxbury",0,0.00
+" Eugenia","Edge-O'Leary","civili",NULL,0,0.00
+" Gregory M","Short","sergt","Marshfield",0,0.00
+" Esther","Kamara","civili",NULL,0,0.00
+" Gregory R","Eunis","ptl","Hyde Park",0,0.00
+" Thomas W","Salmon","ptl","Allston/Brighton",0,0.00
+" Greta E","Stewart","civili","Roxbury",0,0.00
+" Gul","Hassan","ptl","Allston/Brighton",0,0.00
+" Gulianna Rose","Kehayias","civili",NULL,0,0.00
+" Gwendolyn","Hawkins","civili","Hyde Park",0,0.00
+" Haminton","Balthazar","ptl","Hyde Park",0,0.00
+" Harold","White","sgtdet","Norwood",0,0.00
+" Esther","Jackson","civili","Dorchester",0,0.00
+" Ervin","Cifliku","civili",NULL,0,0.00
+" Hector","Cabrera","ptl","Wakefield",0,0.00
+" Hector","Gonzalez","ptl","Dorchester",0,0.00
+" Heidi A","Lucas","ptl","Hyde Park",0,0.00
+" Heidi S","Keating","civili","Hyde Park",0,0.00
+" Erin P","Forry","civili","South Boston",0,0.00
+" Hena V","Monteiro Lopes","ptl","Roxbury",0,0.00
+" Henrietta","Owens","civili","Roslindale",0,0.00
+" Erin Kathleen","Pietroski","civili","Dorchester",0,0.00
+" Thong Chai","Chalernsouk","civili","Waltham",0,0.00
+" Erik","Savicke","civili","Abington",0,0.00
+" Erick Omar","Albino","civili",NULL,0,0.00
+" Hien T","Truong","ptl","Quincy",0,0.00
+" Hillary","Krause","civili",NULL,0,0.00
+" Hipolito","Diaz","civili","Hyde Park",0,0.00
+" Hoang","Nguyen","ptl","Milton",0,0.00
+" Erick Giovanni","Cabrera Garcia","civili","Dorchester",0,0.00
+" Abdoulaye Fall","Mbengue","civili",NULL,0,0.00
+" Erica L","Neu","civili","Peabody",0,0.00
+" Ian C","Mackenzie","civili","West Roxbury",0,0.00
+" Erica L","Bradley","ptl","Randolph",0,0.00
+" Ileanis","Burgos","civili",NULL,0,0.00
+" Ingrid Nataly","Reyes","civili","Hyde Park",0,0.00
+" Ioan","Truta","civili","West Roxbury",0,0.00
+" Irana L","Fernandes","civili","Roxbury",0,0.00
+" Irene","Keller-Smith","civili","South End",0,0.00
+" Irene L","McHugh","civili","West Roxbury",0,0.00
+" Iris","Morales","civili","East Boston",0,0.00
+" Irma","Moss","civili","Roslindale",0,0.00
+" Eric M","Merner","det","Dorchester",0,0.00
+" Eric Hoe","Lo","ptl","Hyde Park",0,0.00
+" Eric Edward","Watson","civili",NULL,0,0.00
+" Tianna","Musto","civili","Roslindale",0,0.00
+" Angela Antoni","Estrella McGrath","civili","Charlestown",0,0.00
+" Jacalyn j","Morales","civili",NULL,0,0.00
+" Jackson","Hernandez","ptl","Walpole",0,0.00
+" Jacqueline","Catanesi","civili","Roslindale",0,0.00
+" Jacqueline","Czar","civili",NULL,0,0.00
+" Jacqueline","White","sergt","Randolph",0,0.00
+" Jacqueline A","Ciccolo","ptl","Dorchester",0,0.00
+" Jacqueline Marie","Massua","civili","Quincy",0,0.00
+" Jacqueline Melissa","Matthews","civili","Hyde Park",0,0.00
+" Jacqueline R","Canavan","civili",NULL,0,0.00
+" Jacques Junior","Noel","ptl","Hyde Park",0,0.00
+" Jade Denise","Moore","civili","West Roxbury",0,0.00
+" Jade S","Cheek","ptl","Roxbury",0,0.00
+" Jaela Alyce","Heywood","civili","Hyde Park",0,0.00
+" Eric","Travers","ptl","Canton",0,0.00
+" Jaime","Geary","ptl","Pembroke",0,0.00
+" Jake","Ryan","civili",NULL,0,0.00
+" Jake F","Elwood","sergt","West Roxbury",0,0.00
+" Jalen","Martinez","civili",NULL,0,0.00
+" Enrik","Uka","ptl","Allston/Brighton",0,0.00
+" James","Correnti","civili","Chelsea",0,0.00
+" James","Cunningham","ptl","Hyde Park",0,0.00
+" Eneida","Lebron","civili",NULL,0,0.00
+" James","Higgins","ptl","South Boston",0,0.00
+" Emmett","Smith","civili",NULL,0,0.00
+" James","McGarrell","civili","Mattapan",0,0.00
+" James","Simpson","det","South Boston",0,0.00
+" Angela","Umansky","civili","Chelsea",0,0.00
+" Emmanuel","Ortega","ptl","Jamaica Plain",0,0.00
+" James Anthony","Verderico Jr.","ptl","Dorchester",0,0.00
+" Emma Laverne","Johnson","civili",NULL,0,0.00
+" James B","Kenneally","ptl","Duxbury",0,0.00
+" Emily M","Runt","civili","West Roxbury",0,0.00
+" James C","Hosea","ptl","Dorchester",0,0.00
+" Emily M","LaRosa","ptl","Dorchester",0,0.00
+" Emily A","Florentine","civili",NULL,0,0.00
+" James E","Arnold","civili","Brockton",0,0.00
+" James E","Fitzpatrick","civili","Kingston",0,0.00
+" Emelyn","Perez","civili",NULL,0,0.00
+" James E","O'Connor","ptl","Roslindale",0,0.00
+" Emely Selina","Rijo","civili",NULL,0,0.00
+" James F","McDonough","civili","West Roxbury",0,0.00
+" James Francis","Dahill","ptl","South Boston",0,0.00
+" James G","Hasson","supt","Dorchester",0,0.00
+" James Gerard","O'Brien","ptl","West Roxbury",0,0.00
+" Elvis","Garcia","ptl","Hyde Park",0,0.00
+" James H","McLaughlin","civili","Dorchester",0,0.00
+" Elsir A","Sanousi","civili","Roslindale",0,0.00
+" James J","Morrissey","det","Franklin",0,0.00
+" Ellen M","Leonard","civili","Dorchester",0,0.00
+" Timothy","Crowley","ptl","West Roxbury",0,0.00
+" Angel M","Negron","civili","Dorchester",0,0.00
+" Timothy","Dacey","civili","Everett",0,0.00
+" James M","Barry","ptl","Reading",0,0.00
+" James M","Coughlan","ptl","South Boston",0,0.00
+" Andy","Martinez","civili","Hyde Park",0,0.00
+" Xia Marie","Yearwood-Garcia","civili",NULL,0,0.00
+" James M","Gaughan","capt","East Walpole",0,0.00
+" Andrew Thomas","Sullivan","civili",NULL,0,0.00
+" Yara","Figueroa","civili","Hyde Park",0,0.00
+" James M","O'Sullivan","civili",NULL,0,0.00
+" Ellen M","Cawley","civili","Dorchester",0,0.00
+" Ellen","Coppola","civili","Roslindale",0,0.00
+" James p","McMahon","civili","West Roxbury",0,0.00
+" James P","Naughton","ptl","West Roxbury",0,0.00
+" James P","Rowley","civili","Salem",0,0.00
+" James Peter","Nolan","sergt","Milton",0,0.00
+" James R","Martin","lieut","Medfield",0,0.00
+" Elizabeth H","Ahern","civili","East Boston",0,0.00
+" Timothy","Serrano-Diaz","civili",NULL,0,0.00
+" James Robert","Healey","civili",NULL,0,0.00
+" Timothy A","Smith","ptl","Dorchester",0,0.00
+" Timothy A","Warren","ptl","Charlestown",0,0.00
+" Elizabeth G","Willins","civili","Roxbury",0,0.00
+" Elizabeth Anne","Florentino","civili","West Roxbury",0,0.00
+" James W","Kennedy","civili","Roslindale",0,0.00
+" James W","Miller","depsup","Dorchester",0,0.00
+" Elizabeth","Vitello","civili",NULL,0,0.00
+" Janet","Dougherty","civili","West Roxbury",0,0.00
+" Janet E","Paige","civili","Quincy",0,0.00
+" Janet Marie","Happnie","civili",NULL,0,0.00
+" Elizabeth","Rivers","civili","Mattapan",0,0.00
+" Janice","Walls","civili","South End",0,0.00
+" Janice M","Harty","civili","Dorchester",0,0.00
+" Elizabeth","Regan","civili","Roslindale",0,0.00
+" Janine Marie","Butler","ptl","Dorchester",0,0.00
+" Jared","Doucette","civili",NULL,0,0.00
+" Jared","Hogan","ptl","South Boston",0,0.00
+" Jared","Taylor","ptl","Dorchester",0,0.00
+" Jarrell","Greene","ptl","Dorchester",0,0.00
+" Elizabeth","Lomuscio","civili",NULL,0,0.00
+" Jaslin Delilah","Del Valle","civili","Hyde Park",0,0.00
+" Jasmany E","Beato","ptl","Dorchester",0,0.00
+" Jason","Hessler","ptl","Dorchester",0,0.00
+" Jason","Marshall","civili","Roslindale",0,0.00
+" Andrew R","Coppola","civili","Roslindale",0,0.00
+" Jason","Whyte","civili","Dorchester",0,0.00
+" Jason A","Forde","ptl","Dorchester",0,0.00
+" Elizabeth","Campbell","civili","West Roxbury",0,0.00
+" Zi","Zou","ptl","Dorchester",0,0.00
+" Elisa","Reid","civili","Hyde Park",0,0.00
+" Jason Frank","Kosek","civili",NULL,0,0.00
+" Eliezer","Vazquez","ptl","Dorchester",0,0.00
+" Timothy Christopher","O'Sullivan","det","Medway",0,0.00
+" Jason M","Dunn","ptl","Hyde Park",0,0.00
+" Elice","Ratchell","det","Hyde Park",0,0.00
+" Jason O","Palmer","ptl","Roslindale",0,0.00
+" Jason Ryan","Gaffney","ptl","Roslindale",0,0.00
+" Jaunasse Elysee","Jean","ptl","Dorchester",0,0.00
+" Javier A","Pagan","ptl","West Roxbury",0,0.00
+" Eleanor S","Johnson","civili","Roxbury",0,0.00
+" Yeferson","Herrera","ptl","East Boston",0,0.00
+" Jazdiannet","Shackford","civili","Hyde Park",0,0.00
+" Eleanor Louise","Austin","civili","Hyde Park",0,0.00
+" Jean M","Keough","civili","Fall River",0,0.00
+" Jean Marie","Monahan","civili","South Boston",0,0.00
+" Jean Michel","Jean","ptl","Roslindale",0,0.00
+" Eleanor","Foley","civili","Charlestown",0,0.00
+" Jean V","Moise","civili","Dorchester",0,0.00
+" Elaine A","Satchell","civili","Dorchester",0,0.00
+" Jean-Pierre","Ricard","det","West Roxbury",0,0.00
+" Jeanne","Smallcomb","civili","East Sandwich",0,0.00
+" Jeanne L","Carroll","sergt","West Roxbury",0,0.00
+" Eileen M","Holmes","civili","South Boston",0,0.00
+" Eileen","Langley","civili","Dorchester",0,0.00
+" Edwin","De Jesus","ptl","Jamaica Plain",0,0.00
+" Edward W","Gleeson","civili","Winthrop",0,0.00
+" Andrew J","Guerini III","ptl","Dorchester",0,0.00
+" Jeffrey","Lopes","ptl","Hyde Park",0,0.00
+" Jeffrey","Smith","ptl","South Boston",0,0.00
+" Jeffrey B","Callahan","ptl","Dorchester",0,0.00
+" Edward S","Patterson","ptl","Hyde Park",0,0.00
+" Edward R","Hunter","civili","East Boston",0,0.00
+" Jeffrey D","Long","civili","Allston/Brighton",0,0.00
+" Edward P","Meade","sgtdet","Quincy",0,0.00
+" Edward G","O'Brien","civili","West Roxbury",0,0.00
+" Jeffrey M","Gelinas","ptl","East Boston",0,0.00
+" Jeffrey R","McGahan","ptl","Dorchester",0,0.00
+" Jeffrey T","Tobin","ptl","Dorchester",0,0.00
+" Jenna","Savage","civili","Roslindale",0,0.00
+" Jenna C","Wertheimer","civili","Allston/Brighton",0,0.00
+" Edward C","Boudreau","ptl","Foxboro",0,0.00
+" Jennifer","Aubry","civili","Roxbury",0,0.00
+" Jennifer","Connolly","ptl","Dorchester",0,0.00
+" Edward Anthony","Lukas","ptl","Roslindale",0,0.00
+" Jennifer","Ramirez","civili",NULL,0,0.00
+" Jennifer","Samson","civili","Dorchester",0,0.00
+" Jennifer A","Blackmore","civili","Dorchester",0,0.00
+" Jennifer A","Lyden","civili","Norwell",0,0.00
+" Jennifer D","Coren","civili","South End",0,0.00
+" Jennifer D","Durden","civili","Roxbury",0,0.00
+" Jennifer E","Grogan","ptl","Quincy",0,0.00
+" Jennifer Irene","Bencivenga","civili",NULL,0,0.00
+" Jennifer K","Fahey","civili","Quincy",0,0.00
+" Jennifer L","Sheehan","civili","Everett",0,0.00
+" Jennifer Lynne","Cellucci","civili","West Roxbury",0,0.00
+" Jennifer M","Carroll","civili","Dorchester",0,0.00
+" Jennifer Marie","Ozog","civili",NULL,0,0.00
+" Jennifer W","Maconochie","civili","West Roxbury",0,0.00
+" Jeremiah","Benton","det","Milton",0,0.00
+" Jeremiah J","Harrigan","sergt","Marshfield",0,0.00
+" Edward","Downs","ptl","Dorchester",0,0.00
+" Yolanda","Eugene","civili","Dorchester",0,0.00
+" Ednei","Furtado","ptl","Dorchester",0,0.00
+" Jerry","Suarez Jr.","civili","Framingham",0,0.00
+" Jerzy","Wasilewski","civili","Dorchester",0,0.00
+" Jessamyn","Chmura","civili",NULL,0,0.00
+" Jesse","Kennedy","ptl","Roslindale",0,0.00
+" Jessica","Betancourt","civili","Dorchester",0,0.00
+" Jessica","Gardner","det","Dorchester",0,0.00
+" Edna M","Humphrey","civili","Hyde Park",0,0.00
+" Edmund T","Powers Jr.","civili",NULL,0,0.00
+" Jessica M","Hayes","ptl","Dorchester",0,0.00
+" Edgar M","Varela","ptl","Hyde Park",0,0.00
+" Jillian K","Dineen","ptl","Marshfield",0,0.00
+" Jillian R","Serra","civili","Dorchester",0,0.00
+" Jimmy","Nguyen","ptl","Roslindale",0,0.00
+" Eddielee C","O'Neal","ptl","Jamaica Plain",0,0.00
+" Eddie","Hernandez","det","Brookline",0,0.00
+" Joan","Barbarisi","civili","East Boston",0,0.00
+" JoAnn","Brown","civili","Dorchester",0,0.00
+" Joanna Stephanie","Sariles","ptl",NULL,0,0.00
+" Joanne","Byrne","ptl","Roslindale",0,0.00
+" Joanne","Hopkins","civili","Stoughton",0,0.00
+" Joanne","Wright","civili","Milton",0,0.00
+" Earlean","Perryman","civili","Dorchester",0,0.00
+" Joao J","Monteiro","det","Hyde Park",0,0.00
+" Jocelyn","Montoya","civili",NULL,0,0.00
+" Joe","Martinez","ptl","West Roxbury",0,0.00
+" Eamon","Leblanc-Shoemaker","ptl","Dorchester",0,0.00
+" Dylan J","Coady","ptl","Dorchester",0,0.00
+" Dyan Marie","DiMarzo","civili","East Boston",0,0.00
+" Joel S","Flores","ptl","Roxbury",0,0.00
+" Joey","Tse","sgtdet","Braintree",0,0.00
+" Drew","Pokrant","ptl","Hyde Park",0,0.00
+" John","Beauchemin","ptl","West Roxbury",0,0.00
+" John","Ciccolo","ptl","Hyde Park",0,0.00
+" John","Hebard","civili","Dorchester",0,0.00
+" John","Hollerbach","ptl","Charlestown",0,0.00
+" Douglas","Toledo","civili","West Roxbury",0,0.00
+" Dorvens","Victorin","civili",NULL,0,0.00
+" Dorris E","Dean","civili",NULL,0,0.00
+" John","Woods","ptl","South Boston",0,0.00
+" Dorothy M","Evans","civili","Hanover",0,0.00
+" Doris L","Jackson-Suttles","civili","Roxbury",0,0.00
+" John A","Davis","civili",NULL,0,0.00
+" John A","Mccarthy","ptl","Dorchester",0,0.00
+" Dora Luz","Acevedo","civili","Roxbury",0,0.00
+" Donovan","Lamonica","civili","Dorchester",0,0.00
+" Donna M","Serino","civili","Dorchester",0,0.00
+" John Casey","Donovan","civili","Dorchester",0,0.00
+" John D","Brennan","civili","East Taunton",0,0.00
+" John D","Conway","sergt","Pembroke",0,0.00
+" John D","Dougherty","sergt","West Roxbury",0,0.00
+" Donald","Wightman","sergt","Braintree",0,0.00
+" Timothy J","Kelly","ptl","Natick",0,0.00
+" John E","Boyle","civili","Braintree",0,0.00
+" John Edward","O'Toole","ptl","Braintree",0,0.00
+" Donald","Nicholas","det","Medfield",0,0.00
+" Don C","Johnson","det","Randolph",0,0.00
+" John F","Devine","ptl","Weymouth",0,0.00
+" Dominic Jr","DiMare","civili","Hyde Park",0,0.00
+" John F","Harrington","ptl","Roslindale",0,0.00
+" Zilma","Merced","civili","Mattapan",0,0.00
+" John F","Hyslip","det","Quincy",0,0.00
+" John F","Kelleher","det","Weymouth",0,0.00
+" John F","Manning","civili",NULL,0,0.00
+" John Francis","Perucich III","civili",NULL,0,0.00
+" John Frawley","Whalen","civili","Allston/Brighton",0,0.00
+" Timothy James","Croke","ptl","Jamaica Plain",0,0.00
+" Dionne","Jones","ptl","Dorchester",0,0.00
+" Dina","Safa","civili","Back Bay/Beacon Hill",0,0.00
+" Dierdre","Connelly","civili",NULL,0,0.00
+" Dianna","Collins","civili","Mattapan",0,0.00
+" John J","Connolly Jr.","civili","West Roxbury",0,0.00
+" John J","Davin","capt","Medway",0,0.00
+" Diana M","Kardashian","civili","Roslindale",0,0.00
+" Diana","Vazquez","civili","Hyde Park",0,0.00
+" John J","O'Connor Jr.","sergt","Hanover",0,0.00
+" John J","Rago","civili","East Boston",0,0.00
+" John Joseph","Connolly","ptl","West Roxbury",0,0.00
+" John Joseph","Hamilton","sgtdet","West Roxbury",0,0.00
+" Destiny Marie","Santiago","civili",NULL,0,0.00
+" John L","Nguyen","det","Quincy",0,0.00
+" John L","Sullivan","det","Roslindale",0,0.00
+" Desmond","Gales","civili",NULL,0,0.00
+" Desiree M","Dusseault","civili","South Boston",0,0.00
+" Desiree Lee","Willett","civili",NULL,0,0.00
+" Derrick V","Harris","sergt","North Easton",0,0.00
+" Andrew David","Kelly","ptl","East Boston",0,0.00
+" John Michael","Flaherty","ptl","Dorchester",0,0.00
+" Derek L","Russo","ptl","Wakefield",0,0.00
+" Timothy Michael","Caulfield","ptl","Hyde Park",0,0.00
+" John P","Coleman","civili","Charlestown",0,0.00
+" Derek","Green","civili","Dorchester",0,0.00
+" Deondre Marquis","Molyneaux","civili","Dorchester",0,0.00
+" Dennis P","O'Rourke","ptl","Hyde Park",0,0.00
+" Timothy P","Duggan","sgtdet","Roslindale",0,0.00
+" John Patrick","Coffey","ptl","Dorchester",0,0.00
+" John Pierce","Wilton","civili",NULL,0,0.00
+" John R","Callahan","ptl","Hyde Park",0,0.00
+" John R","Galvin","ptl","Mattapan",0,0.00
+" Dennis P","Moore","ptl","West Roxbury",0,0.00
+" John R","Surette III","civili","South Boston",0,0.00
+" Dennis J","Leahy","ptl","Dorchester",0,0.00
+" John Thomas","Canty","ptl","Dorchester",0,0.00
+" Timothy P","Gaughan","ltdet","Walpole",0,0.00
+" John W","Harris","civili","Hyde Park",0,0.00
+" John Wilson","Wescott","ptl","West Roxbury",0,0.00
+" Johnathan P","Lewis","ptl","West Roxbury",0,0.00
+" Jonathan","Cooper","civili","Dorchester",0,0.00
+" Denise M","Perez","civili","Worcester",0,0.00
+" Jonathan A","Hyppolite","ptl","Dorchester",0,0.00
+" Jonathan Fernandes","Santos","ptl","Dorchester",0,0.00
+" Jonathan G","Muraca","ptl","Dorchester",0,0.00
+" Denise M","Merlino","civili","South Boston",0,0.00
+" Jordan","Wells","ptl","West Roxbury",0,0.00
+" Jordan D","Brown","civili",NULL,0,0.00
+" Jordan Dean","Aragones","ptl","Allston/Brighton",0,0.00
+" Jose","Burgos","ptl","Dorchester",0,0.00
+" Jose","Correia","ptl","Dorchester",0,0.00
+" Andrew Alexander","Joseph","civili",NULL,0,0.00
+" Denise K","Watson","ptl","Roxbury",0,0.00
+" Denise A","O'Sullivan","civili","Dorchester",0,0.00
+" Timothy Patrick","Sprague","ptl","Dorchester",0,0.00
+" Jose","Negron","civili",NULL,0,0.00
+" Jose A","Ruiz","ptl","Hyde Park",0,0.00
+" Jose Eduardo","Castro","civili",NULL,0,0.00
+" Jose Gabriel","Pereyra","civili",NULL,0,0.00
+" Jose J","Yurrita","ptl","Roslindale",0,0.00
+" Denise","O'Neal","civili","Hyde Park",0,0.00
+" Jose L","Lozano","sgtdet","Medfield",0,0.00
+" Jose M","Alfonso","ptl","Dedham",0,0.00
+" Jose M","Ranero","ptl","Foxboro",0,0.00
+" Timothy Paul","Coughlin","sergt","Dorchester",0,0.00
+" Jose Manuel","Rodriguez","civili",NULL,0,0.00
+" Jose Rafael","Sanchez","ptl","Roxbury",0,0.00
+" Denise","O'Brien","civili","East Boston",0,0.00
+" Joseph","Asaro","civili",NULL,0,0.00
+" Joseph","DeVito","ptl","Dorchester",0,0.00
+" Denis K","McCarthy","ptl","Dorchester",0,0.00
+" Joseph","Galvin","ptl","West Roxbury",0,0.00
+" Joseph","Haugh","ptl","Weymouth",0,0.00
+" Joseph","Hobin","ptl","Dorchester",0,0.00
+" Joseph","Houtmeyers","ptl","Allston/Brighton",0,0.00
+" Denean A","Tolliver","ptl","Milton",0,0.00
+" DeMon","Bills","civili","Roslindale",0,0.00
+" Delores E","Facey","det","North Easton",0,0.00
+" Tina","Seales","civili","Dorchester",0,0.00
+" Joseph","Ross","civili","West Roxbury",0,0.00
+" Deirdre B","Glynn","ptl","Braintree",0,0.00
+" Deirdre","Crowley","civili","South End",0,0.00
+" Joseph A","Murray Jr.","civili","Pawtucket",0,0.00
+" Joseph A","Ruka","ptl","Scituate",0,0.00
+" Joseph Albert","Caggiano","ptl","East Boston",0,0.00
+" Tina M","Roche","civili","Dorchester",0,0.00
+" Joseph David","Campot","ptl","South Boston",0,0.00
+" Joseph David","Reno","civili","South End",0,0.00
+" Joseph E","Brown","ptl","West Roxbury",0,0.00
+" Joseph E","Cheevers","sergt","South Boston",0,0.00
+" Debra D","Bynum","civili","Roxbury",0,0.00
+" Deborah Lynn","Olsen","civili","Dorchester",0,0.00
+" Joseph F","Creighton Sr.","civili","Allston/Brighton",0,0.00
+" Joseph F","Freeman","sgtdet","West Roxbury",0,0.00
+" Deborah Ann","Kosiorek","civili","West Roxbury",0,0.00
+" Deborah A","White","civili","Weymouth",0,0.00
+" Deborah A","Lang","civili",NULL,0,0.00
+" Deborah A","Lang","civili","Roslindale",0,0.00
+" Deanne M","Vitale","det","West Roxbury",0,0.00
+" Dawn R","Morse","civili","Roxbury",0,0.00
+" Dawn N","Joseph","ptl","Dorchester",0,0.00
+" Joseph L","Madden","civili","Dorchester",0,0.00
+" Joseph M","Cloherty","ptl","Dorchester",0,0.00
+" Dawn M","Simpson","civili","South Boston",0,0.00
+" Joseph M","Glynn","ptl","Marshfield",0,0.00
+" Dawn E","Gillis","ptl","Dorchester",0,0.00
+" Dawn Camille","Francis","civili",NULL,0,0.00
+" Joseph Michael","Young","sergt","Dorchester",0,0.00
+" Joseph P","Boyle","capt","Milton",0,0.00
+" Davy","Perez","ptl","Canton",0,0.00
+" Davilson","DosSantos","ptl","Roxbury",0,0.00
+" Joseph P","Keaveney","sergt","Westwood",0,0.00
+" David W","Singletary","det","Roxbury",0,0.00
+" Andrea M","Carr","ptl","Dorchester",0,0.00
+" David T","McNabb","ptl","Westwood",0,0.00
+" David P","McMenamy","ptl","West Roxbury",0,0.00
+" Andrea M","Allix","civili","Braintree",0,0.00
+" David N","Carabin","civili","Hyde Park",0,0.00
+" Joshua J","Delisle","ptl","Hanover",0,0.00
+" Joshua Matthew","Neely","ptl","Dorchester",0,0.00
+" Joyce","Kerrigan","civili","Hyde Park",0,0.00
+" Joyce C","Fitzgerald","civili","Hyde Park",0,0.00
+" Joyce M","McCormack","civili",NULL,0,0.00
+" Joyce V","Daroza","civili","Fenway/Kenmore",0,0.00
+" Juan","Henriquez","ptl","Central Boston",0,0.00
+" Juan","Herasme","civili","Roxbury",0,0.00
+" Juan A","Estevez","sgtdet","East Boston",0,0.00
+" Juan J","Torres","sgtdet","Saugus",0,0.00
+" Juan Pablo","Crespo Florez","civili","East Boston",0,0.00
+" Juana","Hidalgo","civili","Roxbury",0,0.00
+" Juanita Gross","Wornum","civili","Mattapan",0,0.00
+" Judith","Cherry","civili",NULL,0,0.00
+" Judith","Fulton","civili",NULL,0,0.00
+" Julian Andres","Velez","ptl","East Boston",0,0.00
+" Julian J","Turner","ptl","Mattapan",0,0.00
+" Juliana","Susi","civili","Hyde Park",0,0.00
+" Julie Anne","Kennedy","civili","South Boston",0,0.00
+" Julie Byrne","Devin","civili","South Boston",0,0.00
+" Julie E","Mullen","civili","Dorchester",0,0.00
+" Julie K","James","civili","Milton",0,0.00

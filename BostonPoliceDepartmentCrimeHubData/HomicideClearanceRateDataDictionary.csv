@@ -1,0 +1,4 @@
+Homicides,Annual number of homicides per year
+Homicides Cleared in year of occurrence,Annual number of homicides that occurred and were cleared in the same year
+Homicides Cleared that occurred in previous years,Annual number of homicides cleared that occurred in previous years
+Clearance rate,"Calculated using the total number of new homicides in a calendar year, and the total number of homicides that are cleared that calendar year – regardless of the year the homicide occurred within.  Total number cleared divided by total number occurred."
