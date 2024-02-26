@@ -6,7 +6,7 @@ SELECT
     o.last_name,
     o.rank,
     COALESCE(o.neighborhood, oe.neighborhood)AS neighborhood,
-    COUNT(a.allegation) AS allegation_count,
+    COUNT(a.allegation)/2 AS allegation_count,
     ROUND((COUNT(a.allegation) * 100.0) / ta.total, 2) AS allegation_percentage
 FROM
     public.bpd_officers o
