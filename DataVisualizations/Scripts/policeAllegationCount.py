@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #Query 2 visual: bar chart with allegations types frequency
-file_path = '/Users/mona/Downloads/OfficersDemographicAllegationsPer.csv'
+file_path = '../../QueriedCSVOutput/TopAllegationsCountOnOfficers_backup.csv'
 df_original = pd.read_csv(file_path)
 # print(df_original)
 

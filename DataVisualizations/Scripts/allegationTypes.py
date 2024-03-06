@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #Query 1 visual: bar chart with allegations types frequency
-file_path = '/Users/mona/Downloads/commonAllegations.csv'
+file_path = '../../QueriedCSVOutput/MostCommonAllegations.csv'
 df = pd.read_csv(file_path)
 
 # Convert 'allegation' column to string type
