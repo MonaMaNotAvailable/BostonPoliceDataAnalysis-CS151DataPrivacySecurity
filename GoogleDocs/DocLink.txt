@@ -1,0 +1,5 @@
+1) Checkpoint 3 - Analysis done with diff queries:
+https://docs.google.com/document/d/1-G3i7vyoT-_xE0hwLoJcmTejouE_otZFtw2ELXEazik/edit
+
+2) Checkpoint 4 - Implementation with OpenDp :
+https://docs.google.com/document/d/1fQjWv4tuH1c_cX26mAo6Qt5zfODX_8M0SJMOovoJ_YQ/edit
