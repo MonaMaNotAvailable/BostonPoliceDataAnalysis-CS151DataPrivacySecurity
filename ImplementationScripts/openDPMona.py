@@ -14,9 +14,18 @@ dp.enable_features('contrib')
 ### 2. SetUp ###
 
 # Read the CSV file into a DataFrame
-df = pd.read_csv('../OriginalDatasets/TheWokeWindowsProject/DataTables/officers_employees.csv')
+df = pd.read_csv('../DatasetForPrivacy/officers_employees.csv')
 # Print the 'total' column
 # print(df['total'])
+
+# # Get the number of rows
+# number_of_rows = len(df)
+# print(number_of_rows)
+
+# # Load the CSV file
+# df1 = pd.read_csv('../DatasetForPrivacy/PersonShot.csv')
+# number_of_rows1 = len(df1)
+# print(number_of_rows1)
 
 # Get the column names as a list
 col_names = df.columns.tolist()
