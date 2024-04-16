@@ -1,0 +1,54 @@
+bpd_allegations:  
+  bpd_allegations:
+    bpd_allegations:
+      row_privacy: True
+      rows: 10553 
+      ia_number:
+        type: string
+      incident_type:
+        type: string
+      received_date:
+        type: string  # Assuming date in string format; could be specified as a date type if supported.
+      summary:
+        type: string
+        missing_values: [""]  # If empty strings represent missing values.
+      first_name:
+        type: string
+        missing_values: [""]  # If empty strings represent missing values.
+      last_name:
+        type: string
+        missing_values: [""]  # If empty strings represent missing values.
+      badge:
+        type: string
+        missing_values: [""]  # If empty strings represent missing values.
+      allegation:
+        type: string
+        missing_values: [""]  # If empty strings represent missing values.
+      finding:
+        type: string
+        missing_values: [""]  # If empty strings represent missing values.
+      finding_date:
+        type: string  # Assuming date in string format; could be specified as a date type if supported.
+        missing_values: [""]  # If empty strings represent missing values.
+      penalty:
+        type: string
+        missing_values: [""]  # If empty strings represent missing values.
+      active:
+        type: boolean
+        true_values: ["TRUE"]  # Specify what represents a true boolean in the data.
+        false_values: ["FALSE", ""]  # Specify what represents a false boolean, including empty strings if applicable.
+      employee_id:
+        type: string
+        missing_values: [""] 
+      organization:
+        type: string
+        missing_values: [""]  # If empty strings represent missing values.
+      subtitle:
+        type: string
+        missing_values: [""]  # If empty strings represent missing values.
+      neighborhood:
+        type: string
+        missing_values: [""]  # If empty strings represent missing values.
+      rank:
+        type: string
+        missing_values: [""]  # If empty strings represent missing values.

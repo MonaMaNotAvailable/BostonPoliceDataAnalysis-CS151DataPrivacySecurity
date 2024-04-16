@@ -1,22 +1,34 @@
-from opendp.transformations import *
-from opendp.domains import option_domain, atom_domain
-from opendp.mod import enable_features
-enable_features('contrib') # we are using un-vetted constructors
+import snsql
+from snsql import Privacy
+import pandas as pd
+from prettytable import PrettyTable
+privacy = Privacy(epsilon=20.0, delta=0.01)
 
-num_tests = 3  # d_in=symmetric distance; we are told this is public knowledge
-budget = 1. # d_out=epsilon
+csv_path = 'DatasetForPrivacy/bpd-allegations.csv'
+meta_path = 'DatasetForPrivacy/bpd-allegations.yaml'
+# csv_path = 'DatasetForPrivacy/test.csv'
+# meta_path = 'DatasetForPrivacy/test.yaml'
 
-num_students = 50  # we are assuming this is public knowledge
-size = num_students * num_tests  # 150 exams
-bounds = (0., 100.)  # range of valid exam scores- clearly public knowledge
-constant = 70. # impute nullity with a guess
+pums = pd.read_csv(csv_path)
+reader = snsql.from_df(pums, privacy=privacy, metadata=meta_path)
+query = """
+SELECT 
+    allegation,
+    COUNT(*) AS frequency
+FROM 
+    bpd_allegations.bpd_allegations
+GROUP BY 
+    allegation
+ORDER BY 
+    frequency DESC;
+"""
+result = reader.execute(query)
+# print(result)
+table = PrettyTable()
+table.field_names = result[0] 
 
-transformation = (
-    make_split_dataframe(',', col_names=['Student', 'Score']) >>
-    make_select_column(key='Score', TOA=str) >>
-    then_cast(TOA=float) >>
-    then_impute_constant(constant=constant) >>
-    then_clamp(bounds) >>
-    then_resize(size, constant=constant) >>
-    then_mean()
-)
+# Add the rest of the data
+for row in result[1:]:
+    table.add_row(row)
+
+print(table)
