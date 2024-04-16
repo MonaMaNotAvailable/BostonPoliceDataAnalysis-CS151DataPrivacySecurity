@@ -17,13 +17,6 @@ def execute_privacy_query(query_info):
         epsilon_range (list of floats): Privacy parameter epsilon. Default is 20.0.
         delta (float): Privacy parameter delta. Default is 0.01.
     """
-    privacy = Privacy(epsilon=query_info['epsilon'], delta=query_info['delta'])
-    pums = pd.read_csv(query_info['csv_path'])
-    reader = snsql.from_df(pums, privacy=privacy, metadata=query_info['meta_path'])
-    result = reader.execute(query_info['query'])
-    return result
-
-def execute_privacy_query(query_info):
     pums = pd.read_csv(query_info['csv_path'])
     results = []
     for epsilon in query_info['epsilon_range']:
@@ -31,7 +24,7 @@ def execute_privacy_query(query_info):
         reader = snsql.from_df(pums, privacy=privacy, metadata=query_info['meta_path'])
         result = reader.execute(query_info['query'])
         results.append((epsilon, result))
-    return results
+    return results  
 
 # def display_results(result):
 #     table = PrettyTable()
