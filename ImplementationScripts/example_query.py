@@ -9,7 +9,8 @@ queries = [
             GROUP BY allegation
             ORDER BY frequency DESC;
         """,
-        "epsilon": 1.0,
+        # "epsilon_range": [0.1],
+        "epsilon_range": [0.1, 4.0],
         "delta": 0.01
     },
     {
@@ -23,7 +24,8 @@ queries = [
             GROUP BY neighborhood
             ORDER BY frequency DESC;
         """,
-        "epsilon": 1.0,
+        # "epsilon_range": [0.1],
+         "epsilon_range": [0.1, 4.0],
         "delta": 0.01
     }
     # Add more query objects as needed
