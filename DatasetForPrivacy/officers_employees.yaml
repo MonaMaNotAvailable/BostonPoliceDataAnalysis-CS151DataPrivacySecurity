@@ -1,83 +1,88 @@
 officers_employees:
-  row_privacy: True
-  rows: 3643
-  url:
-    type: string
-  employee_id:
-    type: string
-    missing_values: [""]
-  badge:
-    type: string
-    missing_values: [""]
-  name:
-    type: string
-    missing_values: [""]
-  title:
-    type: string
-    missing_values: [""]
-  org_url:
-    type: string
-    missing_values: [""]
-  organization:
-    type: string
-    missing_values: [""]
-  doa:
-    type: string  # Assuming date in string format; could be specified as a date type if supported.
-    missing_values: [""]
-  total:
-    type: float
-    missing_values: ["0.0"]  # Assuming "0.0" as a missing value if applicable.
-  regular:
-    type: float
-    missing_values: ["0.0"]
-  retro:
-    type: float
-    missing_values: ["0.0"]
-  other:
-    type: float
-    missing_values: ["0.0"]
-  overtime:
-    type: float
-    missing_values: ["0.0"]
-  injured:
-    type: float
-    missing_values: ["0.0"]
-  detail:
-    type: float
-    missing_values: ["0.0"]
-  quinn:
-    type: float
-    missing_values: ["0.0"]
-  details_count:
-    type: integer
-    missing_values: ["0"]
-  articles_officers_count:
-    type: integer
-    missing_values: ["0"]
-  articles_officers_to_review_count:
-    type: integer
-    missing_values: ["0"]
-  ia_score:
-    type: float
-    missing_values: ["0.0"]
-  field_contacts_count:
-    type: integer
-    missing_values: ["0"]
-  incidents_count:
-    type: integer
-    missing_values: ["0"]
-  swats_count:
-    type: integer
-    missing_values: ["0"]
-  citations_count:
-    type: integer
-    missing_values: ["0"]
-  postal:
-    type: string
-    missing_values: [""]
-  state:
-    type: string
-    missing_values: [""]
-  neighborhood:
-    type: string
-    missing_values: [""]
+  officers_employees:
+    officers_employees:
+      row_privacy: True
+      rows: 3643
+      url:
+        type: string
+        missing_values: [""]
+      employee_id:
+        type: string
+        missing_values: [""]
+      badge:
+        type: string
+        missing_values: [""]
+      name:
+        type: string
+        missing_values: [""]
+      title:
+        type: string
+        missing_values: [""]
+      org_url:
+        type: string
+        missing_values: [""]
+      organization:
+        type: string
+        missing_values: [""]
+      doa:
+        type: string  
+        missing_values: [""]
+      total:
+        type: float
+        missing_values: ["0.0"]  # Assuming "0.0" as a missing value if applicable
+        lower: 0
+        upper: 370000
+      regular:
+        type: string
+        missing_values: [""]
+      retro:
+        type: string
+        missing_values: [""]
+      other:
+        type: string
+        missing_values: [""]
+      overtime:
+        type: string
+        missing_values: [""]
+      injured:
+        type: string
+        missing_values: [""]
+      detail:
+        type: string
+        missing_values: [""]
+      quinn:
+        type: string
+        missing_values: [""]
+      details_count:
+        type: string
+        missing_values: [""]
+      articles_officers_count:
+        type: string
+        missing_values: [""]
+      articles_officers_to_review_count:
+        type: string
+        missing_values: [""]
+      ia_score:
+        type: string
+        missing_values: [""]
+      field_contacts_count:
+        type: string
+        missing_values: [""]
+      incidents_count:
+        type: string
+        missing_values: [""]
+      swats_count:
+        type: string
+        missing_values: [""]
+      citations_count:
+        type: string
+        missing_values: [""]
+      postal:
+        type: string
+        missing_values: [""]
+      state:
+        type: string
+        missing_values: [""]
+      neighborhood:
+        type: string
+        missing_values: [""]

@@ -1,53 +1,53 @@
 PersonShot:
-  row_privacy: True
-  rows: 1926  # Update this number based on the actual number of rows in your CSV file.
-  OBJECTID:
-    type: integer
-    missing_values: [""]
-  Incident_Num:
-    type: string
-    missing_values: [""]
-  Shooting_Date:
-    type: string  # This could be specified as a date-time type if your system supports it.
-    missing_values: [""]
-  District:
-    type: string
-    missing_values: [""]
-  Shooting_Type_V2:
-    type: string
-    missing_values: [""]
-  Victim_Gender:
-    type: string
-    missing_values: [""]
-  Victim_Race:
-    type: string
-    missing_values: [""]
-  Victim_Ethnicity_NIBRS:
-    type: string
-    missing_values: [""]
-  Multi_Victim:
-    type: boolean
-    true_values: ["1"]  # Assuming 1 represents true in your data.
-    false_values: ["0", ""]  # Assuming 0 represents false and empty strings as missing values.
-  IsPrimaryIncident:
-    type: boolean
-    true_values: ["1"]
-    false_values: ["0", ""]
-  HOUR_OF_DAY:
-    type: integer
-    missing_values: [""]
-  DAY_OF_WEEK:
-    type: integer
-    missing_values: [""]
-  YEAR:
-    type: integer
-    missing_values: [""]
-  QUARTER:
-    type: integer
-    missing_values: [""]
-  MONTH:
-    type: integer
-    missing_values: [""]
-  NEIGHBORHOOD:
-    type: string
-    missing_values: [""]
+  PersonShot:
+    PersonShot:
+      row_privacy: True
+      rows: 1926 
+      OBJECTID:
+        type: string
+        missing_values: [""]
+      Incident_Num:
+        type: string
+        missing_values: [""]
+      Shooting_Date:
+        type: string  
+        missing_values: [""]
+      District:
+        type: string
+        missing_values: [""]
+      Shooting_Type_V2:
+        type: string
+        missing_values: [""]
+      Victim_Gender:
+        type: string
+        missing_values: [""]
+      Victim_Race:
+        type: string
+        missing_values: [""]
+      Victim_Ethnicity_NIBRS:
+        type: string
+        missing_values: [""]
+      Multi_Victim:
+        type: string
+        missing_values: [""]
+      IsPrimaryIncident:
+        type: string
+        missing_values: [""]
+      HOUR_OF_DAY:
+        type: string
+        missing_values: [""]
+      DAY_OF_WEEK:
+        type: string
+        missing_values: [""]
+      YEAR:
+        type: string
+        missing_values: [""]
+      QUARTER:
+        type: string
+        missing_values: [""]
+      MONTH:
+        type: string
+        missing_values: [""]
+      NEIGHBORHOOD:
+        type: string
+        missing_values: [""]

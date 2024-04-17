@@ -31,33 +31,31 @@ queries = [
     {
         "name": "query4OfficersSalaries",
         "csv_path": "DatasetForPrivacy/officers_employees.csv",
-        "meta_path": "DatasetForPrivacy/officers_employees.csv",
+        "meta_path": "DatasetForPrivacy/officers_employees.yaml",
         "query": """
             SELECT title, AVG(total) AS avgSalaries
-            FROM officers
+            FROM officers_employees.officers_employees
             WHERE title IS NOT NULL
             GROUP BY title
-            HAVING AVG(total) IS NOT NULL
+            HAVING AVG(total) > 0
             ORDER BY avgSalaries DESC;
         """,
-        # "epsilon_range": [0.1],
-         "epsilon_range": [0.1, 4.0],
+         "epsilon_range": [0.1, 1.0],
         "delta": 0.01
     },
     {
         "name": "query5ShootingsNeighborhood",
-        "csv_path": "DatasetForPrivacy/bpd-allegations.csv",
-        "meta_path": "DatasetForPrivacy/bpd-allegations.yaml",
+        "csv_path": "DatasetForPrivacy/PersonShot.csv",
+        "meta_path": "DatasetForPrivacy/PersonShot.yaml",
         "query": """
-            SELECT neighborhood, COUNT(*) AS totalVictims
-            FROM shootings
-            WHERE neighborhood IS NOT NULL
-            GROUP BY neighborhood
+            SELECT NEIGHBORHOOD, COUNT(*) AS totalVictims
+            FROM PersonShot.PersonShot
+            WHERE NEIGHBORHOOD IS NOT NULL
+            GROUP BY NEIGHBORHOOD
             ORDER BY totalVictims DESC;
         """,
-        # "epsilon_range": [0.1],
          "epsilon_range": [0.1, 4.0],
         "delta": 0.01
     }
-    # Add more query objects as needed
+    #Add more query objects as needed
 ]
