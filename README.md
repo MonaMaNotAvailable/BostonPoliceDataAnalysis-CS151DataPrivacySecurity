@@ -14,4 +14,4 @@ https://docs.google.com/document/d/1-G3i7vyoT-_xE0hwLoJcmTejouE_otZFtw2ELXEazik/
 https://docs.google.com/document/d/1fQjWv4tuH1c_cX26mAo6Qt5zfODX_8M0SJMOovoJ_YQ/edit?usp=sharing
 
 Todo:
-- Side channel attacks prevetion
+- Side channel attacks prevention
