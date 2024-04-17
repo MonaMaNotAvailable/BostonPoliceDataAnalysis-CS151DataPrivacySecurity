@@ -3,6 +3,8 @@ from snsql import Privacy
 import snsql
 from prettytable import PrettyTable
 from example_query import queries
+import time
+import matplotlib.pyplot as plt
 
 def execute_privacy_query(query_info):
     """
@@ -22,8 +24,11 @@ def execute_privacy_query(query_info):
     for epsilon in query_info['epsilon_range']:
         privacy = Privacy(epsilon=epsilon, delta=query_info['delta'])
         reader = snsql.from_df(pums, privacy=privacy, metadata=query_info['meta_path'])
+        start_time = time.time()
         result = reader.execute(query_info['query'])
-        results.append((epsilon, result))
+        end_time = time.time()
+        duration = end_time - start_time
+        results.append((epsilon, result, duration))
     return results  
 
 # def display_results(result):
@@ -47,12 +52,37 @@ def display_results(result):
         print("No results to display.")
 
 def main():
+    plot_data = {}  # Dictionary to hold data for plotting
+
     for query_info in queries:
         results = execute_privacy_query(query_info)
-        for epsilon, result in results:
+        epsilons = []
+        durations = []
+        for epsilon, result, duration in results:
             print(f"Results for {query_info['name']} with epsilon={epsilon}:")
             display_results(result)
             print("\n")
+            epsilons.append(epsilon)
+            durations.append(duration)
+        
+        # Store the data for plotting
+        plot_data[query_info['name']] = (epsilons, durations)
+
+    # Plot the results
+    plot_query_runtimes(plot_data)
+
+def plot_query_runtimes(plot_data):
+    plt.figure(figsize=(10, 5))
+    for query_name, (epsilons, durations) in plot_data.items():
+        plt.plot(epsilons, durations, marker='o', label=f'{query_name} runtimes')
+    
+    plt.title('Query Runtime vs Epsilon')
+    plt.xlabel('Epsilon')
+    plt.ylabel('Runtime (seconds)')
+    plt.legend()
+    plt.grid(True)
+    plt.show()
+
 # def main():
 #     results = {}
 #     for query_info in queries:
