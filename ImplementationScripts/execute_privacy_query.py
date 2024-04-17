@@ -37,9 +37,12 @@ def display_results(result):
     if isinstance(result[0], list):  # Check if result contains column names
         table = PrettyTable()
         table.field_names = result[0]
+        sum = 0
         for row in result[1:]:
+            sum += row[1]
             table.add_row(row)
         print(table)
+        print(sum)
     else:
         print("No results to display.")
 

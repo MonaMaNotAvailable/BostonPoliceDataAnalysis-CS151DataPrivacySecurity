@@ -24,8 +24,8 @@ queries = [
             GROUP BY neighborhood
             ORDER BY frequency DESC;
         """,
-        # "epsilon_range": [0.1],
-         "epsilon_range": [0.1, 4.0],
+        "epsilon_range": [0.1],
+        #  "epsilon_range": [0.1, 4.0],
         "delta": 0.01
     },
     {
