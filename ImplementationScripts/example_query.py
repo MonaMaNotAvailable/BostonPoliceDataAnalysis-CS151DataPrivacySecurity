@@ -29,6 +29,28 @@ queries = [
         "delta": 0.01
     },
     {
+        "name": "query3AllegationCountOnOfficers",
+        "csv_path": "DatasetForPrivacy/AllegationCountOnOfficers.csv",
+        "meta_path": "DatasetForPrivacy/AllegationCountOnOfficers.yaml",
+        "query": """
+            SELECT
+                first_name,
+                last_name,
+                COUNT(allegation)/2 AS allegation_count
+            FROM
+                AllegationCountOnOfficers.AllegationCountOnOfficers
+            WHERE
+                active = TRUE AND allegation > 0
+            GROUP BY
+                first_name,
+                last_name
+            ORDER BY allegation_count DESC LIMIT 10
+        """,
+        "epsilon_range": [4.0],
+        "delta": 0.02,
+        "aggregrated_column": 2
+    },
+    {
         "name": "query4OfficersSalaries",
         "csv_path": "DatasetForPrivacy/officers_employees.csv",
         "meta_path": "DatasetForPrivacy/officers_employees.yaml",
