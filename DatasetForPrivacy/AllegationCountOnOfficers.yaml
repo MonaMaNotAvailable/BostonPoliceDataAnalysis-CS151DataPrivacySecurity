@@ -1,0 +1,122 @@
+AllegationCountOnOfficers:
+  AllegationCountOnOfficers:
+    AllegationCountOnOfficers:
+      row_privacy: True
+      rows: 15960
+      active:
+        type: boolean
+      employee_id:
+        type: string
+      first_name:
+        type: string
+      last_name:
+        type: string
+      title:
+        type: string
+      doa:
+        type: string  # or "type: date" if the engine supports date types and the format matches
+      badge:
+        type: string
+      zip_code:
+        type: string
+      city:
+        type: string
+      state:
+        type: string
+      neighborhood:
+        type: string
+      total:
+        type: string
+      rank:
+        type: string
+      retirement_date:
+        type: string 
+      retirement_amount:
+        type: string
+      ia_number:
+        type: string
+      incident_type:
+        type: string
+      received_date:
+        type: string  # or "type: date"
+      summary:
+        type: string
+      first_name-2:
+        type: string
+      last_name-2:
+        type: string
+      badge-2:
+        type: string
+      allegation:
+        type: string
+      finding:
+        type: string
+      finding_date:
+        type: string  # or "type: date"
+      penalty:
+        type: string
+        missing_values: [NULL]
+      active-2:
+        type: boolean
+      employee_id-2:
+        type: string
+      organization:
+        type: string
+      subtitle:
+        type: string
+      neighborhood-2:
+        type: string
+      rank-2:
+        type: string
+      employee_id-3:
+        type: string
+      badge-3:
+        type: string
+      name:
+        type: string
+      title-2:
+        type: string
+      organization-2:
+        type: string
+      doa-2:
+        type: string
+      total-2:
+        type: string
+      regular:
+        type: string
+      retro:
+        type: string
+      other:
+        type: string
+      overtime:
+        type: string
+      injured:
+        type: string
+      detail:
+        type: string
+      quinn:
+        type: string
+      details_count:
+        type: string
+      articles_officers_count:
+        type: string
+      articles_officers_to_review_count:
+        type: string
+      ia_score:
+        type: string
+      field_contacts_count:
+        type: string
+      incidents_count:
+        type: string
+      swats_count:
+        type: string
+      citations_count:
+        type: string
+      postal:
+        type: string
+      state-2:
+        type: string
+      neighborhood-3:
+        type: string
+
+

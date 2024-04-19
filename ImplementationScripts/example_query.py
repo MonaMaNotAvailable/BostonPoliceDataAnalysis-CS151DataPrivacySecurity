@@ -40,11 +40,11 @@ queries = [
             FROM
                 AllegationCountOnOfficers.AllegationCountOnOfficers
             WHERE
-                active = TRUE AND allegation > 0
+                active = TRUE
             GROUP BY
                 first_name,
                 last_name
-            ORDER BY allegation_count DESC LIMIT 10
+            ORDER BY allegation_count DESC
         """,
         "epsilon_range": [4.0],
         "delta": 0.02,
@@ -79,5 +79,4 @@ queries = [
          "epsilon_range": [0.1, 4.0],
         "delta": 0.01
     }
-    #Add more query objects as needed
 ]
