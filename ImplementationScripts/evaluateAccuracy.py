@@ -39,7 +39,7 @@ if __name__ == "__main__":
     # true_count = 4139
     sensitivity = 1051 #808 #365001 #59 #1051 #2406
     start = 15#100 #500 #10 #15 #50
-    end = 180#500 #1500 #50 #180 #350
+    end = 180#500 #1500 #50 #180 #350         2000/5 -> 400
      # Generating 10 points from 92 to 1486
     epsilon_values = np.linspace(start, end, 10, dtype=float).tolist()
     standard_errors = []
@@ -49,6 +49,9 @@ if __name__ == "__main__":
             error = evaluate_accuracy(sensitivity, epsilon)
             standard_errors.append(error)
             print("\n")
+    # print(evaluate_accuracy(59, 10))
+    # print(evaluate_accuracy(59, 50))
+    # print(evaluate_accuracy(59, 39))
     
     # Plot the results
     plot_standard_errors(epsilon_values, standard_errors)
