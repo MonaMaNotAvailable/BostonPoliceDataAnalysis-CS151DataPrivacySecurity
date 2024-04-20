@@ -28,7 +28,7 @@ def plot_standard_errors(epsilons, errors):
     """
     plt.figure(figsize=(10, 5))
     plt.plot(epsilons, errors, marker='o', linestyle='-', color='violet',)
-    plt.title('Query 2: Allegations by Neighborhood -- Standard Error vs Epsilon')
+    plt.title('Query 5: Shootings Count by Neighborhood -- Standard Error vs Epsilon')
     plt.xlabel('Epsilon')
     plt.ylabel('Standard Error')
     plt.grid(True)
@@ -37,11 +37,12 @@ def plot_standard_errors(epsilons, errors):
 if __name__ == "__main__":
     # Example usage
     # true_count = 4139
-    sensitivity = 1051 #808 #365001 #59 #1051 #2406
-    start = 15#100 #500 #10 #15 #50
-    end = 180#500 #1500 #50 #180 #350         2000/5 -> 400
+    sensitivity = 59 #808 #365001 #59 #1051 #2406
+    start =  0.05#100 #9 #0.05 #0.1 #1.0
+    end =  3.0#500 #60 #3.0 #4.0 #5.0         50/5 -> 10
      # Generating 10 points from 92 to 1486
-    epsilon_values = np.linspace(start, end, 10, dtype=float).tolist()
+
+    epsilon_values = np.linspace(start, end, 10, dtype=float).tolist()   #[0.01, 0.1, 0.5]
     standard_errors = []
 
     for epsilon in epsilon_values:
@@ -49,9 +50,12 @@ if __name__ == "__main__":
             error = evaluate_accuracy(sensitivity, epsilon)
             standard_errors.append(error)
             print("\n")
+
+    # print(evaluate_accuracy(59, 3))
+    # print(evaluate_accuracy(59, 0.05))
+    # print(evaluate_accuracy(59, 2.02))
+    # print(evaluate_accuracy(59, 40))
     # print(evaluate_accuracy(59, 10))
-    # print(evaluate_accuracy(59, 50))
-    # print(evaluate_accuracy(59, 39))
     
     # Plot the results
     plot_standard_errors(epsilon_values, standard_errors)
