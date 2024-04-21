@@ -27,7 +27,7 @@ AllegationCountOnOfficers:
         type: string
       total:
         type: string
-      rank:
+      ranking:
         type: string
       retirement_date:
         type: string 
