@@ -57,7 +57,7 @@ AllegationCountOnOfficers:
         type: string  # or "type: date"
       penalty:
         type: string
-        missing_values: [NULL]
+        # missing_values: [NULL]
       active-2:
         type: boolean
       employee_id-2:

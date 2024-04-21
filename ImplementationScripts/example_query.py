@@ -34,17 +34,19 @@ queries = [
             SELECT
                 first_name,
                 last_name,
-                COUNT(allegation)/2 AS allegation_count
+                ranking
+                (COUNT(allegation)/2) AS allegation_count
             FROM
                 AllegationCountOnOfficers.AllegationCountOnOfficers
             WHERE
                 active = TRUE
             GROUP BY
                 first_name,
-                last_name
+                last_name,
+                ranking
             ORDER BY allegation_count DESC
         """,
-        "epsilon_range": [0.05, 0.37777777777777777, 0.7055555555555556, 1.0333333333333334, 1.3611111111111112, 1.6888888888888889, 2.0166666666666666, 2.344444444444444, 2.672222222222222, 3.0],
+        "epsilon_range": [3.0]
         "delta": 0.01,
         "aggregrated_column": 2
     },
