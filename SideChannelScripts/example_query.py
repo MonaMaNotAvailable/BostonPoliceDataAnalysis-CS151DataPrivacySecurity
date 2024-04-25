@@ -36,7 +36,7 @@ queries = [
             FROM
                 AllegationCountOnOfficers.AllegationCountOnOfficers
             WHERE
-                active = TRUE and ranking = 'plt'
+                active = TRUE and ranking = 'ptl'
             GROUP BY
                 first_name,
                 last_name,

@@ -6,6 +6,7 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 from example_query import queries
 import numpy as np
+import random
 
 def execute_privacy_query(query_info):
     pums = pd.read_csv(query_info['csv_path'])
@@ -13,13 +14,34 @@ def execute_privacy_query(query_info):
 
     for epsilon in query_info['epsilon_range']:
         epsilon_times = []  # List to store execution times of 10 runs for this epsilon
-        for i in range(10):
+        for i in range(20):
             print(f"Iteration {i+1} for epsilon {epsilon}")
             start_time = time.time()  # Start time
             privacy = Privacy(epsilon=epsilon, delta=query_info['delta'])
             reader = snsql.from_df(pums, privacy=privacy, metadata=query_info['meta_path'])
             reader.execute(query_info['query'])
             execution_time = time.time() - start_time  # Execution time
+            epsilon_times.append(execution_time)
+        
+        execute_times[epsilon] = epsilon_times
+    return execute_times
+
+def execute_privacy_query_with_delay(query_info):
+    pums = pd.read_csv(query_info['csv_path'])
+    execute_times = {}  # Dictionary to hold execution times for each epsilon
+
+    for epsilon in query_info['epsilon_range']:
+        epsilon_times = []  # List to store execution times of 10 runs for this epsilon
+        for i in range(20):
+            print(f"Iteration {i+1} for epsilon {epsilon}")
+            start_time = time.time()  # Start time
+            privacy = Privacy(epsilon=epsilon, delta=query_info['delta'])
+            reader = snsql.from_df(pums, privacy=privacy, metadata=query_info['meta_path'])
+            reader.execute(query_info['query'])
+            # Introduce a random delay to mitigate timing attacks
+            random_delay = random.uniform(0.1, 0.5)  # Random delay between 0.1 and 0.5 seconds
+            time.sleep(random_delay)
+            execution_time = time.time() - start_time + random_delay # Execution time
             epsilon_times.append(execution_time)
         
         execute_times[epsilon] = epsilon_times
@@ -53,7 +75,8 @@ def main():
     plot_execution_data = {}
 
     for query_info in queries:
-        results = execute_privacy_query(query_info)
+        # results = execute_privacy_query(query_info)
+        results = execute_privacy_query_with_delay(query_info)
         plot_execution_data[query_info['name']] = results
         print(plot_execution_data)
 
